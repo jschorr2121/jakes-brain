@@ -58,6 +58,22 @@
         "startups",
         "mindset"
       ]
+    },
+    {
+      "id": "a4a29af3",
+      "category": "health",
+      "title": "Health & Wellness Master Note",
+      "content": "CORE PRINCIPLES\n\u2022 Never miss two days in a row\n\u2022 Breathe deeply, posture, eye contact\n\u2022 Don't complain\n\u2022 Meditate, stoicism\n\u2022 Embrace boredom \u2014 don't multitask to resist it\n\u2022 Do the obvious thing\n\u2022 Act as if there's no problem, even if there is\n\u2022 Your mind is searching for proof of what you believe\n\u2022 Be present and feel it in your body\n\u2022 Stop the tomorrow-ism \u2014 live today, do it now\n\u2022 Do things out of joy not because you have to\n\nPHYSICAL HABITS\n\u2022 Long strides, roll shoulders back\n\u2022 Close mouth, tongue on roof of mouth\n\u2022 Dead hangs (posture)\n\u2022 Reach max heart rate once a day\n\u2022 150 min/week cardio (walking, cycling, swimming)\n\u2022 10 minute post meal walk\n\u2022 Morning stretch and hip mobility\n\u2022 Fidget, stand up, move during sedentary work\n\u2022 Cold shower in the morning\n\u2022 Sunlight on skin\n\nNUTRITION\n\u2022 Eat whole foods \u2014 avoid long ingredient lists\n\u2022 No bioengineered food\n\u2022 Limit saturated fats (fatty red meats, butter, fried)\n\u2022 Olive oil instead of butter (go lighter on it)\n\u2022 Soluble fiber: oats, beans, lentils, flaxseed\n\u2022 Nuts daily: almonds, walnuts, pistachios\n\u2022 High protein breakfast\n\u2022 Fiber and protein focus\n\u2022 Eat slowly\n\u2022 Cut a bit: -1 BMI = +1 in test\n\u2022 Avoid food dyes, estrogenic chemicals, plastic\n\u2022 Lower soy\n\u2022 Electrolytes\n\nSUPPLEMENTS\n\u2022 Zinc every day\n\u2022 B12\n\u2022 Vitamin D\n\u2022 Magnesium\n\u2022 Fish oil / Omega 3\n\u2022 Creatine\n\u2022 Brazil nuts for T\n\u2022 Tongkat before lift\n\u2022 Fiber supplement\n\u2022 Morning: Culturelle, Gaviscon\n\nMENTAL / FOCUS\n\u2022 Low dopamine tasks first \u2014 high dopamine morning = struggle all day\n\u2022 Get in good emotional state before work\n\u2022 Think about good things that make you happy\n\u2022 Schedule distractions\n\u2022 Phone in another room \u2014 every check interrupts flow\n\u2022 Do 3 easy tasks first to build momentum\n\u2022 Digital detox breaks\n\u2022 30 day social media cleanse\n\u2022 Greyscale phone\n\u2022 No music while working out (podcast ok)\n\u2022 Earplugs for focus\n\nSLEEP\n\u2022 Meditate and wind down before bed\n\u2022 Mouth tape\n\u2022 Lights off well before bed\n\u2022 Cold sleep environment\n\u2022 Bed only for sleep\n\u2022 Breathe 5 mins before bed\n\u2022 Write down plan for next day\n\u2022 Pack bag and clothes night before\n\u2022 Record dreams\n\u2022 Journal at night\n\u2022 Make note of how you \"failed\" to get better\n\nCONVERSATION SKILLS\n\u2022 Don't interrogate \u2014 give information first\n\u2022 Show them why you're talking to them\n\u2022 Story questions: \"what\" or \"how\"\n\u2022 Active listening: ask questions\n\u2022 Other person is most interesting in the world\n\u2022 Wait a couple seconds after they're done\n\u2022 Pause before answering\n\u2022 Big words, vocab\n\u2022 Don't say um\n\nDOPAMINE / ADDICTION\n\u2022 Recognize how much you do it\n\u2022 Acknowledge the problem\n\u2022 Set physical and time barriers\n\u2022 Abstinence or moderation\n\u2022 Don't go straight for phone in morning\n\u2022 Don't OD on pleasure\n\u2022 If you do high dopamine in morning, you'll struggle all day\n\u2022 Take cold shower when urge hits\n\nULYSSES RULE\nMake a smart decision now to force you to be disciplined later\n\nOHIO\nOnly Handle It Once",
+      "createdAt": "2026-01-25T22:54:44.523866Z",
+      "tags": [
+        "habits",
+        "fitness",
+        "nutrition",
+        "sleep",
+        "mindset",
+        "dopamine",
+        "master-note"
+      ]
     }
   ],
   "categories": [
@@ -102,7 +118,13 @@
       "name": "Resources",
       "icon": "\ud83d\udd17",
       "description": "Tools, references, useful stuff"
+    },
+    {
+      "id": "health",
+      "name": "Health",
+      "icon": "\ud83d\udcaa",
+      "description": "Health, fitness, habits, and wellness"
     }
   ],
-  "lastUpdated": "2026-01-25T22:32:49.310041Z"
+  "lastUpdated": "2026-01-25T22:54:44.523877Z"
 }
