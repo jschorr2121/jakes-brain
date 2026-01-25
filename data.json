@@ -1,0 +1,108 @@
+{
+  "entries": [
+    {
+      "id": "f835dff3",
+      "category": "ideas",
+      "title": "Sessions \u2014 AI-initiated phone calls",
+      "content": "Time-boxed, AI-facilitated phone calls for focused reflection, planning, or journaling. The AI comes to you, on time, for a purpose \u2014 and then it leaves.\n\nKey insight: Flipping the interaction model. Instead of users remembering to open an app, the AI initiates contact at scheduled times. Creates habit without willpower.",
+      "createdAt": "2026-01-20T22:32:49.309928Z",
+      "tags": [
+        "startup",
+        "ai",
+        "voice",
+        "habits"
+      ]
+    },
+    {
+      "id": "36bf3fa3",
+      "category": "ideas",
+      "title": "Plannr \u2014 Group planning app",
+      "content": "Replace chaotic group chats with a shared planning feed. Anyone can propose plans, members mark going/maybe/not going.\n\nProblem: In large group chats, plans get buried. People miss messages. Coordination is painful.\n\nSolution: Dedicated feed for plans only. Clear attendance tracking. No noise.",
+      "createdAt": "2026-01-22T22:32:49.309999Z",
+      "tags": [
+        "startup",
+        "social",
+        "planning"
+      ]
+    },
+    {
+      "id": "fdc1b567",
+      "category": "learnings",
+      "title": "Supabase pg_cron needs pg_net extension",
+      "content": "When setting up cron jobs in Supabase to call Edge Functions, you need BOTH extensions:\n\n1. pg_cron \u2014 for scheduling\n2. pg_net \u2014 for making HTTP calls from SQL\n\nWithout pg_net, jobs fail with 'schema net does not exist'.",
+      "createdAt": "2026-01-23T22:32:49.310015Z",
+      "tags": [
+        "supabase",
+        "postgres",
+        "debugging"
+      ]
+    },
+    {
+      "id": "7d19c9c4",
+      "category": "thoughts",
+      "title": "AI assistants should be proactive",
+      "content": "The best AI assistant isn't one that waits to be asked. It's one that anticipates needs, suggests next steps, and takes initiative when direction is clear.\n\nPassive assistants are just search engines with extra steps.",
+      "createdAt": "2026-01-24T22:32:49.310024Z",
+      "tags": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "811c2a38",
+      "category": "quotes",
+      "title": "Ship MVP fast, polish later",
+      "content": "The goal isn't perfection. It's learning. You can't learn from users if they never see your product.\n\nPerfect is the enemy of shipped.",
+      "createdAt": "2026-01-25T22:32:49.310034Z",
+      "tags": [
+        "startups",
+        "mindset"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "thoughts",
+      "name": "Thoughts",
+      "icon": "\ud83d\udcad",
+      "description": "Quick ideas and reflections"
+    },
+    {
+      "id": "articles",
+      "name": "Articles",
+      "icon": "\ud83d\udcc4",
+      "description": "Saved links and reading material"
+    },
+    {
+      "id": "ideas",
+      "name": "Ideas",
+      "icon": "\ud83d\udca1",
+      "description": "Project and startup ideas"
+    },
+    {
+      "id": "learnings",
+      "name": "Learnings",
+      "icon": "\ud83e\udde0",
+      "description": "Things you've learned"
+    },
+    {
+      "id": "people",
+      "name": "People",
+      "icon": "\ud83d\udc64",
+      "description": "Notes about people"
+    },
+    {
+      "id": "quotes",
+      "name": "Quotes",
+      "icon": "\ud83d\udcac",
+      "description": "Things that resonated"
+    },
+    {
+      "id": "resources",
+      "name": "Resources",
+      "icon": "\ud83d\udd17",
+      "description": "Tools, references, useful stuff"
+    }
+  ],
+  "lastUpdated": "2026-01-25T22:32:49.310041Z"
+}
