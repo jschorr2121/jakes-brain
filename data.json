@@ -269,6 +269,19 @@
         "ai",
         "advice"
       ]
+    },
+    {
+      "id": "83be5f0c",
+      "category": "bookmarks",
+      "title": "Media Queue - To Read/Watch/Listen",
+      "content": "TO LISTEN:\n\u2022 Agentic Vista podcast (from dad)\n\nTO READ:\n\u2022 Clawd trading article (https://x.com/YanniTrades/status/2015531393024241966)\n\n---\nThis is a running list. Clawd updates it as Jake adds items.",
+      "createdAt": "2026-01-26T23:10:32.912829Z",
+      "tags": [
+        "media",
+        "queue",
+        "podcast",
+        "articles"
+      ]
     }
   ],
   "categories": [
@@ -326,5 +339,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-26T17:42:32.731290Z"
+  "lastUpdated": "2026-01-26T23:10:32.912858Z"
 }
