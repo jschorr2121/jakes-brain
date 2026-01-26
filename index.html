@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Jake's Brain</title>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     * {
       margin: 0;
@@ -797,7 +796,7 @@
       
       document.getElementById('modal-title').textContent = entry.title;
       document.getElementById('modal-meta').innerHTML = `<span>${cat.icon} ${cat.name}</span><span>•</span><span>${date}</span>`;
-      document.getElementById('modal-content').innerHTML = marked.parse(entry.content);
+      document.getElementById('modal-content').innerHTML = renderMarkdown(entry.content);
       
       const linkContainer = document.getElementById('modal-link-container');
       linkContainer.innerHTML = entry.url ? `<a href="${escapeHtml(entry.url)}" target="_blank" class="modal-link">🔗 Open Link</a>` : '';
@@ -929,6 +928,86 @@
       const div = document.createElement('div');
       div.textContent = text;
       return div.innerHTML;
+    }
+    
+    function renderMarkdown(text) {
+      if (!text) return '';
+      
+      // Escape HTML first
+      let html = text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+      
+      // Headers
+      html = html.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+      html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+      html = html.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+      
+      // Bold and italic
+      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+      
+      // Code blocks
+      html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+      
+      // Links
+      html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+      
+      // Lists - process line by line
+      const lines = html.split('\n');
+      let inList = false;
+      let listType = null;
+      const processed = [];
+      
+      for (let line of lines) {
+        const bulletMatch = line.match(/^- (.+)$/);
+        const numberMatch = line.match(/^(\d+)\. (.+)$/);
+        const checkboxMatch = line.match(/^- \[([ x])\] (.+)$/);
+        
+        if (checkboxMatch) {
+          if (!inList || listType !== 'ul') {
+            if (inList) processed.push(listType === 'ul' ? '</ul>' : '</ol>');
+            processed.push('<ul class="checklist">');
+            inList = true;
+            listType = 'ul';
+          }
+          const checked = checkboxMatch[1] === 'x' ? 'checked' : '';
+          processed.push(`<li><input type="checkbox" ${checked} disabled> ${checkboxMatch[2]}</li>`);
+        } else if (bulletMatch) {
+          if (!inList || listType !== 'ul') {
+            if (inList) processed.push(listType === 'ul' ? '</ul>' : '</ol>');
+            processed.push('<ul>');
+            inList = true;
+            listType = 'ul';
+          }
+          processed.push(`<li>${bulletMatch[1]}</li>`);
+        } else if (numberMatch) {
+          if (!inList || listType !== 'ol') {
+            if (inList) processed.push(listType === 'ul' ? '</ul>' : '</ol>');
+            processed.push('<ol>');
+            inList = true;
+            listType = 'ol';
+          }
+          processed.push(`<li>${numberMatch[2]}</li>`);
+        } else {
+          if (inList) {
+            processed.push(listType === 'ul' ? '</ul>' : '</ol>');
+            inList = false;
+            listType = null;
+          }
+          if (line.trim() === '') {
+            processed.push('<br>');
+          } else {
+            processed.push(line);
+          }
+        }
+      }
+      if (inList) {
+        processed.push(listType === 'ul' ? '</ul>' : '</ol>');
+      }
+      
+      return processed.join('\n');
     }
     
     // Restore from localStorage
