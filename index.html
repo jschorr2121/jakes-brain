@@ -554,7 +554,7 @@
   <div class="app">
     <aside class="sidebar">
       <h1>🧠 Notes</h1>
-      <p class="subtitle">Jake's Second Brain</p>
+      <p class="subtitle">Jake's Second Brain v2</p>
       
       <div class="search-bar">
         <input type="text" id="search" placeholder="Search...">
@@ -945,8 +945,8 @@
       html = html.replace(/^# (.+)$/gm, '<h1>$1</h1>');
       
       // Bold and italic
-      html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-      html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+      html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+      html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
       
       // Code blocks
       html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
@@ -954,60 +954,27 @@
       // Links
       html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
       
-      // Lists - process line by line
-      const lines = html.split('\n');
-      let inList = false;
-      let listType = null;
-      const processed = [];
+      // Lists
+      html = html.replace(/^- (.+)$/gm, '<li>$1</li>');
+      html = html.replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>');
       
-      for (let line of lines) {
-        const bulletMatch = line.match(/^- (.+)$/);
-        const numberMatch = line.match(/^(\d+)\. (.+)$/);
-        const checkboxMatch = line.match(/^- \[([ x])\] (.+)$/);
-        
-        if (checkboxMatch) {
-          if (!inList || listType !== 'ul') {
-            if (inList) processed.push(listType === 'ul' ? '</ul>' : '</ol>');
-            processed.push('<ul class="checklist">');
-            inList = true;
-            listType = 'ul';
-          }
-          const checked = checkboxMatch[1] === 'x' ? 'checked' : '';
-          processed.push(`<li><input type="checkbox" ${checked} disabled> ${checkboxMatch[2]}</li>`);
-        } else if (bulletMatch) {
-          if (!inList || listType !== 'ul') {
-            if (inList) processed.push(listType === 'ul' ? '</ul>' : '</ol>');
-            processed.push('<ul>');
-            inList = true;
-            listType = 'ul';
-          }
-          processed.push(`<li>${bulletMatch[1]}</li>`);
-        } else if (numberMatch) {
-          if (!inList || listType !== 'ol') {
-            if (inList) processed.push(listType === 'ul' ? '</ul>' : '</ol>');
-            processed.push('<ol>');
-            inList = true;
-            listType = 'ol';
-          }
-          processed.push(`<li>${numberMatch[2]}</li>`);
-        } else {
-          if (inList) {
-            processed.push(listType === 'ul' ? '</ul>' : '</ol>');
-            inList = false;
-            listType = null;
-          }
-          if (line.trim() === '') {
-            processed.push('<br>');
-          } else {
-            processed.push(line);
-          }
-        }
-      }
-      if (inList) {
-        processed.push(listType === 'ul' ? '</ul>' : '</ol>');
-      }
+      // Wrap consecutive <li> in <ul>
+      html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
       
-      return processed.join('\n');
+      // Paragraphs - double newlines
+      html = html.replace(/\n\n+/g, '</p><p>');
+      
+      // Single newlines to <br> (but not inside tags)
+      html = html.replace(/\n/g, '<br>');
+      
+      // Wrap in paragraph
+      html = '<p>' + html + '</p>';
+      
+      // Clean up empty paragraphs
+      html = html.replace(/<p><\/p>/g, '');
+      html = html.replace(/<p><br><\/p>/g, '');
+      
+      return html;
     }
     
     // Restore from localStorage
