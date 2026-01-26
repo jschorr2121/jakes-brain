@@ -46,7 +46,7 @@ def add_entry(category, title, content, url=None, tags=None):
 def main():
     parser = argparse.ArgumentParser(description="Add entry to Jake's Brain")
     parser.add_argument('--category', '-c', required=True, 
-                        choices=['thoughts', 'articles', 'ideas', 'learnings', 'people', 'quotes', 'resources'])
+                        choices=['thoughts', 'articles', 'ideas', 'learnings', 'people', 'quotes', 'resources', 'bookmarks'])
     parser.add_argument('--title', '-t', required=True)
     parser.add_argument('--content', required=True)
     parser.add_argument('--url', '-u')
