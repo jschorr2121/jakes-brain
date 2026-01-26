@@ -20,6 +20,8 @@
       --text-secondary: #888;
       --accent: #5B7C99;
       --accent-soft: rgba(91, 124, 153, 0.15);
+      --success: #22c55e;
+      --danger: #ef4444;
     }
     
     body {
@@ -37,7 +39,12 @@
     }
     
     header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
       margin-bottom: 2rem;
+      flex-wrap: wrap;
+      gap: 1rem;
     }
     
     h1 {
@@ -49,6 +56,26 @@
     .subtitle {
       color: var(--text-secondary);
       font-size: 1rem;
+    }
+    
+    .add-btn {
+      padding: 0.75rem 1.5rem;
+      background: var(--accent);
+      border: none;
+      border-radius: 10px;
+      color: white;
+      font-size: 1rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    
+    .add-btn:hover {
+      background: #4a6b84;
+      transform: translateY(-1px);
     }
     
     .search-bar {
@@ -185,6 +212,7 @@
       -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
       overflow: hidden;
+      white-space: pre-wrap;
     }
     
     .entry-tags {
@@ -300,6 +328,132 @@
       white-space: pre-wrap;
     }
     
+    /* Form Styles */
+    .form-group {
+      margin-bottom: 1.25rem;
+    }
+    
+    .form-group label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: 500;
+      color: var(--text);
+    }
+    
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 1rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    
+    .form-group input:focus,
+    .form-group textarea:focus,
+    .form-group select:focus {
+      border-color: var(--accent);
+    }
+    
+    .form-group textarea {
+      min-height: 150px;
+      resize: vertical;
+    }
+    
+    .form-group small {
+      display: block;
+      margin-top: 0.25rem;
+      color: var(--text-secondary);
+      font-size: 0.8rem;
+    }
+    
+    .form-actions {
+      display: flex;
+      gap: 1rem;
+      justify-content: flex-end;
+      margin-top: 1.5rem;
+    }
+    
+    .btn {
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      border: none;
+    }
+    
+    .btn-primary {
+      background: var(--accent);
+      color: white;
+    }
+    
+    .btn-primary:hover {
+      background: #4a6b84;
+    }
+    
+    .btn-secondary {
+      background: var(--surface-hover);
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    
+    .btn-secondary:hover {
+      background: var(--border);
+    }
+    
+    .btn-danger {
+      background: var(--danger);
+      color: white;
+    }
+    
+    .btn-danger:hover {
+      background: #dc2626;
+    }
+    
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      padding: 1rem 1.5rem;
+      background: var(--success);
+      color: white;
+      border-radius: 10px;
+      font-weight: 500;
+      z-index: 200;
+      animation: slideIn 0.3s ease;
+    }
+    
+    .toast.error {
+      background: var(--danger);
+    }
+    
+    @keyframes slideIn {
+      from { transform: translateY(100%); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    
+    .delete-btn {
+      background: none;
+      border: none;
+      color: var(--danger);
+      cursor: pointer;
+      padding: 0.5rem;
+      opacity: 0.7;
+      transition: opacity 0.2s;
+    }
+    
+    .delete-btn:hover {
+      opacity: 1;
+    }
+    
     @media (max-width: 640px) {
       .container {
         padding: 1rem;
@@ -312,14 +466,28 @@
       h1 {
         font-size: 1.5rem;
       }
+      
+      header {
+        flex-direction: column;
+      }
+      
+      .add-btn {
+        width: 100%;
+        justify-content: center;
+      }
     }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
-      <h1>🧠 Jake's Brain</h1>
-      <p class="subtitle">Your second brain — thoughts, ideas, and everything worth remembering</p>
+      <div>
+        <h1>🧠 Jake's Brain</h1>
+        <p class="subtitle">Your second brain — thoughts, ideas, and everything worth remembering</p>
+      </div>
+      <button class="add-btn" onclick="openAddModal()">
+        <span>+</span> Add Entry
+      </button>
     </header>
     
     <div class="search-bar">
@@ -347,18 +515,20 @@
     
     <div class="entries" id="entries">
       <div class="empty-state">
-        <h2>Your brain is empty... for now</h2>
-        <p>Send stuff to Clawdbot on Telegram to start filling it up!</p>
-        <p style="margin-top: 1rem; font-size: 0.9rem;">Try: "save this: [your thought or link]"</p>
+        <h2>Loading...</h2>
       </div>
     </div>
   </div>
   
-  <div class="modal-overlay" id="modal">
+  <!-- View Entry Modal -->
+  <div class="modal-overlay" id="viewModal">
     <div class="modal">
       <div class="modal-header">
         <span class="modal-title" id="modal-title">Entry</span>
-        <button class="modal-close" onclick="closeModal()">&times;</button>
+        <div style="display: flex; gap: 0.5rem; align-items: center;">
+          <button class="delete-btn" id="delete-btn" title="Delete entry">🗑️</button>
+          <button class="modal-close" onclick="closeViewModal()">&times;</button>
+        </div>
       </div>
       <div class="modal-body">
         <div class="modal-meta" id="modal-meta"></div>
@@ -369,19 +539,73 @@
     </div>
   </div>
   
+  <!-- Add Entry Modal -->
+  <div class="modal-overlay" id="addModal">
+    <div class="modal">
+      <div class="modal-header">
+        <span class="modal-title">Add New Entry</span>
+        <button class="modal-close" onclick="closeAddModal()">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="addForm" onsubmit="handleAddEntry(event)">
+          <div class="form-group">
+            <label for="entry-category">Category</label>
+            <select id="entry-category" required>
+              <option value="thoughts">💭 Thoughts</option>
+              <option value="ideas">💡 Ideas</option>
+              <option value="learnings">🧠 Learnings</option>
+              <option value="articles">📄 Articles</option>
+              <option value="resources">🔗 Resources</option>
+              <option value="quotes">💬 Quotes</option>
+              <option value="people">👤 People</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="entry-title">Title</label>
+            <input type="text" id="entry-title" required placeholder="What is this about?">
+          </div>
+          <div class="form-group">
+            <label for="entry-content">Content</label>
+            <textarea id="entry-content" required placeholder="Write your thoughts, notes, or details..."></textarea>
+          </div>
+          <div class="form-group">
+            <label for="entry-url">URL (optional)</label>
+            <input type="url" id="entry-url" placeholder="https://...">
+          </div>
+          <div class="form-group">
+            <label for="entry-tags">Tags (optional)</label>
+            <input type="text" id="entry-tags" placeholder="startup, ai, idea (comma-separated)">
+            <small>Separate tags with commas</small>
+          </div>
+          <div class="form-actions">
+            <button type="button" class="btn btn-secondary" onclick="closeAddModal()">Cancel</button>
+            <button type="submit" class="btn btn-primary">Save Entry</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  
   <script>
     let data = { entries: [], categories: [] };
     let activeFilter = 'all';
+    let currentEntryId = null;
     
     async function loadData() {
       try {
-        const response = await fetch('data.json');
+        const response = await fetch('data.json?' + Date.now());
         data = await response.json();
         renderFilters();
         renderStats();
         renderEntries();
       } catch (e) {
         console.error('Failed to load data:', e);
+        document.getElementById('entries').innerHTML = `
+          <div class="empty-state">
+            <h2>Failed to load data</h2>
+            <p>Check if data.json exists</p>
+          </div>
+        `;
       }
     }
     
@@ -444,8 +668,7 @@
         container.innerHTML = `
           <div class="empty-state">
             <h2>${search ? 'No matches found' : 'Your brain is empty... for now'}</h2>
-            <p>${search ? 'Try a different search term' : 'Send stuff to Clawdbot on Telegram to start filling it up!'}</p>
-            ${!search ? '<p style="margin-top: 1rem; font-size: 0.9rem;">Try: "save this: [your thought or link]"</p>' : ''}
+            <p>${search ? 'Try a different search term' : 'Click "Add Entry" above to start filling it up!'}</p>
           </div>
         `;
         return;
@@ -458,7 +681,7 @@
         });
         
         return `
-          <div class="entry-card" onclick="openModal('${entry.id}')">
+          <div class="entry-card" onclick="openViewModal('${entry.id}')">
             <div class="entry-header">
               <span class="entry-icon">${cat.icon}</span>
               <span class="entry-title">${escapeHtml(entry.title)}</span>
@@ -475,9 +698,11 @@
       }).join('');
     }
     
-    function openModal(id) {
+    function openViewModal(id) {
       const entry = data.entries.find(e => e.id === id);
       if (!entry) return;
+      
+      currentEntryId = id;
       
       const cat = data.categories.find(c => c.id === entry.category) || { icon: '📝', name: 'Note' };
       const date = new Date(entry.createdAt).toLocaleDateString('en-US', { 
@@ -512,11 +737,102 @@
         tagsContainer.innerHTML = '';
       }
       
-      document.getElementById('modal').classList.add('active');
+      document.getElementById('delete-btn').onclick = () => deleteEntry(id);
+      document.getElementById('viewModal').classList.add('active');
     }
     
-    function closeModal() {
-      document.getElementById('modal').classList.remove('active');
+    function closeViewModal() {
+      document.getElementById('viewModal').classList.remove('active');
+      currentEntryId = null;
+    }
+    
+    function openAddModal() {
+      document.getElementById('addForm').reset();
+      document.getElementById('addModal').classList.add('active');
+    }
+    
+    function closeAddModal() {
+      document.getElementById('addModal').classList.remove('active');
+    }
+    
+    function handleAddEntry(event) {
+      event.preventDefault();
+      
+      const category = document.getElementById('entry-category').value;
+      const title = document.getElementById('entry-title').value.trim();
+      const content = document.getElementById('entry-content').value.trim();
+      const url = document.getElementById('entry-url').value.trim();
+      const tagsInput = document.getElementById('entry-tags').value.trim();
+      
+      const tags = tagsInput ? tagsInput.split(',').map(t => t.trim()).filter(Boolean) : [];
+      
+      const entry = {
+        id: generateId(),
+        category,
+        title,
+        content,
+        createdAt: new Date().toISOString(),
+        tags
+      };
+      
+      if (url) entry.url = url;
+      
+      data.entries.push(entry);
+      data.lastUpdated = new Date().toISOString();
+      
+      // Save to localStorage as backup
+      localStorage.setItem('brain-entries-backup', JSON.stringify(data.entries));
+      
+      // Download updated data.json
+      downloadData();
+      
+      closeAddModal();
+      renderStats();
+      renderEntries();
+      showToast('Entry added! Download and replace data.json to save permanently.');
+    }
+    
+    function deleteEntry(id) {
+      if (!confirm('Delete this entry?')) return;
+      
+      data.entries = data.entries.filter(e => e.id !== id);
+      data.lastUpdated = new Date().toISOString();
+      
+      localStorage.setItem('brain-entries-backup', JSON.stringify(data.entries));
+      downloadData();
+      
+      closeViewModal();
+      renderStats();
+      renderEntries();
+      showToast('Entry deleted! Download and replace data.json to save permanently.');
+    }
+    
+    function downloadData() {
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'data.json';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+    
+    function generateId() {
+      return Math.random().toString(36).substr(2, 8);
+    }
+    
+    function showToast(message, isError = false) {
+      const existing = document.querySelector('.toast');
+      if (existing) existing.remove();
+      
+      const toast = document.createElement('div');
+      toast.className = 'toast' + (isError ? ' error' : '');
+      toast.textContent = message;
+      document.body.appendChild(toast);
+      
+      setTimeout(() => toast.remove(), 4000);
     }
     
     function escapeHtml(text) {
@@ -525,15 +841,37 @@
       return div.innerHTML;
     }
     
+    // Restore from localStorage backup if available
+    function restoreFromBackup() {
+      const backup = localStorage.getItem('brain-entries-backup');
+      if (backup) {
+        try {
+          const backupEntries = JSON.parse(backup);
+          if (backupEntries.length > data.entries.length) {
+            data.entries = backupEntries;
+            renderStats();
+            renderEntries();
+            showToast('Restored entries from local backup');
+          }
+        } catch (e) {}
+      }
+    }
+    
     document.getElementById('search').addEventListener('input', renderEntries);
-    document.getElementById('modal').addEventListener('click', (e) => {
-      if (e.target.id === 'modal') closeModal();
+    document.getElementById('viewModal').addEventListener('click', (e) => {
+      if (e.target.id === 'viewModal') closeViewModal();
+    });
+    document.getElementById('addModal').addEventListener('click', (e) => {
+      if (e.target.id === 'addModal') closeAddModal();
     });
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') closeModal();
+      if (e.key === 'Escape') {
+        closeViewModal();
+        closeAddModal();
+      }
     });
     
-    loadData();
+    loadData().then(restoreFromBackup);
   </script>
 </body>
 </html>

@@ -88,6 +88,187 @@
         "brainstorm",
         "master-note"
       ]
+    },
+    {
+      "id": "4f3c9640",
+      "category": "resources",
+      "title": "Startup Learning Path",
+      "content": "\n**Courses & Content:**\n- [ ] Y Combinator Startup School\n- [ ] Paul Graham - Schlep Filter essay\n- [ ] Paul Graham full article list: paulgraham.com/articles.html\n- [ ] How to Get Startup Ideas: paulgraham.com/startupideas.html\n- [ ] Lenny's Podcast (product/growth)\n\n**Videos:**\n- [ ] Vibe Coding Tutorial: youtube.com/watch?v=2FJlhoDYNPE\n- [ ] \"Give me 9 minutes and I'll teach you how to successfully launch a new app\"\n\n**Practice:**\n- Talk to 5-10 users weekly\n- Ask: \"What did you try before?\" / \"What's annoying about this today?\" / \"What happens if this isn't solved?\"\n- Kill features ruthlessly\n",
+      "createdAt": "2026-01-26T17:42:32.731171Z",
+      "tags": [
+        "learning",
+        "startup",
+        "todo"
+      ]
+    },
+    {
+      "id": "8b97e089",
+      "category": "learnings",
+      "title": "Paul Graham - How to Get Startup Ideas",
+      "content": "\n**Core principles:**\n- Don't try to think up ideas\u2014NOTICE problems you personally experience\n- Live in the future, then build what's missing\n- Ideas are noticed, not invented\n\n**What makes a good idea:**\n- Founders want it themselves\n- Founders can build it\n- Others underestimate it\n- Small group wants it BADLY > large group mildly interested\n- \"A well, not a puddle\"\n\n**Key test:** Who needs this RIGHT NOW?\n\n**Filters to turn OFF:**\n1. Schlep filter - fear of messy, tedious work\n2. Unsexy filter - boring but valuable domains\n3. \"Could this be a big company\" filter\n\n**Good trick:** Ask what you wish someone else would build, so you could use it.\n\n**Crowded markets can be good** if you see what competitors overlook.\n",
+      "createdAt": "2026-01-26T17:42:32.731205Z",
+      "tags": [
+        "startup",
+        "paul-graham",
+        "ideas"
+      ],
+      "url": "https://paulgraham.com/startupideas.html"
+    },
+    {
+      "id": "89f6bc64",
+      "category": "learnings",
+      "title": "YC Talk - Should You Start a Startup?",
+      "content": "\n**Most important trait: RESILIENCE**\n- Startups require enduring rejection and slow progress\n- Confidence \u2260 resilience; quiet founders can be toughest\n\n**Ask: \"What do I have to lose?\"**\n- Worst case: ~1 year, little/no pay, startup fails\n- If you can't live with worst case, anxiety will hurt execution\n\n**Motivation matters less than you think**\n- Starting for money or curiosity is fine\n- What sustains you: interest in problem + love for co-founders\n\n**Startup experience is valuable even if you fail**\n- Learn sales, product, leadership fast\n- Former founders are highly valued hires\n\n**Signal of a good idea:**\n- A few users who LOVE it > many who are indifferent\n- One passionate user beats a big waitlist\n\n**When to quit your job:**\n- You're energized by side projects, drained by your job\n- Great co-founder + mutual desire to start is RARE\u2014act on it\n",
+      "createdAt": "2026-01-26T17:42:32.731215Z",
+      "tags": [
+        "startup",
+        "yc",
+        "advice"
+      ]
+    },
+    {
+      "id": "ff593953",
+      "category": "learnings",
+      "title": "Breaking Out of FAANG",
+      "content": "\n**Common myths:**\n- \"I'll work on hardest problems at scale\" \u2192 Most jobs are narrow, get killed\n- \"FAANG experience transfers to startups\" \u2192 Often doesn't; must unlearn process\n- \"VCs fund ex-Google easily\" \u2192 Brand helps briefly, then fades\n\n**The FAANG trap:**\n- Highly gamified retention (levels, promos, bonuses)\n- Equity vesting = loss aversion \u2192 hard to leave\n- Lifestyle inflation = no runway\n- Talent \"warehoused\" on low-impact projects\n\n**Warning sign to quit:**\nYou hate your job and fantasize daily about quitting.\n\n**How to avoid getting stuck:**\n- Keep personal burn low\n- Have clear plan (what you want + when you'll leave)\n- Remember: good engineers can usually come back\n\n**Bottom line:**\nIf happy \u2192 stay. If miserable and staying \"because math\" \u2192 break the spell and leave.\n",
+      "createdAt": "2026-01-26T17:42:32.731221Z",
+      "tags": [
+        "career",
+        "faang",
+        "startup"
+      ]
+    },
+    {
+      "id": "29033aca",
+      "category": "ideas",
+      "title": "Sessions - Product Details",
+      "content": "\n**Core Loop:**\nMorning + Night is the correct core loop.\n\n**Morning session (5-10 min):**\n- Purpose: reduce cognitive overload before day starts\n- Outcome: clear priorities\n- Prompts: \"What matters today?\" / \"Top 1-2 non-negotiables?\" / \"What might get in the way?\"\n\n**Night session (5-10 min):**\n- Purpose: close loops, reduce mental residue\n- Outcome: emotional + cognitive closure\n- Prompts: \"What happened today?\" / \"What worked/didn't?\" / \"What can you let go of?\"\n\n**Key insight:** This is not therapy. It's mental bookkeeping.\n\n**What the AI should be:** Calm, curious, slightly structured, emotionally neutral but warm\n**What it should NOT be:** Therapist, life coach, motivational speaker, advice-heavy\n\n**Key rule:** The AI should never talk for long. It exists to PULL, not push.\n",
+      "createdAt": "2026-01-26T17:42:32.731227Z",
+      "tags": [
+        "sessions",
+        "product",
+        "ai-voice"
+      ]
+    },
+    {
+      "id": "f72a0c0e",
+      "category": "ideas",
+      "title": "Sessions - Feature Backlog",
+      "content": "\n**Todo:**\n- [ ] Time injections during calls\n- [ ] Specific session types (Morning goal builder, Evening reflection)\n- [ ] Calendar day scheduling\n- [ ] Session edit/delete above past calls\n- [ ] Allow delete of session instances\n- [ ] Fix: daily scheduled sessions not showing for tomorrow\n- [ ] 'Skip' feature that doesn't affect rest of sessions\n- [ ] Number of sessions tracker (broken)\n- [ ] Calendar picker buggy\n- [ ] Store insights even if session deleted\n- [ ] OpenAI Realtime phone number setup\n\n**VAPI observations:**\n- Interrupts sometimes\n- Some gibberish at beginning\n- Ask one question at a time\n- Use 'purpose' to guide the session\n",
+      "createdAt": "2026-01-26T17:42:32.731231Z",
+      "tags": [
+        "sessions",
+        "todo",
+        "features"
+      ]
+    },
+    {
+      "id": "228e1969",
+      "category": "ideas",
+      "title": "Plannr - Full Pitch",
+      "content": "\n**The Problem:**\n- Group chats are terrible for making plans\n- Messages get buried, ideas get lost, no one knows who's coming\n- When 15-30 people involved, almost impossible to coordinate\n\n**The Solution:**\nPlannr replaces the group chat with a shared planning feed and calendar.\n- Anyone can propose a plan\n- Everyone marks: In / Tentative / Out\n- Instantly see if there's enough interest\n- All plans in one place, not lost in messages\n\n**How It Works:**\n1. Join or create a group with friends\n2. Propose a plan (\"Party at John's on Friday\")\n3. Plans appear in shared group feed\n4. Members RSVP in one tap\n5. Plans gain momentum or naturally die\u2014no endless back-and-forth\n\n**Key Feature - Shared Group Calendar:**\n- Shows what group is doing each day\n- Displays each friend's status\n- Makes conflicts immediately obvious\n\n**Initial Users:** College students - friend groups, parties, trips, clubs\n\n**Ad Concept:** Chaotic group chat trying to plan \u2192 Cut to Plannr: one plan, clear RSVPs, done.\n",
+      "createdAt": "2026-01-26T17:42:32.731236Z",
+      "tags": [
+        "plannr",
+        "pitch",
+        "startup"
+      ]
+    },
+    {
+      "id": "bb8554e1",
+      "category": "ideas",
+      "title": "Plannr - Feature Backlog",
+      "content": "\n**Todo:**\n- [ ] Notifications\n- [ ] Comments on plans\n- [ ] \"Idea\" tab (coming soon)\n- [ ] Tutorial/info page\n- [ ] Revenue and marketing plan\n- [ ] Voting process for proposed plans\n- [ ] \"When is everyone free\" feature\n\n**Future:**\n- Activity and event suggestions based on location, preferences, group size\n",
+      "createdAt": "2026-01-26T17:42:32.731241Z",
+      "tags": [
+        "plannr",
+        "todo",
+        "features"
+      ]
+    },
+    {
+      "id": "c28d8331",
+      "category": "resources",
+      "title": "Technical Stack to Learn",
+      "content": "\n**Frontend:**\n- React + Next.js\n- Tailwind CSS\n\n**Backend:**\n- Python FastAPI\n- REST APIs\n- Background jobs\n\n**Database:**\n- PostgreSQL\n- Prisma ORM\n\n**AI:**\n- LLM APIs\n- Prompting and eval\n- Simple agents\n\n**Practice Project - Build a product with:**\n- Auth\n- Database\n- Payments (Stripe test mode)\n- Deployed\n\n**Resources:**\n- \"Build a SaaS\" YouTube tutorials\n- Open source projects\n- Documentation\n",
+      "createdAt": "2026-01-26T17:42:32.731245Z",
+      "tags": [
+        "technical",
+        "learning",
+        "stack"
+      ]
+    },
+    {
+      "id": "226be0f3",
+      "category": "resources",
+      "title": "Vibe Coding - Tools & Techniques",
+      "content": "\n**AI Coding Models:**\n- Claude Code\n- Codex\n- Gemini\n- sandbox.dev\n- vibecodeapp.com (select model + stack, has preview)\n\n**Key Tips:**\n- Context management is important\n- Use /clear and /cost commands\n- Commit early and often\n- Give instructions: \"ask me questions to clarify requirements\"\n\n**Landing Page Trick:**\n- Create landing page to validate idea\n- Use Tally.so for forms, embed in app\n- Upload image as design inspiration\n\n**Databases:**\n- InstantDB (instantdb.com) - good for auth + realtime\n- Research docs for implementation\n\n**Tools:**\n- Excalidraw - draw prototypes, give to model\n- Three.js for games\n- kreai.ai for image models\n\n**Deploy:**\nDownload code \u2192 push to GitHub \u2192 deploy to Vercel\n",
+      "createdAt": "2026-01-26T17:42:32.731249Z",
+      "tags": [
+        "tools",
+        "ai-coding",
+        "vibe-coding"
+      ],
+      "url": "https://www.youtube.com/watch?v=2FJlhoDYNPE"
+    },
+    {
+      "id": "1743e230",
+      "category": "learnings",
+      "title": "Product Thinking Framework",
+      "content": "\n**User Discovery:**\n- Talk to 5-10 users weekly\n- Ask: \"What did you try before?\"\n- Ask: \"What's annoying about this today?\"\n- Ask: \"What happens if this isn't solved?\"\n\n**MVP Principles:**\n- SLC over MVP (Simple, Lovable, Complete)\n- Kill features ruthlessly\n- One core workflow done well\n\n**Metrics that matter:**\n- Activation\n- Retention\n- Feedback loops\n\n**Launch Channels:**\n- Product Hunt\n- Hacker News\n- Twitter\n- Subreddit communities\n",
+      "createdAt": "2026-01-26T17:42:32.731254Z",
+      "tags": [
+        "product",
+        "startup",
+        "users"
+      ]
+    },
+    {
+      "id": "5dcdfb81",
+      "category": "ideas",
+      "title": "Political Matching App",
+      "content": "\n**Problem:** Hard to figure out who to vote for in every election besides presidential.\n\n**Solution:** \n- Swipe left/right on issues (gun rights, abortion, etc.) OR fill out survey\n- App tells you who aligns with you in EVERY election\n- Hub with candidate bios and news\n- News section for political updates\n\n**Why it matters:** Makes informed voting accessible beyond just the presidential race.\n",
+      "createdAt": "2026-01-26T17:42:32.731258Z",
+      "tags": [
+        "startup",
+        "civic-tech",
+        "idea"
+      ]
+    },
+    {
+      "id": "0b187ec7",
+      "category": "ideas",
+      "title": "Personalized News Platform",
+      "content": "\n**Concept:**\n- User selects topics (general or very specific)\n- Shows news stories and/or newsletter summaries for those topics\n- Email/feed/newsletter/audio delivery options\n\n**Killer Feature - Commute School:**\n- Reads news in your headphones during commute\n- Interactive - can ask questions, go deeper\n- Voice-first news consumption\n\n**Status:** Building as \"Briefing\" app\n",
+      "createdAt": "2026-01-26T17:42:32.731263Z",
+      "tags": [
+        "startup",
+        "news",
+        "ai"
+      ]
+    },
+    {
+      "id": "e22aa6db",
+      "category": "people",
+      "title": "Startup/Job Opportunities",
+      "content": "\n**Contacts:**\n- Brian's friend Spencer - \"pays well and is cool, guy sucks\"\n- Quinn Lefkofsky's dad - Tempus (\"I could really see myself working here\")\n\n**Interview tip:** Say at the end: \"I could really see myself working here\"\n",
+      "createdAt": "2026-01-26T17:42:32.731269Z",
+      "tags": [
+        "networking",
+        "opportunities"
+      ]
+    },
+    {
+      "id": "521eed85",
+      "category": "learnings",
+      "title": "How to Create AI Startup",
+      "content": "\n1. Find out the SPECIFIC things people do that you're solving for\n2. Understand: How would the BEST person do this?\n3. Work backwards from there\n\n**Key insight:** It is almost always better than a regular job.\n\n**Strategy:**\n- Make something popular (even if you don't know monetization yet)\n- GET ON THE WAVE EARLY\n- Consider: Quantum computing? Enterprise software?\n\n**Important:** Get a cofounder\n",
+      "createdAt": "2026-01-26T17:42:32.731273Z",
+      "tags": [
+        "startup",
+        "ai",
+        "advice"
+      ]
     }
   ],
   "categories": [
@@ -140,5 +321,5 @@
       "description": "Health, fitness, habits, and wellness"
     }
   ],
-  "lastUpdated": "2026-01-25T22:58:10.669539Z"
+  "lastUpdated": "2026-01-26T17:42:32.731290Z"
 }
