@@ -282,6 +282,19 @@
         "podcast",
         "articles"
       ]
+    },
+    {
+      "id": "553138ca",
+      "category": "ideas",
+      "title": "Nightly Research: Micro-SaaS Opportunities (Jan 26)",
+      "content": "## \ud83c\udfaf Top Ideas That Match Jake's Stack (Next.js, React Native, AI)\n\n### 1. Content Repurposing Engine\n- Take one piece of content \u2192 transform to all platforms\n- Blog \u2192 Twitter threads, Podcast \u2192 Audiograms, YouTube \u2192 TikTok shorts\n- Tech: Next.js + Claude API + FFmpeg\n- Revenue example: $19-39/mo per creator\n- **Why Jake:** You already built Briefing with AI summarization\n\n### 2. Voice-to-Task for Field Workers\n- Plumbers/electricians speak updates \u2192 AI parses into invoices/CRM\n- Mobile-first (React Native perfect fit)\n- Zero competition from enterprise tools\n- **Why Jake:** Combines your mobile + AI skills\n\n### 3. Vertical Booking System\n- Niche: Tattoo studios, music teachers, personal trainers\n- Handles deposits, uploads, industry-specific fields\n- Example: Pet grooming booking tool = $49/mo \u00d7 200 customers = $9,800 MRR\n- **Why Jake:** Calendly but for one niche, much simpler to build\n\n### 4. \"Ghost Kitchen\" Inventory Optimizer  \n- Integrates with Uber Eats/DoorDash APIs\n- Predicts ingredient waste from weather + local events\n- Razor-thin margins = high willingness to pay\n- Could dominate one city first\n\n### 5. B2B Webinar Clip Repurposer\n- Auto-identifies high-engagement clips from webinars\n- Formats for LinkedIn/TikTok\n- Marketing teams drowning in content\n- Solves direct labor-cost problem\n\n## \ud83d\udca1 Quick Validation Test\nPick one, post on X/LinkedIn:\n\"Building [X] for [niche]. Who wants early access?\"\n10+ responses = build it.\n\n## \ud83d\udcca Key Stats\n- Micro-SaaS growing 30% annually\n- $5K-50K/mo ARR realistic for solo founders\n- 80%+ profit margins possible\n- 30-day MVP to paying customer is achievable",
+      "createdAt": "2026-01-27T00:19:54.773503Z",
+      "tags": [
+        "micro-saas",
+        "ideas",
+        "research",
+        "money"
+      ]
     }
   ],
   "categories": [
@@ -339,5 +352,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-26T23:10:32.912858Z"
+  "lastUpdated": "2026-01-27T00:19:54.773532Z"
 }
