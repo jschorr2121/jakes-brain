@@ -311,6 +311,14 @@
       "content": "This week is the 'prove-it' phase for the multi-trillion-dollar AI investment cycle. MSFT, Meta, Tesla reporting today (Jan 28), Apple tomorrow. Market watching closely to see if AI infrastructure spending translates to revenue. S&P crossed 7,000 for first time on AI optimism. Meanwhile Amazon cutting 16K jobs as they restructure around AI - the efficiency gains are real and companies are acting on them. Key tension: massive capex spend vs. actual ROI proof.",
       "createdAt": "2026-01-28T16:02:02.676123Z",
       "tags": []
+    },
+    {
+      "id": "5e5ee8ff",
+      "category": "resources",
+      "title": "AI Coding Agent Comparison Guide (2026)",
+      "content": "Comprehensive dev-focused comparison of AI coding agents: Claude Code, Cursor, Codex, Copilot, Cline. Key takeaways: 85% of devs now use AI tools daily. Top eval criteria: (1) Token efficiency & price - wasted runs = wasted money (2) Net productivity impact - not just speed but overhead (3) Code quality & hallucination control (4) Context window & full-repo understanding (5) Privacy & data control. Anthropic introduced rate limits in 2025 to curb power users. Trend: devs want more output per token, fewer retries. URL: https://www.faros.ai/blog/best-ai-coding-agents-2026",
+      "createdAt": "2026-01-28T18:02:20.085047Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -368,5 +376,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-28T16:02:02.676152Z"
+  "lastUpdated": "2026-01-28T18:02:20.085076Z"
 }
