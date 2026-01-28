@@ -319,6 +319,14 @@
       "content": "Comprehensive dev-focused comparison of AI coding agents: Claude Code, Cursor, Codex, Copilot, Cline. Key takeaways: 85% of devs now use AI tools daily. Top eval criteria: (1) Token efficiency & price - wasted runs = wasted money (2) Net productivity impact - not just speed but overhead (3) Code quality & hallucination control (4) Context window & full-repo understanding (5) Privacy & data control. Anthropic introduced rate limits in 2025 to curb power users. Trend: devs want more output per token, fewer retries. URL: https://www.faros.ai/blog/best-ai-coding-agents-2026",
       "createdAt": "2026-01-28T18:02:20.085047Z",
       "tags": []
+    },
+    {
+      "id": "d24a4d20",
+      "category": "ideas",
+      "title": "Boring Micro-SaaS for Trades",
+      "content": "Key insight: The easiest money in software is in 'unsexy' trades - plumbers, HVAC techs, home inspectors. These are 6-figure businesses still using clipboards and paper. They have money, real problems, and don't care about AI hype - they just want to get home for dinner. Build painkillers not vitamins. Target: 'Tap-to-Report' style apps, scheduling, invoicing, job tracking for service businesses. Examples making $2-8k MRR with solo devs: AirTrackBot ($7k MRR), StageTimer.io ($8.3k MRR), HelpKit ($5k MRR). Source: Startup Stash",
+      "createdAt": "2026-01-28T19:02:28.634041Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -376,5 +384,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-28T18:02:20.085076Z"
+  "lastUpdated": "2026-01-28T19:02:28.634074Z"
 }
