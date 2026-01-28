@@ -303,6 +303,14 @@
       "content": "From first day of active Kalshi trading (Jan 27, 2026):\n\n1. **15-min BTC markets are gambling** - No edge, essentially coin flips. Avoid unless you have real-time data advantage.\n\n2. **Weather markets can have edge** - NWS forecasts are public and accurate. When market pricing diverges from NWS data, there's opportunity.\n\n3. **Long-dated futures are illiquid** - Hard to exit positions. Stick to markets resolving within 24-48 hours.\n\n4. **Fees add up** - Small positions get eaten by fees. Size appropriately.\n\n5. **Fed markets are efficiently priced** - Both sides of rate bets tend to be fair value. No easy edge.",
       "createdAt": "2026-01-27T20:23:00.928193Z",
       "tags": []
+    },
+    {
+      "id": "547714cc",
+      "category": "learnings",
+      "title": "Big Tech AI Earnings Week - Jan 2026",
+      "content": "This week is the 'prove-it' phase for the multi-trillion-dollar AI investment cycle. MSFT, Meta, Tesla reporting today (Jan 28), Apple tomorrow. Market watching closely to see if AI infrastructure spending translates to revenue. S&P crossed 7,000 for first time on AI optimism. Meanwhile Amazon cutting 16K jobs as they restructure around AI - the efficiency gains are real and companies are acting on them. Key tension: massive capex spend vs. actual ROI proof.",
+      "createdAt": "2026-01-28T16:02:02.676123Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -360,5 +368,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-27T20:23:00.928225Z"
+  "lastUpdated": "2026-01-28T16:02:02.676152Z"
 }
