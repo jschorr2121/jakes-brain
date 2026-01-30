@@ -351,6 +351,14 @@
       "content": "Great overview of why 2026 is the inflection point for voice AI agents. Key takeaways relevant to Sessions app: (1) Latency finally dropped enough for real-time conversations, (2) Models are fast/cheap/accurate enough for production voice, (3) Modern agents are context-aware across long conversations, adaptive to tone, and self-improving, (4) Emotion recognition via tone/pace/pauses is now table stakes, (5) 80%+ of contact center leaders rank AI-driven productivity as top priority. Sessions is well-positioned in this wave \u2014 personal reflection/planning via voice is exactly the kind of 'conversational intelligence' the market is moving toward. Source: https://dev.to/jaskirat_singh/why-is-everyone-suddenly-talking-about-voice-agents-in-2026-4fim",
       "createdAt": "2026-01-30T17:59:58.604240Z",
       "tags": []
+    },
+    {
+      "id": "5b080c23",
+      "category": "learnings",
+      "title": "Kevin Warsh: Trump's Fed Chair Pick \u2014 Morgan Stanley Alum",
+      "content": "Trump nominated Kevin Warsh to chair the Federal Reserve (Jan 30, 2026). Directly relevant to Jake \u2014 Warsh spent nearly 7 years at Morgan Stanley in M&A before joining the Bush White House and then the Fed Board of Governors (2006-2011). He was part of Bernanke's inner circle during the 2008 financial crisis. Key facts: (1) Harvard Law '95, then Morgan Stanley VP/Executive Director, (2) Served on Fed Board 2006-2011 as youngest governor in history at age 35, (3) Married into the Lauder (Est\u00e9e Lauder) family \u2014 wife Jane is daughter of Ronald Lauder (billionaire GOP donor), (4) Known as a monetary policy hawk \u2014 skeptical of QE, favors tighter policy, (5) Would replace Jerome Powell when his term ends May 2026. This could be a great conversation starter at MS \u2014 Warsh is literally an alum. Sources: CNBC, Forbes, The Hill, NBC News",
+      "createdAt": "2026-01-30T23:00:17.470577Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -408,5 +416,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-30T17:59:58.604272Z"
+  "lastUpdated": "2026-01-30T23:00:17.470621Z"
 }
