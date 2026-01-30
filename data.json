@@ -335,6 +335,14 @@
       "content": "Key data points as of Jan 2026:\\n\\n\u2022 AI/ML attracted both the most VC deals AND highest-value deals of any industry in 2025 (Pitchbook/NVCA data)\\n\u2022 Nvidia invested in 86 startup rounds globally in 2025, including 14 European companies \u2014 offering not just cash but technical expertise and supply chain access\\n\u2022 Big Tech (Amazon, Meta, Nvidia, Google, Microsoft) invested >0B in AI startups in H1 2025 alone\\n\u2022 Fastest-growing AI startup categories: generative AI, AI-based automation, multimodal models (text+image+audio), edge AI, and real-time analytics\\n\u2022 Applied AI (robotics, healthcare AI, networking chips) is driving measurable business impact beyond pure research\\n\u2022 Top fast-growing startups to watch: ElevenLabs (voice AI), Mercor (human+AI training platform)\\n\\nSources: CNBC, Inc, Times of AI, Crunchbase",
       "createdAt": "2026-01-29T13:59:56.276662Z",
       "tags": []
+    },
+    {
+      "id": "1e2afdc5",
+      "category": "articles",
+      "title": "The Pragmatic Engineer: When AI Writes Almost All Code",
+      "content": "Key insights from Gergely Orosz (Jan 2026):\\n\\n\u2022 Tipping point models: Opus 4.5, GPT-5.2, and Gemini 3 (released Nov-Dec 2025) created widespread 'a-ha' moments among senior engineers\\n\u2022 Google principal engineer Jaana Dogan: Claude Code rebuilt in 1 hour what her team spent a year building (distributed agent orchestrator)\\n\u2022 Malte Ubl (CTO, Vercel) built 2 major open-source projects over the holidays using AI coding agents\\n\u2022 Declining value: language polyglot skills, stack specialization, pure prototyping ability\\n\u2022 Rising value: tech lead traits, product-minded engineering, solid SE fundamentals (not just 'coding')\\n\u2022 The ugly: more generated code = more problems, weak SE practices hurt sooner, potential work-life balance strain\\n\u2022 PM vs SE convergence: PMs can generate software more easily (need fewer engineers), SEs need less PM input \u2014 both roles overlap more\\n\u2022 Thorsten Ball (Amp engineer): After 15+ years, now finds typing code by hand frustrating \u2014 prefers AI-assisted flow\\n\\nImplication for Jake: Being on Morgan Stanley's AI team + building side projects with AI tools = exactly the right positioning. The edge is in taste, judgment, and product thinking \u2014 not raw coding speed.\\n\\nSource: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+      "createdAt": "2026-01-30T00:01:07.266668Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -392,5 +400,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-29T13:59:56.276693Z"
+  "lastUpdated": "2026-01-30T00:01:07.266699Z"
 }
