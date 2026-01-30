@@ -343,6 +343,14 @@
       "content": "Key insights from Gergely Orosz (Jan 2026):\\n\\n\u2022 Tipping point models: Opus 4.5, GPT-5.2, and Gemini 3 (released Nov-Dec 2025) created widespread 'a-ha' moments among senior engineers\\n\u2022 Google principal engineer Jaana Dogan: Claude Code rebuilt in 1 hour what her team spent a year building (distributed agent orchestrator)\\n\u2022 Malte Ubl (CTO, Vercel) built 2 major open-source projects over the holidays using AI coding agents\\n\u2022 Declining value: language polyglot skills, stack specialization, pure prototyping ability\\n\u2022 Rising value: tech lead traits, product-minded engineering, solid SE fundamentals (not just 'coding')\\n\u2022 The ugly: more generated code = more problems, weak SE practices hurt sooner, potential work-life balance strain\\n\u2022 PM vs SE convergence: PMs can generate software more easily (need fewer engineers), SEs need less PM input \u2014 both roles overlap more\\n\u2022 Thorsten Ball (Amp engineer): After 15+ years, now finds typing code by hand frustrating \u2014 prefers AI-assisted flow\\n\\nImplication for Jake: Being on Morgan Stanley's AI team + building side projects with AI tools = exactly the right positioning. The edge is in taste, judgment, and product thinking \u2014 not raw coding speed.\\n\\nSource: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
       "createdAt": "2026-01-30T00:01:07.266668Z",
       "tags": []
+    },
+    {
+      "id": "a7489e79",
+      "category": "resources",
+      "title": "Voice Agents in 2026: Why Now & What's Changed",
+      "content": "Great overview of why 2026 is the inflection point for voice AI agents. Key takeaways relevant to Sessions app: (1) Latency finally dropped enough for real-time conversations, (2) Models are fast/cheap/accurate enough for production voice, (3) Modern agents are context-aware across long conversations, adaptive to tone, and self-improving, (4) Emotion recognition via tone/pace/pauses is now table stakes, (5) 80%+ of contact center leaders rank AI-driven productivity as top priority. Sessions is well-positioned in this wave \u2014 personal reflection/planning via voice is exactly the kind of 'conversational intelligence' the market is moving toward. Source: https://dev.to/jaskirat_singh/why-is-everyone-suddenly-talking-about-voice-agents-in-2026-4fim",
+      "createdAt": "2026-01-30T17:59:58.604240Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -400,5 +408,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-30T00:01:07.266699Z"
+  "lastUpdated": "2026-01-30T17:59:58.604272Z"
 }
