@@ -367,6 +367,14 @@
       "content": "Key breakthroughs in early 2026 reshaping voice AI: Nvidia's PersonaPlex-7B enables full-duplex conversation (simultaneous listen+speak), Inworld TTS 1.5 hits sub-120ms latency, and emotional intelligence is going mainstream. Gartner forecasts 40% of enterprise apps will integrate task-specific AI agents by year-end (up from <5% in 2025). VoiceRun raised $5.5M for enterprise voice agent platform. Speechmatics processed 30M+ minutes in healthcare alone. Relevant to Sessions: these advances in latency and full-duplex are exactly the direction voice-based reflection/planning tools should leverage. Source: webpronews.com (Jan 2026)",
       "createdAt": "2026-01-31T13:00:41.915231Z",
       "tags": []
+    },
+    {
+      "id": "56ed3ca9",
+      "category": "resources",
+      "title": "Plannr Competitive Landscape: Group Planning Apps (Jan 2026)",
+      "content": "Competitive analysis for Plannr from SmarterTravel's roundup of group planning tools:\\n\\n**Direct competitors:**\\n- **Let's Jetty** (letsjetty.com) \u2014 Pre-planning phase: RSVP deadlines, travel preference surveys, polls for dates/destinations. Web-based, no app download. Closest to Plannr's proposal/voting model.\\n- **Troupe** (troupetravel.com) \u2014 Collaborative activity planning with voting. Everyone suggests, group votes, app builds itinerary. Solves the 'nobody wants to be the dictator' problem.\\n\\n**Adjacent tools groups cobble together:**\\n- **Wanderlog** \u2014 Itinerary building + route optimization + shared maps\\n- **Splitwise** \u2014 Expense splitting (recently added free tier limits, frustrating users \u2014 opportunity?)\\n- **Google Maps custom maps** \u2014 Shared pins for restaurants/attractions\\n\\n**Key insight for Plannr:** The market is fragmented. People use 3-4 apps to coordinate one trip. Plannr's unified feed with proposals + going/maybe/not going responses could replace the Let's Jetty + Troupe + group chat combo. The 'shared feed' model is differentiated \u2014 none of these competitors have a social-feed-style interface for group coordination.\\n\\nSource: https://www.smartertravel.com/the-apps-that-make-group-trip-planning-work/",
+      "createdAt": "2026-02-01T13:00:56.906247Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -424,5 +432,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-01-31T13:00:41.915262Z"
+  "lastUpdated": "2026-02-01T13:00:56.906277Z"
 }
