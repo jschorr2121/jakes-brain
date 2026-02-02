@@ -375,6 +375,14 @@
       "content": "Competitive analysis for Plannr from SmarterTravel's roundup of group planning tools:\\n\\n**Direct competitors:**\\n- **Let's Jetty** (letsjetty.com) \u2014 Pre-planning phase: RSVP deadlines, travel preference surveys, polls for dates/destinations. Web-based, no app download. Closest to Plannr's proposal/voting model.\\n- **Troupe** (troupetravel.com) \u2014 Collaborative activity planning with voting. Everyone suggests, group votes, app builds itinerary. Solves the 'nobody wants to be the dictator' problem.\\n\\n**Adjacent tools groups cobble together:**\\n- **Wanderlog** \u2014 Itinerary building + route optimization + shared maps\\n- **Splitwise** \u2014 Expense splitting (recently added free tier limits, frustrating users \u2014 opportunity?)\\n- **Google Maps custom maps** \u2014 Shared pins for restaurants/attractions\\n\\n**Key insight for Plannr:** The market is fragmented. People use 3-4 apps to coordinate one trip. Plannr's unified feed with proposals + going/maybe/not going responses could replace the Let's Jetty + Troupe + group chat combo. The 'shared feed' model is differentiated \u2014 none of these competitors have a social-feed-style interface for group coordination.\\n\\nSource: https://www.smartertravel.com/the-apps-that-make-group-trip-planning-work/",
       "createdAt": "2026-02-01T13:00:56.906247Z",
       "tags": []
+    },
+    {
+      "id": "320921c0",
+      "category": "articles",
+      "title": "The Rise of Solo Founders \u2014 Why 2026 is the Year of the Solo Unicorn",
+      "content": "Dario Amodei (Anthropic) predicts the first solo-founder unicorn by 2026. Solo-founded startups surged from 22% (2015) to 38% (2024) of new US startups. 52.3% of successful exits were solo founders. Key example: Maor Shlomo sold Base44 (AI startup) to Wix for $80M after 6 months, built entirely alone (300K users, $3.5M ARR). The thesis: AI tools have made it possible for one person to do what used to require a team \u2014 coding, design, marketing, ops. Relevant to Jake's approach of building Briefing, Sessions, and Plannr as side projects. Source: https://medium.com/@ayushojha010/the-next-1-man-million-dollar-startup-why-2025-is-the-year-of-the-solo-founder-d220edd35203",
+      "createdAt": "2026-02-02T13:01:00.626045Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -432,5 +440,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-01T13:00:56.906277Z"
+  "lastUpdated": "2026-02-02T13:01:00.626073Z"
 }
