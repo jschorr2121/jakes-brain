@@ -391,6 +391,22 @@
       "content": "Technique to cut LLM API costs by up to 73%. Uses vector embeddings to identify semantically similar queries and reuse cached responses instead of making redundant API calls. Directly relevant to Briefing app \u2014 many users may request similar news topics, and OpenAI web search at $0.01/call is the dominant cost. Implementation: store query embeddings in a vector DB (e.g. Upstash Vector, Pinecone), check similarity before calling API, serve cached response if match > threshold. Could layer on top of existing Redis cache for even smarter dedup. Source: https://launch.femaleswitch.com/startup-news-hidden-steps-cut-llm-costs-73-percent-semantic-caching-2026/",
       "createdAt": "2026-02-03T00:02:30.254696Z",
       "tags": []
+    },
+    {
+      "id": "985c5c80",
+      "category": "articles",
+      "title": "SpaceX Acquires xAI, Targets .25T IPO",
+      "content": "Elon Musk folded xAI into SpaceX to form a vertically-integrated entity spanning AI, rockets, Starlink, and X. The combined company is eyeing an IPO at ~$1.25T valuation. xAI alone was valued at $230B after a $20B funding round. Tesla also invested $2B into xAI. The move integrates Grok directly into SpaceX's infrastructure play. However, xAI faces regulatory probes in multiple regions over Grok-generated harmful content. This is the largest consolidation across Musk's empire and signals AI becoming the connective tissue between his companies. Source: techstartups.com, Feb 2 2026",
+      "createdAt": "2026-02-03T13:37:59.265126Z",
+      "tags": []
+    },
+    {
+      "id": "443cd86f",
+      "category": "resources",
+      "title": "NYC Startup Funding Landscape - Jan 2026",
+      "content": "Top NYC startup rounds in Jan 2026 show AI domination: Protege (AI training data, $30M Series A, a16z-backed), Sixfold AI (insurtech underwriting automation, $30M Series B), Outtake (cybersecurity with AI, $40M, backed by Satya Nadella and William Ackman), Benepass (benefits admin, $40M). Nearly every top-funded NYC startup has AI at its core. Notable: Protege solving the AI training data bottleneck through licensed real-world data - relevant to anyone building AI products. Source: AlleyWatch, Feb 2026",
+      "createdAt": "2026-02-03T13:37:59.302354Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -448,5 +464,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-03T00:02:30.254726Z"
+  "lastUpdated": "2026-02-03T13:37:59.302388Z"
 }
