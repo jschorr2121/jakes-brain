@@ -407,6 +407,14 @@
       "content": "Top NYC startup rounds in Jan 2026 show AI domination: Protege (AI training data, $30M Series A, a16z-backed), Sixfold AI (insurtech underwriting automation, $30M Series B), Outtake (cybersecurity with AI, $40M, backed by Satya Nadella and William Ackman), Benepass (benefits admin, $40M). Nearly every top-funded NYC startup has AI at its core. Notable: Protege solving the AI training data bottleneck through licensed real-world data - relevant to anyone building AI products. Source: AlleyWatch, Feb 2026",
       "createdAt": "2026-02-03T13:37:59.302354Z",
       "tags": []
+    },
+    {
+      "id": "b0ba538e",
+      "category": "ideas",
+      "title": "High-Leverage AI Side Income for SWEs (2026)",
+      "content": "Most promising AI side income ideas for a software engineer like Jake:\n\n1. **AI Automation Agency** ($75-200/hr) \u2014 Build custom AI workflows for small businesses (Zapier + ChatGPT + custom code). Jake's SWE skills make this trivial compared to no-code people charging the same rates.\n\n2. **SaaS Micro-Products** \u2014 Ship small, focused AI tools (like Briefing!) and charge $10-30/mo. The solo founder trend is real (Base44 sold for $80M). Jake already has two apps in flight.\n\n3. **AI Consulting for Finance** ($100-300/hr) \u2014 Jake's Morgan Stanley AI team background is a massive credibility signal. Financial services firms are desperate for AI expertise.\n\n4. **Prompt Engineering for Enterprises** ($50-150/hr) \u2014 Design system prompts, eval frameworks, and RAG pipelines. Upwork/Toptal have growing demand.\n\n5. **Template/Boilerplate Sales** \u2014 Sell starter kits (e.g., 'AI SaaS boilerplate with Stripe + Auth + OpenAI') on Gumroad. One-time build, passive income.\n\nKey insight: Jake should focus on income streams that compound with his existing projects (Briefing, Sessions) rather than unrelated freelance work.",
+      "createdAt": "2026-02-04T02:01:02.635176Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -464,5 +472,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-03T13:37:59.302388Z"
+  "lastUpdated": "2026-02-04T02:01:02.635206Z"
 }
