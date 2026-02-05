@@ -415,6 +415,14 @@
       "content": "Most promising AI side income ideas for a software engineer like Jake:\n\n1. **AI Automation Agency** ($75-200/hr) \u2014 Build custom AI workflows for small businesses (Zapier + ChatGPT + custom code). Jake's SWE skills make this trivial compared to no-code people charging the same rates.\n\n2. **SaaS Micro-Products** \u2014 Ship small, focused AI tools (like Briefing!) and charge $10-30/mo. The solo founder trend is real (Base44 sold for $80M). Jake already has two apps in flight.\n\n3. **AI Consulting for Finance** ($100-300/hr) \u2014 Jake's Morgan Stanley AI team background is a massive credibility signal. Financial services firms are desperate for AI expertise.\n\n4. **Prompt Engineering for Enterprises** ($50-150/hr) \u2014 Design system prompts, eval frameworks, and RAG pipelines. Upwork/Toptal have growing demand.\n\n5. **Template/Boilerplate Sales** \u2014 Sell starter kits (e.g., 'AI SaaS boilerplate with Stripe + Auth + OpenAI') on Gumroad. One-time build, passive income.\n\nKey insight: Jake should focus on income streams that compound with his existing projects (Briefing, Sessions) rather than unrelated freelance work.",
       "createdAt": "2026-02-04T02:01:02.635176Z",
       "tags": []
+    },
+    {
+      "id": "3053db96",
+      "category": "articles",
+      "title": "Anthropic Claude Cowork Plugins Trigger 85B Software Stock Selloff",
+      "content": "Anthropic launched open-source plugins for Claude Cowork (legal, finance, marketing automation) on Feb 2, 2026. Result: 85B rout across software, financial services, and asset management stocks. Thomson Reuters -18%, cloud computing ETF -20% YTD, LegalZoom and RELX hammered. First time an AI product launch directly triggered a broad market selloff of this magnitude. Key takeaway: AI agent platforms with open-source plugins are now perceived as existential threats to SaaS/professional services. The legal sector was hit hardest \u2014 entry-level professional displacement fears are real and priced in. Implications for anyone building AI products: the market is taking AI disruption seriously NOW, not as a future hypothetical. Sources: Reuters, Bloomberg, CNBC, AI Business (Feb 3-5, 2026)",
+      "createdAt": "2026-02-05T14:01:20.563699Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -472,5 +480,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-04T02:01:02.635206Z"
+  "lastUpdated": "2026-02-05T14:01:20.563728Z"
 }
