@@ -431,6 +431,14 @@
       "content": "ElevenLabs raised $500M led by Sequoia at $11B valuation (Feb 4, 2026). Key announcements: upgraded voice agents with faster response times, improved expressiveness via new turn-taking improvements, and Eleven v3 Conversational model. Expanding research into emotional conversational models, dubbing, and 'audio general intelligence.' This validates the voice AI space Sessions is in \u2014 the market is massive and growing. ElevenLabs went from $0 to $11B in ~4 years. Key competitive signal: they're pushing hard on conversational AI agents, not just TTS. Sources: TechCrunch, ElevenLabs blog, Business Standard (Feb 4-5, 2026)",
       "createdAt": "2026-02-05T16:00:51.534853Z",
       "tags": []
+    },
+    {
+      "id": "20de80ea",
+      "category": "resources",
+      "title": "Passive Income Paths for Automation Developers (2026)",
+      "content": "7 paths to passive/semi-passive income for devs who build automations:\n\n1. **Sell automation workflows** \u2014 Package Make/n8n/Zapier flows as digital products (blueprints, JSON exports). Past client work becomes products.\n\n2. **Workflow licenses for agencies** \u2014 Personal/Agency/Unlimited tiers. License flows to agencies who serve similar clients.\n\n3. **API-based micro-utilities** \u2014 Data enrichment, email validation, AI classification, lead scoring. Usage-based pricing via RapidAPI or Stripe metered billing.\n\n4. **Courses & playbooks** \u2014 Productize operational knowledge into short courses, workflow breakdowns, async workshops.\n\n5. **Automation-powered info products** \u2014 Automated newsletters, scraping+enrichment+reporting loops, intelligence dashboards. 90% automated, sold as subscriptions.\n\n6. **White-label automation packages** \u2014 Standardized onboarding flows, CRM pipelines, AI email setups sold to agencies as kits.\n\n7. **Community tools & templates** \u2014 Helper scripts, webhook handlers, pricing calculators. Small assets that compound.\n\nKey insight: Automation devs have reusable logic + high demand + low marginal cost \u2014 same combo that created passive income for Notion/Figma template creators.\n\nSource: dev.to/bishal_paul_ai (Jan 2026)",
+      "createdAt": "2026-02-05T22:00:57.458032Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -488,5 +496,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-05T16:00:51.534884Z"
+  "lastUpdated": "2026-02-05T22:00:57.458061Z"
 }
