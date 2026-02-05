@@ -423,6 +423,14 @@
       "content": "Anthropic launched open-source plugins for Claude Cowork (legal, finance, marketing automation) on Feb 2, 2026. Result: 85B rout across software, financial services, and asset management stocks. Thomson Reuters -18%, cloud computing ETF -20% YTD, LegalZoom and RELX hammered. First time an AI product launch directly triggered a broad market selloff of this magnitude. Key takeaway: AI agent platforms with open-source plugins are now perceived as existential threats to SaaS/professional services. The legal sector was hit hardest \u2014 entry-level professional displacement fears are real and priced in. Implications for anyone building AI products: the market is taking AI disruption seriously NOW, not as a future hypothetical. Sources: Reuters, Bloomberg, CNBC, AI Business (Feb 3-5, 2026)",
       "createdAt": "2026-02-05T14:01:20.563699Z",
       "tags": []
+    },
+    {
+      "id": "12978ec7",
+      "category": "articles",
+      "title": "ElevenLabs Raises $500M Series D at $11B Valuation",
+      "content": "ElevenLabs raised $500M led by Sequoia at $11B valuation (Feb 4, 2026). Key announcements: upgraded voice agents with faster response times, improved expressiveness via new turn-taking improvements, and Eleven v3 Conversational model. Expanding research into emotional conversational models, dubbing, and 'audio general intelligence.' This validates the voice AI space Sessions is in \u2014 the market is massive and growing. ElevenLabs went from $0 to $11B in ~4 years. Key competitive signal: they're pushing hard on conversational AI agents, not just TTS. Sources: TechCrunch, ElevenLabs blog, Business Standard (Feb 4-5, 2026)",
+      "createdAt": "2026-02-05T16:00:51.534853Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -480,5 +488,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-05T14:01:20.563728Z"
+  "lastUpdated": "2026-02-05T16:00:51.534884Z"
 }
