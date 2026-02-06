@@ -439,6 +439,14 @@
       "content": "7 paths to passive/semi-passive income for devs who build automations:\n\n1. **Sell automation workflows** \u2014 Package Make/n8n/Zapier flows as digital products (blueprints, JSON exports). Past client work becomes products.\n\n2. **Workflow licenses for agencies** \u2014 Personal/Agency/Unlimited tiers. License flows to agencies who serve similar clients.\n\n3. **API-based micro-utilities** \u2014 Data enrichment, email validation, AI classification, lead scoring. Usage-based pricing via RapidAPI or Stripe metered billing.\n\n4. **Courses & playbooks** \u2014 Productize operational knowledge into short courses, workflow breakdowns, async workshops.\n\n5. **Automation-powered info products** \u2014 Automated newsletters, scraping+enrichment+reporting loops, intelligence dashboards. 90% automated, sold as subscriptions.\n\n6. **White-label automation packages** \u2014 Standardized onboarding flows, CRM pipelines, AI email setups sold to agencies as kits.\n\n7. **Community tools & templates** \u2014 Helper scripts, webhook handlers, pricing calculators. Small assets that compound.\n\nKey insight: Automation devs have reusable logic + high demand + low marginal cost \u2014 same combo that created passive income for Notion/Figma template creators.\n\nSource: dev.to/bishal_paul_ai (Jan 2026)",
       "createdAt": "2026-02-05T22:00:57.458032Z",
       "tags": []
+    },
+    {
+      "id": "6c8851f8",
+      "category": "articles",
+      "title": "OpenClaw (Clawdbot) Goes Mainstream \u2014 CNBC Coverage",
+      "content": "Clawdbot, now called OpenClaw, is getting major mainstream coverage. Key highlights:\n\n**Traction:** 145K GitHub stars, 20K forks. Adoption spreading from Silicon Valley to China (Alibaba, Tencent, ByteDance integrating with their apps).\n\n**What it does:** 'AI with hands' \u2014 manages emails/calendars, browses web, automates tasks, has persistent memory. Runs on WhatsApp, Telegram, Discord. Open source, free (you pay for the LLM).\n\n**Creator:** Peter Steinberger (Austrian dev). Building team around it, working on security improvements.\n\n**Security concerns:** Palo Alto Networks and Cisco warn about 'lethal trifecta' \u2014 access to private data + exposure to untrusted content + external communications with memory. Not recommended for enterprise yet.\n\n**Moltbook:** Companion social network for AI agents (like Reddit but agents post). Created by Matt Schlicht.\n\n**Why it matters:** Jake is using Clawdbot. Understanding its trajectory, security posture, and ecosystem (Moltbook) is directly relevant.\n\nSource: CNBC (Feb 2, 2026)",
+      "createdAt": "2026-02-06T00:01:15.630830Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -496,5 +504,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-05T22:00:57.458061Z"
+  "lastUpdated": "2026-02-06T00:01:15.630859Z"
 }
