@@ -455,6 +455,14 @@
       "content": "Resolve AI hit unicorn status at Series A - 25M from Lightspeed Venture Partners at B valuation. Total funding over 50M in ~16 months. Shows AI infrastructure startups can reach unicorn valuations extremely fast with the right product-market fit and investor appetite. Lightspeed leading signals strong institutional confidence in AI tooling category.",
       "createdAt": "2026-02-06T13:01:20.134711Z",
       "tags": []
+    },
+    {
+      "id": "350553be",
+      "category": "articles",
+      "title": "ElevenLabs CEO: Voice is the Next AI Interface (TechCrunch)",
+      "content": "Key insights from Mati Staniszewski at Web Summit Doha:\n\n1. Voice models now combine speech mimicry (emotion, intonation) WITH LLM reasoning \u2014 a new capability frontier\n2. Vision: phones back in pockets, voice controls technology in the real world\n3. Agentic shift: future voice systems use persistent memory + context, less explicit prompting needed\n4. Hybrid cloud/on-device processing for wearables (headphones, glasses) where voice is always-on\n5. ElevenLabs partnering with Meta for Instagram, Horizon Worlds, potentially Ray-Ban glasses\n\nDirect relevance to Sessions: validates the voice-first approach for AI interaction. Competition is heating up (OpenAI, Google, Apple Q.ai acquisition all moving into voice).",
+      "createdAt": "2026-02-06T15:01:13.625920Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -512,5 +520,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-06T13:01:20.134746Z"
+  "lastUpdated": "2026-02-06T15:01:13.625955Z"
 }
