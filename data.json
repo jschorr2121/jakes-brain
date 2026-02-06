@@ -447,6 +447,14 @@
       "content": "Clawdbot, now called OpenClaw, is getting major mainstream coverage. Key highlights:\n\n**Traction:** 145K GitHub stars, 20K forks. Adoption spreading from Silicon Valley to China (Alibaba, Tencent, ByteDance integrating with their apps).\n\n**What it does:** 'AI with hands' \u2014 manages emails/calendars, browses web, automates tasks, has persistent memory. Runs on WhatsApp, Telegram, Discord. Open source, free (you pay for the LLM).\n\n**Creator:** Peter Steinberger (Austrian dev). Building team around it, working on security improvements.\n\n**Security concerns:** Palo Alto Networks and Cisco warn about 'lethal trifecta' \u2014 access to private data + exposure to untrusted content + external communications with memory. Not recommended for enterprise yet.\n\n**Moltbook:** Companion social network for AI agents (like Reddit but agents post). Created by Matt Schlicht.\n\n**Why it matters:** Jake is using Clawdbot. Understanding its trajectory, security posture, and ecosystem (Moltbook) is directly relevant.\n\nSource: CNBC (Feb 2, 2026)",
       "createdAt": "2026-02-06T00:01:15.630830Z",
       "tags": []
+    },
+    {
+      "id": "636dbb1c",
+      "category": "learnings",
+      "title": "Resolve AI: Series A Unicorn (B at 25M)",
+      "content": "Resolve AI hit unicorn status at Series A - 25M from Lightspeed Venture Partners at B valuation. Total funding over 50M in ~16 months. Shows AI infrastructure startups can reach unicorn valuations extremely fast with the right product-market fit and investor appetite. Lightspeed leading signals strong institutional confidence in AI tooling category.",
+      "createdAt": "2026-02-06T13:01:20.134711Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -504,5 +512,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-06T00:01:15.630859Z"
+  "lastUpdated": "2026-02-06T13:01:20.134746Z"
 }
