@@ -463,6 +463,14 @@
       "content": "Key insights from Mati Staniszewski at Web Summit Doha:\n\n1. Voice models now combine speech mimicry (emotion, intonation) WITH LLM reasoning \u2014 a new capability frontier\n2. Vision: phones back in pockets, voice controls technology in the real world\n3. Agentic shift: future voice systems use persistent memory + context, less explicit prompting needed\n4. Hybrid cloud/on-device processing for wearables (headphones, glasses) where voice is always-on\n5. ElevenLabs partnering with Meta for Instagram, Horizon Worlds, potentially Ray-Ban glasses\n\nDirect relevance to Sessions: validates the voice-first approach for AI interaction. Competition is heating up (OpenAI, Google, Apple Q.ai acquisition all moving into voice).",
       "createdAt": "2026-02-06T15:01:13.625920Z",
       "tags": []
+    },
+    {
+      "id": "2d9df9b5",
+      "category": "ideas",
+      "title": "AI Business Ideas 2026: Pick One Flight (Nucamp)",
+      "content": "Actionable guide with realistic cost/revenue breakdowns:\n\n**Top picks:**\n1. AI Automation Micro-Agency \u2014 $2-5K start, $5-50K/month potential, 25-35% margins. Package existing AI tools into outcomes for SMBs (more leads, fewer manual tasks).\n2. AI Content Repurposing Studio \u2014 Under $3K start, $2-10K/month. Meets huge creator demand.\n\n**Other paths:** AI Lead Management, AI Education Consultancy, AI Output Auditor/Safety Consultant, Predictive Analytics for SMEs, E-commerce Personalization, Virtual Interior Design, Cybersecurity Audit, Sustainable Energy Optimization.\n\n**Key insight (Jensen Huang):** 'General intelligence is becoming a commodity; the scarce skill will be applying it to specific domains.'\n\nAI agents market: $8B (2025) \u2192 $12B (2026). Buyers ready to pay.",
+      "createdAt": "2026-02-06T17:01:08.086432Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -520,5 +528,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-06T15:01:13.625955Z"
+  "lastUpdated": "2026-02-06T17:01:08.086466Z"
 }
