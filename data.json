@@ -479,6 +479,14 @@
       "content": "ElevenLabs raised $500M at $11B valuation (Feb 2026) \u2014 more than tripling their Jan 2025 valuation. Nvidia-backed. Eyeing IPO.\\n\\nKey insight: Voice as interface is becoming massive. This validates Sessions' direction \u2014 AI voice calls are the next frontier.\\n\\nAlso: AI captured 52.7% of all global VC funding in 2025 ($270B of $512B). First time ever over half.\\n\\nSources: CNBC, Journal Record",
       "createdAt": "2026-02-07T04:01:21.696030Z",
       "tags": []
+    },
+    {
+      "id": "71fb2359",
+      "category": "learnings",
+      "title": "Big Tech AI Spending: $630B Projected for 2026",
+      "content": "Alphabet, Microsoft, Amazon, and Meta projected to collectively spend $630B on AI in 2026.\\n\\nKey insight: Returns from these investments haven't kept pace with spending yet \u2014 but the bet is that AI infrastructure now = dominance later.\\n\\nAlso: AI agents evolving from 'isolated assistants' to 'cross-functional orchestrators' \u2014 coordinating work across departments, applications, and decision layers.\\n\\nSource: IndexBox, AIthority",
+      "createdAt": "2026-02-07T13:01:13.848271Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -536,5 +544,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-07T04:01:21.696065Z"
+  "lastUpdated": "2026-02-07T13:01:13.848307Z"
 }
