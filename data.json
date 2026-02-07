@@ -487,6 +487,14 @@
       "content": "Alphabet, Microsoft, Amazon, and Meta projected to collectively spend $630B on AI in 2026.\\n\\nKey insight: Returns from these investments haven't kept pace with spending yet \u2014 but the bet is that AI infrastructure now = dominance later.\\n\\nAlso: AI agents evolving from 'isolated assistants' to 'cross-functional orchestrators' \u2014 coordinating work across departments, applications, and decision layers.\\n\\nSource: IndexBox, AIthority",
       "createdAt": "2026-02-07T13:01:13.848271Z",
       "tags": []
+    },
+    {
+      "id": "481d6165",
+      "category": "learnings",
+      "title": "Claude Cowork Triggers Trillion-Dollar SaaS Selloff",
+      "content": "Anthropic's Claude Cowork plugins (for sales, legal, financial analysis) triggered massive selloffs across enterprise software stocks. Investors fear AI will make traditional SaaS obsolete.\\n\\nKey insight: This is the 'AI eating software' moment. Industry-specific AI plugins that automate core business functions are scarier to incumbents than general-purpose chatbots.\\n\\nAffected: Enterprise SaaS companies broadly, Indian IT firms especially hard hit.\\n\\nImplication for startups: Building on top of AI (like Sessions) may be safer than building SaaS that AI can replace.\\n\\nSources: Fortune, CNBC, ABC News, Marketplace",
+      "createdAt": "2026-02-07T15:00:56.781158Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -544,5 +552,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-07T13:01:13.848307Z"
+  "lastUpdated": "2026-02-07T15:00:56.781194Z"
 }
