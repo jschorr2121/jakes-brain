@@ -503,6 +503,14 @@
       "content": "Major AI industry shift (Feb 2026): Anthropic's Claude Cowork plugins crashed enterprise software stocks - Thomson Reuters and LegalZoom down 15%+. Goldman Sachs partnering with Anthropic for AI agents in accounting/compliance. This signals AI agents moving from assistants to actual workflow replacements in legal, finance, and compliance. Relevant for: 1) Morgan Stanley AI team - likely similar enterprise integrations coming 2) Sessions/AI products - shows demand for AI doing actual work, not just chat 3) Investment thesis - traditional SaaS being disrupted by AI-native solutions.",
       "createdAt": "2026-02-08T14:00:33.349128Z",
       "tags": []
+    },
+    {
+      "id": "47b34592",
+      "category": "resources",
+      "title": "ElevenLabs 1B Valuation - Voice AI Market Signal",
+      "content": "ElevenLabs raised $500M at $11B valuation (Feb 2026), eyeing IPO. Key insights for Sessions: 1) Voice AI is massive and growing 2) They're moving to hybrid cloud/on-device for wearables - 'voice as constant companion' 3) Partnering with Meta for Instagram/Horizon Worlds. This validates the Sessions thesis: AI voice conversations are a huge market. Consider: what's the moat? ElevenLabs is TTS, Sessions is structured conversations with purpose. Different but adjacent.",
+      "createdAt": "2026-02-08T16:01:24.639046Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -560,5 +568,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-08T14:00:33.349157Z"
+  "lastUpdated": "2026-02-08T16:01:24.639076Z"
 }
