@@ -495,6 +495,14 @@
       "content": "Anthropic's Claude Cowork plugins (for sales, legal, financial analysis) triggered massive selloffs across enterprise software stocks. Investors fear AI will make traditional SaaS obsolete.\\n\\nKey insight: This is the 'AI eating software' moment. Industry-specific AI plugins that automate core business functions are scarier to incumbents than general-purpose chatbots.\\n\\nAffected: Enterprise SaaS companies broadly, Indian IT firms especially hard hit.\\n\\nImplication for startups: Building on top of AI (like Sessions) may be safer than building SaaS that AI can replace.\\n\\nSources: Fortune, CNBC, ABC News, Marketplace",
       "createdAt": "2026-02-07T15:00:56.781158Z",
       "tags": []
+    },
+    {
+      "id": "060eadee",
+      "category": "learnings",
+      "title": "Anthropic Claude Cowork Disrupting Enterprise Software",
+      "content": "Major AI industry shift (Feb 2026): Anthropic's Claude Cowork plugins crashed enterprise software stocks - Thomson Reuters and LegalZoom down 15%+. Goldman Sachs partnering with Anthropic for AI agents in accounting/compliance. This signals AI agents moving from assistants to actual workflow replacements in legal, finance, and compliance. Relevant for: 1) Morgan Stanley AI team - likely similar enterprise integrations coming 2) Sessions/AI products - shows demand for AI doing actual work, not just chat 3) Investment thesis - traditional SaaS being disrupted by AI-native solutions.",
+      "createdAt": "2026-02-08T14:00:33.349128Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -552,5 +560,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-07T15:00:56.781194Z"
+  "lastUpdated": "2026-02-08T14:00:33.349157Z"
 }
