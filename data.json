@@ -511,6 +511,14 @@
       "content": "ElevenLabs raised $500M at $11B valuation (Feb 2026), eyeing IPO. Key insights for Sessions: 1) Voice AI is massive and growing 2) They're moving to hybrid cloud/on-device for wearables - 'voice as constant companion' 3) Partnering with Meta for Instagram/Horizon Worlds. This validates the Sessions thesis: AI voice conversations are a huge market. Consider: what's the moat? ElevenLabs is TTS, Sessions is structured conversations with purpose. Different but adjacent.",
       "createdAt": "2026-02-08T16:01:24.639046Z",
       "tags": []
+    },
+    {
+      "id": "2ed700ac",
+      "category": "learnings",
+      "title": "Voice AI Market Heating Up - ElevenLabs 1B",
+      "content": "ElevenLabs hit 1B valuation (Feb 2026), Nvidia-backed, eyeing IPO. They're expanding beyond voice to 'transform how we interact with technology altogether.' Relevant for Sessions - voice AI market is exploding. Anthropic also eyeing 50B valuation with 0B round. AI is grabbing half of all venture dollars globally.",
+      "createdAt": "2026-02-10T04:01:04.038381Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -568,5 +576,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-08T16:01:24.639076Z"
+  "lastUpdated": "2026-02-10T04:01:04.038410Z"
 }
