@@ -519,6 +519,14 @@
       "content": "ElevenLabs hit 1B valuation (Feb 2026), Nvidia-backed, eyeing IPO. They're expanding beyond voice to 'transform how we interact with technology altogether.' Relevant for Sessions - voice AI market is exploding. Anthropic also eyeing 50B valuation with 0B round. AI is grabbing half of all venture dollars globally.",
       "createdAt": "2026-02-10T04:01:04.038381Z",
       "tags": []
+    },
+    {
+      "id": "47709099",
+      "category": "learnings",
+      "title": "OpenAI Launches Frontier - Enterprise AI Agent Platform",
+      "content": "OpenAI launched Frontier (Feb 5, 2026), a platform for enterprises to build, deploy, and manage AI agents that can operate other software like Salesforce and Workday. Key insight: OpenAI is treating AI agents like 'digital employees' - this positions them to challenge the entire enterprise SaaS stack. Goldman Sachs also announced they're developing Claude-based agents to automate accounting and compliance roles. The enterprise AI agent market is heating up fast - OpenAI vs Anthropic (Claude Cowork) is now a direct competition for corporate automation spend.",
+      "createdAt": "2026-02-11T13:01:56.278876Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -576,5 +584,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-10T04:01:04.038410Z"
+  "lastUpdated": "2026-02-11T13:01:56.278913Z"
 }
