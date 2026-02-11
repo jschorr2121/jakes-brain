@@ -527,6 +527,14 @@
       "content": "OpenAI launched Frontier (Feb 5, 2026), a platform for enterprises to build, deploy, and manage AI agents that can operate other software like Salesforce and Workday. Key insight: OpenAI is treating AI agents like 'digital employees' - this positions them to challenge the entire enterprise SaaS stack. Goldman Sachs also announced they're developing Claude-based agents to automate accounting and compliance roles. The enterprise AI agent market is heating up fast - OpenAI vs Anthropic (Claude Cowork) is now a direct competition for corporate automation spend.",
       "createdAt": "2026-02-11T13:01:56.278876Z",
       "tags": []
+    },
+    {
+      "id": "bf4f8069",
+      "category": "learnings",
+      "title": "OpenAI GPT-5.3 Codex - Agentic Coding Tool",
+      "content": "OpenAI launched GPT-5.3 Codex (Feb 5, 2026) - an agentic coding tool for developers. This is part of OpenAI's broader push into developer productivity alongside Frontier (enterprise agents). Also notable: Skywork launched a Desktop AI Agent for Windows that provides system-wide productivity automation. The trend is clear - AI is moving from chat interfaces to embedded agents that operate within your existing tools and workflows.",
+      "createdAt": "2026-02-11T16:01:18.824297Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -584,5 +592,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-11T13:01:56.278913Z"
+  "lastUpdated": "2026-02-11T16:01:18.824325Z"
 }
