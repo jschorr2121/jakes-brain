@@ -535,6 +535,15 @@
       "content": "OpenAI launched GPT-5.3 Codex (Feb 5, 2026) - an agentic coding tool for developers. This is part of OpenAI's broader push into developer productivity alongside Frontier (enterprise agents). Also notable: Skywork launched a Desktop AI Agent for Windows that provides system-wide productivity automation. The trend is clear - AI is moving from chat interfaces to embedded agents that operate within your existing tools and workflows.",
       "createdAt": "2026-02-11T16:01:18.824297Z",
       "tags": []
+    },
+    {
+      "id": "778bbcc4",
+      "category": "resources",
+      "title": "85 Hottest AI Startups to Watch in 2026",
+      "content": "Wellows compiled a list of 85 AI startups actually winning customers and pulling in major funding. Not the usual suspects - focuses on real traction and team usage. Good resource for competitive research and market awareness. Also notable: Anthropic reportedly close to $20B raise at $350B valuation (Motley Fool, Feb 2026). Multi-tranche funding rounds becoming common for AI startups per Bloomberg.",
+      "createdAt": "2026-02-12T13:00:52.219473Z",
+      "tags": [],
+      "url": "https://wellows.com/blog/ai-startups/"
     }
   ],
   "categories": [
@@ -592,5 +601,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-11T16:01:18.824325Z"
+  "lastUpdated": "2026-02-12T13:00:52.219504Z"
 }
