@@ -544,6 +544,14 @@
       "createdAt": "2026-02-12T13:00:52.219473Z",
       "tags": [],
       "url": "https://wellows.com/blog/ai-startups/"
+    },
+    {
+      "id": "b8364a3c",
+      "category": "resources",
+      "title": "Voice AI Competitive Landscape (Feb 2026)",
+      "content": "**Key Players:**\n- **Newo.ai** - Just raised $25M Series A for SMB front-desk voice AI (20-40% revenue lift claims)\n- **Synthflow** - Enterprise voice AI, 65M+ calls/month, compliance-focused\n- **Upfirst** - Simple per-call pricing for small business answering\n- **Dialora** - Voice automation with growing alternatives\n\n**Market Trends:**\n- Voice AI replacing call centers = 60-80% cost savings\n- 24/7 availability is table stakes\n- Vertical-specific solutions (healthcare, legal, restaurants) command premium\n- Production-grade reliability is the moat\n\n**Sessions Positioning:**\nUnlike these B2B call center plays, Sessions is B2C for personal growth (journaling, reflection, planning). Less competition in consumer space. Focus on *outbound scheduled calls* is differentiated - most competitors are inbound answering services.",
+      "createdAt": "2026-02-15T13:01:53.697387Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -601,5 +609,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-12T13:00:52.219504Z"
+  "lastUpdated": "2026-02-15T13:01:53.697420Z"
 }
