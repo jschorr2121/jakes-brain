@@ -552,6 +552,14 @@
       "content": "**Key Players:**\n- **Newo.ai** - Just raised $25M Series A for SMB front-desk voice AI (20-40% revenue lift claims)\n- **Synthflow** - Enterprise voice AI, 65M+ calls/month, compliance-focused\n- **Upfirst** - Simple per-call pricing for small business answering\n- **Dialora** - Voice automation with growing alternatives\n\n**Market Trends:**\n- Voice AI replacing call centers = 60-80% cost savings\n- 24/7 availability is table stakes\n- Vertical-specific solutions (healthcare, legal, restaurants) command premium\n- Production-grade reliability is the moat\n\n**Sessions Positioning:**\nUnlike these B2B call center plays, Sessions is B2C for personal growth (journaling, reflection, planning). Less competition in consumer space. Focus on *outbound scheduled calls* is differentiated - most competitors are inbound answering services.",
       "createdAt": "2026-02-15T13:01:53.697387Z",
       "tags": []
+    },
+    {
+      "id": "6ae541f6",
+      "category": "learnings",
+      "title": "AI Funding Pulse - Feb 2026",
+      "content": "**Big Moves This Week:**\n\n\ud83c\udfac **Runway** - $315M Series E at $5.3B valuation for AI video generation. Building 'world models' - could be relevant for content creation tools.\n\n\ud83d\ude97 **Waymo** - $16B raise (!) - autonomous vehicles still attracting massive capital despite long timelines.\n\n\ud83d\udcbc **Monaco** - New AI-native CRM from ex-Founders Fund VC Sam Blond. Backed by Collison brothers (Stripe) + Garry Tan (YC). Going after Salesforce.\n\n\ud83c\udfdb\ufe0f **Forerunner** - $39M for AI-powered local government resilience platform.\n\n**Takeaway:** AI infrastructure and vertical SaaS still hot. Consumer AI products (like Sessions) remain less crowded - opportunity zone.",
+      "createdAt": "2026-02-15T18:01:13.881962Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -609,5 +617,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-15T13:01:53.697420Z"
+  "lastUpdated": "2026-02-15T18:01:13.881990Z"
 }
