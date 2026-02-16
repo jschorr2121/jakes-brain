@@ -560,6 +560,14 @@
       "content": "**Big Moves This Week:**\n\n\ud83c\udfac **Runway** - $315M Series E at $5.3B valuation for AI video generation. Building 'world models' - could be relevant for content creation tools.\n\n\ud83d\ude97 **Waymo** - $16B raise (!) - autonomous vehicles still attracting massive capital despite long timelines.\n\n\ud83d\udcbc **Monaco** - New AI-native CRM from ex-Founders Fund VC Sam Blond. Backed by Collison brothers (Stripe) + Garry Tan (YC). Going after Salesforce.\n\n\ud83c\udfdb\ufe0f **Forerunner** - $39M for AI-powered local government resilience platform.\n\n**Takeaway:** AI infrastructure and vertical SaaS still hot. Consumer AI products (like Sessions) remain less crowded - opportunity zone.",
       "createdAt": "2026-02-15T18:01:13.881962Z",
       "tags": []
+    },
+    {
+      "id": "8baa3dd3",
+      "category": "resources",
+      "title": "India AI Impact Summit 2026",
+      "content": "Major AI summit in New Delhi (Feb 16-20). Attendees include Sam Altman (OpenAI), Sundar Pichai (Google), Dario Amodei (Anthropic), Demis Hassabis (DeepMind), Shantanu Narayen (Adobe), and 100+ country delegations. Jensen Huang (NVIDIA) cancelled but sending reps. India positioning itself as global AI hub. Could have implications for AI regulation, compute access, and emerging market AI adoption. Watch for announcements from OpenAI, Google, and Anthropic about India expansions.\n\nLinks:\n- Official site: https://impact.indiaai.gov.in/\n- CNBC coverage: https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
+      "createdAt": "2026-02-16T15:01:35.031594Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -617,5 +625,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-15T18:01:13.881990Z"
+  "lastUpdated": "2026-02-16T15:01:35.031622Z"
 }
