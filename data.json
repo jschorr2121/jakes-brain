@@ -568,6 +568,14 @@
       "content": "Major AI summit in New Delhi (Feb 16-20). Attendees include Sam Altman (OpenAI), Sundar Pichai (Google), Dario Amodei (Anthropic), Demis Hassabis (DeepMind), Shantanu Narayen (Adobe), and 100+ country delegations. Jensen Huang (NVIDIA) cancelled but sending reps. India positioning itself as global AI hub. Could have implications for AI regulation, compute access, and emerging market AI adoption. Watch for announcements from OpenAI, Google, and Anthropic about India expansions.\n\nLinks:\n- Official site: https://impact.indiaai.gov.in/\n- CNBC coverage: https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
       "createdAt": "2026-02-16T15:01:35.031594Z",
       "tags": []
+    },
+    {
+      "id": "632a07e1",
+      "category": "learnings",
+      "title": "ElevenLabs raises $500M at $11B valuation (Feb 2026)",
+      "content": "Voice AI is heating up. ElevenLabs just closed a $500M Series D led by Sequoia, valuing them at $11B \u2014 more than tripling their Jan 2025 valuation. They're eyeing an IPO.\\n\\n**Why it matters for Sessions/Briefing:**\\n- Validates voice AI as a massive market\\n- ElevenLabs is the clear leader in voice synthesis\\n- OpenAI is also investing heavily in voice (Realtime API)\\n- Sessions' 'AI calls you' model is differentiated \u2014 ElevenLabs is about generation, not proactive calling\\n- Could be a future integration option for Sessions (premium voices)\\n\\n**Competitors to watch:** Hume AI (emotion-aware voice), OpenAI Realtime, Delphi (voice clones)\\n\\nSource: TechCrunch, Feb 4 2026",
+      "createdAt": "2026-02-17T15:01:19.468492Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -625,5 +633,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-16T15:01:35.031622Z"
+  "lastUpdated": "2026-02-17T15:01:19.468526Z"
 }
