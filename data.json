@@ -592,6 +592,14 @@
       "content": "**AI Voice Agent Market Analysis (Feb 2026)**\n\nThe voice AI market is crowded with B2B solutions:\n\u2022 CloudTalk, Synthflow, PolyAI, VOCALLS, Cognigy, Bland AI, Retell AI, VAPI, Voiceflow\n\u2022 All focused on: customer service, sales automation, lead qualification, support tickets\n\u2022 Pricing: $350+/month for businesses\n\n**Sessions' Unique Position:**\nSessions is B2C personal AI \u2014 the AI calls YOU for reflection/planning. This is fundamentally different from every competitor.\n\n**Key Differentiators:**\n1. **Direction reversed** \u2014 AI initiates call to user (not user calling support)\n2. **Purpose-driven** \u2014 time-boxed sessions with goals (morning planning, nightly reflection)\n3. **Habit-forming** \u2014 scheduled recurring calls become routine\n4. **Consumer pricing** \u2014 subscription model for individuals, not enterprise contracts\n5. **Personal growth focus** \u2014 not transactional (no sales, no support tickets)\n\n**Competitive Advantage:**\n\u2022 No direct competitors in 'AI calls you for personal growth' space\n\u2022 VAPI/Twilio/OpenAI Realtime are infrastructure, not consumer products\n\u2022 Closest analogs: therapy apps, journaling apps, coaching \u2014 but none use proactive phone calls\n\n**Risk:**\n\u2022 Big tech could enter (Apple, Google) with voice assistant integration\n\u2022 Differentiate through UX, habit mechanics, and community\n\nThis is blue ocean territory. Move fast.",
       "createdAt": "2026-02-18T15:01:10.855122Z",
       "tags": []
+    },
+    {
+      "id": "43631502",
+      "category": "resources",
+      "title": "AI Funding News: Feb 18, 2026",
+      "content": "**Today's notable AI funding rounds:**\n\n1. **Ineffable Intelligence** (London) \u2014 Ex-DeepMind researcher David Silver raising $1B seed at $4B valuation. Led by Sequoia, interest from Nvidia, Google, Microsoft. Could be Europe's biggest AI seed round ever.\n\n2. **BedrockRobotics** \u2014 Autonomous construction startup raised $270M Series B, co-led by CapitalG and Valor Atreides AI Fund.\n\n3. **SambaNova Systems** \u2014 AI chip startup raised $350M+ round led by Vista Equity and Intel for next-gen inference hardware.\n\n**Pattern:** Infrastructure plays (chips, construction robotics) and former BigTech researchers (DeepMind) continue attracting massive capital. Consumer AI apps getting less VC attention \u2014 but that's where Briefing/Sessions compete.\n\nSource: X/Twitter search, Feb 18 2026",
+      "createdAt": "2026-02-18T16:02:36.642663Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -649,5 +657,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-18T15:01:10.855156Z"
+  "lastUpdated": "2026-02-18T16:02:36.642711Z"
 }
