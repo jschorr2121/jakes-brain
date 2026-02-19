@@ -608,6 +608,19 @@
       "content": "**Core principles for bootstrapped founders:**\n\n**Mindset:**\n\u2022 **Bootstrapping** \u2014 Self-funded, full control, no equity dilution, sustainable growth\n\u2022 **MVP** \u2014 Launch with core features only, validate fast, iterate based on feedback\n\u2022 **Build in Public** \u2014 Share progress, revenue, failures publicly. Builds trust + early users\n\u2022 **Scratch your own itch** \u2014 Start from problems you personally have\n\n**Business Models:**\n\u2022 SaaS (subscription) \u2014 Most stable, recurring revenue\n\u2022 Digital products \u2014 One-time purchase, templates, tools\n\u2022 Content products \u2014 Blogs, courses, monetize influence\n\u2022 Diversified revenue \u2014 Don't depend on single income source\n\n**Growth Strategies:**\n\u2022 SEO for organic traffic\n\u2022 Twitter/X + LinkedIn for personal brand\n\u2022 Content marketing (blogs, podcasts)\n\u2022 Community building (email lists, Discord)\n\u2022 Localization for international markets\n\n**Milestones:**\n\u2022 **Ramen Profitability** \u2014 Revenue covers basic living expenses (first major milestone)\n\u2022 Most first products fail \u2014 that's normal. Learn and pivot fast.\n\n**Success Pattern (Pieter Levels model):**\n\u2022 Rapid prototyping\n\u2022 High automation\n\u2022 Build in public\n\u2022 Multi-product portfolio (don't put all eggs in one basket)\n\n**Relevance to Jake's projects:**\n\u2022 Briefing fits SaaS model perfectly\n\u2022 Sessions could be subscription + community\n\u2022 Both should build in public more\n\u2022 Consider diversifying into AI tools (Photo AI pattern)\n\nSource: Alignify indie hackers guide",
       "createdAt": "2026-02-18T19:01:08.247741Z",
       "tags": []
+    },
+    {
+      "id": "89a75cb5",
+      "category": "learnings",
+      "title": "The 80/20 of Shipping: Vertical Slice Development",
+      "content": "Instead of building all features to 50%, build the core user journey to 100%.\n\nThe vertical slice approach:\n1. Pick ONE user journey (e.g., 'user gets a briefing')\n2. Build it end-to-end: UI \u2192 API \u2192 DB \u2192 delivery\n3. Make it work completely before adding features\n4. Each new feature is another vertical slice\n\nWhy it works:\n- You have something shippable at every stage\n- Early feedback on what actually matters\n- Avoid the trap of 'almost done' syndrome\n- Forces prioritization naturally\n\nAnti-pattern: Building authentication, admin dashboard, analytics, user settings... then realizing the core product doesn't work.\n\nReal example: Briefing shipped with just topic selection \u2192 generate \u2192 read. Scheduling, audio, email, payments all came after the core loop was proven.",
+      "createdAt": "2026-02-19T13:01:24.909365Z",
+      "tags": [
+        "shipping",
+        "product",
+        "engineering",
+        "startups"
+      ]
     }
   ],
   "categories": [
@@ -665,5 +678,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-18T19:01:08.247775Z"
+  "lastUpdated": "2026-02-19T13:01:24.909397Z"
 }
