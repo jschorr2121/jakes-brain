@@ -7,7 +7,7 @@ Usage: python add_entry.py --category thoughts --title "Title" --content "Conten
 import json
 import argparse
 import uuid
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 BRAIN_DIR = Path(__file__).parent
@@ -18,7 +18,7 @@ def load_data():
         return json.load(f)
 
 def save_data(data):
-    data['lastUpdated'] = datetime.utcnow().isoformat() + 'Z'
+    data['lastUpdated'] = datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
     with open(DATA_FILE, 'w') as f:
         json.dump(data, f, indent=2)
 
@@ -30,7 +30,7 @@ def add_entry(category, title, content, url=None, tags=None):
         "category": category,
         "title": title,
         "content": content,
-        "createdAt": datetime.utcnow().isoformat() + 'Z',
+        "createdAt": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
         "tags": tags or []
     }
     
