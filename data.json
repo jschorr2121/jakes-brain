@@ -621,6 +621,20 @@
         "engineering",
         "startups"
       ]
+    },
+    {
+      "id": "c7b20a84",
+      "category": "learnings",
+      "title": "The Real Boss Fight: Shipping vs Finding Users",
+      "content": "From X/Twitter indie hacker community (Feb 2026):\n\n'The transition from shipping code to actually finding users is the ultimate boss fight.' \u2014 @Oionz\n\n'I've killed more ideas from self-doubt than from real feedback. Get excited \u2192 start building \u2192 talk myself out of it.' \u2014 @raeybuilds\n\nKey insight: Most solopreneurs die in the distribution phase, not the building phase. AI makes building easier than ever \u2014 but reaching users is unchanged. \n\nImplication: For Briefing and Sessions, the hard part isn't the code. It's getting the first 100 users who actually use it regularly.\n\nAction: Treat marketing/distribution as seriously as engineering. Ship while marketing, don't build then market.",
+      "createdAt": "2026-02-19T14:02:33.527517Z",
+      "tags": [
+        "shipping",
+        "marketing",
+        "solopreneur",
+        "distribution",
+        "buildinpublic"
+      ]
     }
   ],
   "categories": [
@@ -678,5 +692,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-19T13:01:24.909397Z"
+  "lastUpdated": "2026-02-19T14:02:33.527550Z"
 }
