@@ -824,6 +824,14 @@
       "content": "When building products, get pricing/payment live early \u2014 even before you need it. Why: 1) Forces clarity on value proposition (what's actually worth paying for?) 2) Filters feedback to serious users vs. tire-kickers 3) Revenue validates faster than user counts 4) Psychology: charging from day 1 attracts different users than 'going paid later' 5) You'll procrastinate on Stripe if you wait. For Briefing: got Stripe live with ~3 users. Now feedback comes from people who see value, not just friends being nice.",
       "createdAt": "2026-02-20T13:02:00.976244Z",
       "tags": []
+    },
+    {
+      "id": "9094d1ea",
+      "category": "ideas",
+      "title": "Briefing: Audio commute mode",
+      "content": "Feature idea: 'Commute Mode' that auto-generates a ~15min audio briefing optimized for car/subway listening. Combines morning news with a mini-podcast format: intro jingle, topic transitions, conversational tone. Could differentiate from competitors by making news feel less like reading, more like listening to a smart friend catch you up. Implementation: special 'commute' prompt template + longer-form TTS generation + background music/transitions.",
+      "createdAt": "2026-02-20T16:02:04.338528Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -881,5 +889,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-20T13:02:00.976262Z"
+  "lastUpdated": "2026-02-20T16:02:04.338548Z"
 }
