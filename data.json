@@ -816,6 +816,14 @@
         "ai",
         "advice"
       ]
+    },
+    {
+      "id": "eb900ce0",
+      "category": "learnings",
+      "title": "Ship pricing before features",
+      "content": "When building products, get pricing/payment live early \u2014 even before you need it. Why: 1) Forces clarity on value proposition (what's actually worth paying for?) 2) Filters feedback to serious users vs. tire-kickers 3) Revenue validates faster than user counts 4) Psychology: charging from day 1 attracts different users than 'going paid later' 5) You'll procrastinate on Stripe if you wait. For Briefing: got Stripe live with ~3 users. Now feedback comes from people who see value, not just friends being nice.",
+      "createdAt": "2026-02-20T13:02:00.976244Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -873,5 +881,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-19T20:02:01.453587Z"
+  "lastUpdated": "2026-02-20T13:02:00.976262Z"
 }
