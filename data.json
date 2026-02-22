@@ -840,6 +840,14 @@
       "content": "Key insights from TechBullion on building high-revenue solo businesses with AI:\n\n**The 2026 Solopreneur Tech Stack:**\n- 'Vibe Coding' with Claude Code/Replit: build full-stack apps in hours by describing problems in natural language\n- Deploy a 'Squad of Agents': Research Agent, Sales Agent, Support Agent operating autonomously\n- Low-code infrastructure (Lovable, Make.com) with self-healing workflows\n\n**Digital Marketing:**\n- Build in Public 2.0: sell your process, not just product \u2014 share data, workflows, failure logs\n- Content Multipliers: turn one long-form insight into 30+ tailored assets\n- Micro-niche focus: hyper-specific pain points with productized services\n\n**Management Shift:**\n- Goal-based delegation: set high-level goals, let AI figure out tactics\n- Primary KPI: 'Revenue per Human' \u2014 refuse to hire until necessary\n- Design passive revenue streams that run while you're away\n\n**Cost Comparison:**\n- Traditional 5-person startup: ~$40k/month, 6-12 months dev, 10-20% margins\n- 2026 AI Solopreneur: ~$350/month, 3-7 days dev, 80-95% margins\n\nSource: https://techbullion.com/the-solopreneur-empire-leveraging-the-company-of-one-in-2026/",
       "createdAt": "2026-02-21T14:01:23.581581Z",
       "tags": []
+    },
+    {
+      "id": "2c0941c6",
+      "category": "learnings",
+      "title": "LLM Wrappers Are Struggling \u2014 Build Deep Moats",
+      "content": "Google VP Darren Mowry warns that two AI startup models are failing: **LLM wrappers** (thin UI on GPT/Claude) and **aggregators** (routing across models). The winners have 'deep, wide moats' \u2014 like Cursor (coding) or Harvey (legal). Just wrapping a model with a UI isn't enough anymore. You need real differentiation: proprietary data, unique workflows, vertical expertise, or strong network effects.\n\n**Briefing implications:** We're not just a wrapper \u2014 we have scheduling, email delivery, audio TTS, personalization ('For You' algorithm), and subscription billing. But we should keep building moats: user preferences learning, exclusive content sources, superior personalization, social features.\n\nSource: TechCrunch, Feb 21 2026",
+      "createdAt": "2026-02-22T14:01:09.754875Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -897,5 +905,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-21T14:01:23.581599Z"
+  "lastUpdated": "2026-02-22T14:01:09.754895Z"
 }
