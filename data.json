@@ -848,6 +848,14 @@
       "content": "Google VP Darren Mowry warns that two AI startup models are failing: **LLM wrappers** (thin UI on GPT/Claude) and **aggregators** (routing across models). The winners have 'deep, wide moats' \u2014 like Cursor (coding) or Harvey (legal). Just wrapping a model with a UI isn't enough anymore. You need real differentiation: proprietary data, unique workflows, vertical expertise, or strong network effects.\n\n**Briefing implications:** We're not just a wrapper \u2014 we have scheduling, email delivery, audio TTS, personalization ('For You' algorithm), and subscription billing. But we should keep building moats: user preferences learning, exclusive content sources, superior personalization, social features.\n\nSource: TechCrunch, Feb 21 2026",
       "createdAt": "2026-02-22T14:01:09.754875Z",
       "tags": []
+    },
+    {
+      "id": "4608e79c",
+      "category": "articles",
+      "title": "Solo Founder Uses 0/mo AI Subscription Instead of Hiring Employees",
+      "content": "Christina Puder, a career coach who went full-time in 2025, built her entire website using Lovable (AI coding assistant) with just 5 free credits/day. Key insights:\n\n\u2022 60 min \u2192 1 min: Built AI automation that reduced per-client job search from 60 minutes to 1 minute daily. 'Getting 60 minutes a day back for each client has been a massive scale unlock.'\n\n\u2022 0/mo subscription is her 'team' \u2014 thinks of AI tools as workers and tries to use all credits daily to maximize output\n\n\u2022 Built landing page that would have cost thousands in designer/engineer time using free credits\n\n\u2022 Still occasionally goes back to human engineer for edge cases and bugs\n\n\u2022 'Sometimes using AI feels like I'm working with the dumbest person I've ever met, but the word constraint very rarely enters my mind'\n\nSource: Business Insider, Feb 2026",
+      "createdAt": "2026-02-23T13:01:24.010179Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -905,5 +913,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-22T14:01:09.754895Z"
+  "lastUpdated": "2026-02-23T13:01:24.010201Z"
 }
