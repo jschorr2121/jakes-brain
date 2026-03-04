@@ -872,6 +872,14 @@
       "content": "New OpenAI Realtime API model (Feb 24, 2026):\n\u2022 +10% transcription accuracy for numbers/letters\n\u2022 +5% audio reasoning (BigBench Audio)\n\u2022 +7% instruction following\n\u2022 Also: Responses API now supports WebSockets - 20-40% faster for agents with many tool calls\n\nRelevant for Sessions - consider upgrading from gpt-realtime-1 to gpt-realtime-1.5 for better call quality.\n\nSource: https://the-decoder.com/openai-ships-api-upgrades-targeting-voice-reliability-and-agent-speed-for-developers/",
       "createdAt": "2026-03-04T03:02:02.885604Z",
       "tags": []
+    },
+    {
+      "id": "e0bd56c3",
+      "category": "learnings",
+      "title": "AI Funding Explosion - February 2026",
+      "content": "Massive month for AI funding:\n\n\u2022 **OpenAI raised $110B** at $730B pre-money valuation - one of the largest private rounds ever\n\u2022 February 2026 VC totals: $189B globally, with **$171B (90%) going to AI** - triple January's spend\n\u2022 Three companies dominated: OpenAI, Anthropic, Waymo\n\u2022 xAI (Musk) closed $20B round in early Jan\n\u2022 Other notable raises: Trace, Plaid, Code Metal secured millions\n\nThe AI funding frenzy continues accelerating. Good time to be in AI (like Jake is at MS). Also signals that AI-native startups still have room - the big players are getting bigger but capital is flowing freely.",
+      "createdAt": "2026-03-04T13:02:51.568995Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -929,5 +937,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-04T03:02:02.885630Z"
+  "lastUpdated": "2026-03-04T13:02:51.569031Z"
 }
