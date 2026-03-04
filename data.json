@@ -856,6 +856,14 @@
       "content": "Christina Puder, a career coach who went full-time in 2025, built her entire website using Lovable (AI coding assistant) with just 5 free credits/day. Key insights:\n\n\u2022 60 min \u2192 1 min: Built AI automation that reduced per-client job search from 60 minutes to 1 minute daily. 'Getting 60 minutes a day back for each client has been a massive scale unlock.'\n\n\u2022 0/mo subscription is her 'team' \u2014 thinks of AI tools as workers and tries to use all credits daily to maximize output\n\n\u2022 Built landing page that would have cost thousands in designer/engineer time using free credits\n\n\u2022 Still occasionally goes back to human engineer for edge cases and bugs\n\n\u2022 'Sometimes using AI feels like I'm working with the dumbest person I've ever met, but the word constraint very rarely enters my mind'\n\nSource: Business Insider, Feb 2026",
       "createdAt": "2026-02-23T13:01:24.010179Z",
       "tags": []
+    },
+    {
+      "id": "a936ba66",
+      "category": "articles",
+      "title": "AudioPen: Hackathon to 0k/mo",
+      "content": "Louis Pereira built AudioPen (voice-to-text AI) in a half-day hackathon, grew to ~0k/mo in 2 years.\n\n**Key insights:**\n- Non-technical founder using no-code (Bubble, Draftbit, Xano)\n- Only annual/2-year subscriptions \u2014 smart for revenue stability\n- Started by tweeting constantly, then word of mouth took over\n- Survived DDoS attacks \u2014 \"nature of the game\"\n\n**Advice:** \"Just keep building. Eventually, you will strike gold.\"\n\nhttps://www.indiehackers.com/post/tech/building-an-ai-tool-in-a-half-day-hackathon-and-hitting-20k-mo-BCloDTDRfjuip0pDghap",
+      "createdAt": "2026-03-04T01:43:19.925739Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -913,5 +921,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-02-23T13:01:24.010201Z"
+  "lastUpdated": "2026-03-04T01:43:19.925756Z"
 }
