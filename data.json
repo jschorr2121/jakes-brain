@@ -880,6 +880,14 @@
       "content": "Massive month for AI funding:\n\n\u2022 **OpenAI raised $110B** at $730B pre-money valuation - one of the largest private rounds ever\n\u2022 February 2026 VC totals: $189B globally, with **$171B (90%) going to AI** - triple January's spend\n\u2022 Three companies dominated: OpenAI, Anthropic, Waymo\n\u2022 xAI (Musk) closed $20B round in early Jan\n\u2022 Other notable raises: Trace, Plaid, Code Metal secured millions\n\nThe AI funding frenzy continues accelerating. Good time to be in AI (like Jake is at MS). Also signals that AI-native startups still have room - the big players are getting bigger but capital is flowing freely.",
       "createdAt": "2026-03-04T13:02:51.568995Z",
       "tags": []
+    },
+    {
+      "id": "e4500420",
+      "category": "articles",
+      "title": "Anthropic Claude Cowork Enterprise Updates",
+      "content": "Claude Cowork is getting enterprise-grade connectors (Google Drive, Gmail, DocuSign, FactSet) and customizable plugins for financial analysis, engineering, HR. Key quote from Kate Jensen: 'Engineers think about Claude Code as a tool they just couldn't live without anymore. We expect that every knowledge worker will feel that way about Cowork.' Anthropic not yet seeing widespread labor displacement, but impact is uneven - data entry roles at higher risk. Anthropic at 80B valuation, enterprise accounts for ~80% of business. Source: CNBC, Feb 24 2026",
+      "createdAt": "2026-03-04T16:01:30.213488Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -937,5 +945,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-04T13:02:51.569031Z"
+  "lastUpdated": "2026-03-04T16:01:30.213517Z"
 }
