@@ -896,6 +896,14 @@
       "content": "Top income options for SW engineers: 1) AI/Prompt Engineering consulting (0-100+/hr) - leverage your AI expertise. 2) Online courses - create once, earn passively (00-15k/mo potential). 3) Freelance technical writing - manuals, white papers, docs (0-200/hr on Upwork/LinkedIn). 4) Consulting services - advise companies on tech decisions. 5) Digital products - templates, tools, SaaS apps. 6) Technical sales - combine domain expertise with sales for high commissions. Best fit for Jake: AI consulting given MS AI team background + online courses on AI topics. Source: sidehustlepeak.com",
       "createdAt": "2026-03-04T19:01:23.889882Z",
       "tags": []
+    },
+    {
+      "id": "9d1516f4",
+      "category": "articles",
+      "title": "AI Startups Using Dual-Pricing Equity to Inflate Valuations",
+      "content": "TechCrunch reports on a new VC fundraising tactic: AI startups are selling equity at two different prices in the same round. Lead VCs invest a large portion at a lower valuation, then a smaller portion (plus follow-on investors) at a much higher headline valuation. Example: Aaru raised its Series A with Redpoint investing at 450M, then additional capital at 1B \u2014 letting them claim unicorn status. Key insight: in hot markets, perception of being the winner matters as much as actual traction. Source: https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+      "createdAt": "2026-03-05T16:02:32.262886Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -953,5 +961,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-04T19:01:23.889909Z"
+  "lastUpdated": "2026-03-05T16:02:32.262924Z"
 }
