@@ -912,6 +912,14 @@
       "content": "VC firm TRAC uses AI to predict which early-stage startups will become unicorns. Their 2023 list included Harvey (legal AI) and Kalshi (prediction markets) \u2014 both now valued at $11B. Key insight: founder quality doesn't predict success; what matters is attracting top-tier investors (286 elite investors identified). Less than 2% of startups attract these investors, giving ~1-in-5 chance of unicorn status. The model removes the haystack rather than finding needles. Source: Business Insider, March 2026.",
       "createdAt": "2026-03-07T13:14:05.932600Z",
       "tags": []
+    },
+    {
+      "id": "3fbd2c5b",
+      "category": "articles",
+      "title": "Deutsche Telekom + ElevenLabs: AI Agent Mid-Phone Call",
+      "content": "Deutsche Telekom (majority T-Mobile stakeholder) is partnering with ElevenLabs to embed an AI assistant directly into phone calls on their network in Germany. Users can summon it with a wake word mid-call \u2014 no app required. Network-level AI integration rather than app-based. Relevant to Sessions concept: voice AI is going mainstream at the carrier level. Source: WIRED, March 2026.",
+      "createdAt": "2026-03-07T17:13:51.757864Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -969,5 +977,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-07T13:14:05.932624Z"
+  "lastUpdated": "2026-03-07T17:13:51.757894Z"
 }
