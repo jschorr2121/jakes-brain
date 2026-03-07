@@ -904,6 +904,14 @@
       "content": "TechCrunch reports on a new VC fundraising tactic: AI startups are selling equity at two different prices in the same round. Lead VCs invest a large portion at a lower valuation, then a smaller portion (plus follow-on investors) at a much higher headline valuation. Example: Aaru raised its Series A with Redpoint investing at 450M, then additional capital at 1B \u2014 letting them claim unicorn status. Key insight: in hot markets, perception of being the winner matters as much as actual traction. Source: https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
       "createdAt": "2026-03-05T16:02:32.262886Z",
       "tags": []
+    },
+    {
+      "id": "61de6085",
+      "category": "articles",
+      "title": "TRAC's 2026 Predicted Unicorns - Moneyball for VC",
+      "content": "VC firm TRAC uses AI to predict which early-stage startups will become unicorns. Their 2023 list included Harvey (legal AI) and Kalshi (prediction markets) \u2014 both now valued at $11B. Key insight: founder quality doesn't predict success; what matters is attracting top-tier investors (286 elite investors identified). Less than 2% of startups attract these investors, giving ~1-in-5 chance of unicorn status. The model removes the haystack rather than finding needles. Source: Business Insider, March 2026.",
+      "createdAt": "2026-03-07T13:14:05.932600Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -961,5 +969,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-05T16:02:32.262924Z"
+  "lastUpdated": "2026-03-07T13:14:05.932624Z"
 }
