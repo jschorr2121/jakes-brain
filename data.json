@@ -920,6 +920,14 @@
       "content": "Deutsche Telekom (majority T-Mobile stakeholder) is partnering with ElevenLabs to embed an AI assistant directly into phone calls on their network in Germany. Users can summon it with a wake word mid-call \u2014 no app required. Network-level AI integration rather than app-based. Relevant to Sessions concept: voice AI is going mainstream at the carrier level. Source: WIRED, March 2026.",
       "createdAt": "2026-03-07T17:13:51.757864Z",
       "tags": []
+    },
+    {
+      "id": "e60c30b3",
+      "category": "learnings",
+      "title": "AI VC Spending Hit 71B in Feb 2026 \u2014 90% of All VC",
+      "content": "Three companies dominated $189B in total VC investments in February 2026: OpenAI, Anthropic, and Waymo. AI startups overall raised $171B (90% of all capital raised that month) \u2014 more than 3x global VC spend in January. The concentration is staggering: a handful of foundation model companies are absorbing nearly all venture capital. Implications: massive moat-building happening at the infra layer, but opportunity exists in vertical AI applications that use these models. Source: TechCrunch, March 3, 2026.",
+      "createdAt": "2026-03-08T13:55:04.912978Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -977,5 +985,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-07T17:13:51.757894Z"
+  "lastUpdated": "2026-03-08T13:55:04.913005Z"
 }
