@@ -936,6 +936,14 @@
       "content": "Key competitors in AI-powered reflection/journaling space: Reflection.app (top-ranked, AI sentiment analysis + guided prompts), Rosebud (structured prompts), Life Note (wisdom-guided depth), Mindsera (cognitive coaching). ALL are text-based journaling apps. None offer voice/phone call-based sessions \u2014 this remains Sessions' key differentiator. The market is growing but crowded in text. Voice-first reflection is still wide open. Opportunity: position Sessions not as 'journaling' but as 'AI-facilitated phone calls' to avoid category competition.",
       "createdAt": "2026-03-08T14:55:03.381572Z",
       "tags": []
+    },
+    {
+      "id": "3065bd86",
+      "category": "articles",
+      "title": "Pragmatic Engineer: AI Tooling Survey 2026",
+      "content": "Key findings from ~1000 software engineers surveyed: Claude Code rocketed to #1 most-used AI tool in 8 months. 95% use AI weekly, 56% do 70%+ of engineering work with AI. Anthropic's Opus and Sonnet models dominate coding by wide margin (more mentions than all others combined). 55% regularly use AI agents (staff+ engineers at 63.5%). Claude Code is most loved tool (46%) vs Cursor (19%) vs GitHub Copilot (9%). Smaller companies favor Claude Code (75% at smallest), enterprises default to Copilot due to procurement. Most engineers juggle 2-4 AI tools. Source: Pragmatic Engineer newsletter, March 2026.",
+      "createdAt": "2026-03-08T15:55:04.911961Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -993,5 +1001,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-08T14:55:03.381613Z"
+  "lastUpdated": "2026-03-08T15:55:04.911985Z"
 }
