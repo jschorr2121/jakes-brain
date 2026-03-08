@@ -928,6 +928,14 @@
       "content": "Three companies dominated $189B in total VC investments in February 2026: OpenAI, Anthropic, and Waymo. AI startups overall raised $171B (90% of all capital raised that month) \u2014 more than 3x global VC spend in January. The concentration is staggering: a handful of foundation model companies are absorbing nearly all venture capital. Implications: massive moat-building happening at the infra layer, but opportunity exists in vertical AI applications that use these models. Source: TechCrunch, March 3, 2026.",
       "createdAt": "2026-03-08T13:55:04.912978Z",
       "tags": []
+    },
+    {
+      "id": "7741721b",
+      "category": "resources",
+      "title": "AI Journaling Competitive Landscape (March 2026)",
+      "content": "Key competitors in AI-powered reflection/journaling space: Reflection.app (top-ranked, AI sentiment analysis + guided prompts), Rosebud (structured prompts), Life Note (wisdom-guided depth), Mindsera (cognitive coaching). ALL are text-based journaling apps. None offer voice/phone call-based sessions \u2014 this remains Sessions' key differentiator. The market is growing but crowded in text. Voice-first reflection is still wide open. Opportunity: position Sessions not as 'journaling' but as 'AI-facilitated phone calls' to avoid category competition.",
+      "createdAt": "2026-03-08T14:55:03.381572Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -985,5 +993,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-08T13:55:04.913005Z"
+  "lastUpdated": "2026-03-08T14:55:03.381613Z"
 }
