@@ -968,6 +968,14 @@
       "content": "Cursor launched 'Automations' \u2014 a system for auto-launching coding agents triggered by code changes, Slack messages, or timers. Key shift: engineers move from 'prompt-and-monitor' to being called in at the right points. Examples: Bugbot (auto code review on every commit), PagerDuty incident response via MCP, weekly codebase change summaries. Cursor runs hundreds of automations per hour. Competition heating up: OpenAI Codex got a dedicated chip, Claude Code added voice mode. Cursor holds ~25% market share among gen AI clients. Source: https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
       "createdAt": "2026-03-09T16:24:48.852283Z",
       "tags": []
+    },
+    {
+      "id": "27b1615f",
+      "category": "articles",
+      "title": "Pragmatic Engineer: AI Tooling Survey 2026 \u2014 Claude Code is #1",
+      "content": "Nearly 1,000 software engineers surveyed (Jan-Feb 2026). Key findings: (1) Claude Code went from zero to #1 AI coding tool in 8 months, overtaking GitHub Copilot and Cursor. (2) 95% of engineers use AI weekly; 56% do 70%+ of work with AI. (3) Anthropic Opus/Sonnet dominate model choice \u2014 more mentions than all others combined. (4) 55% regularly use AI agents; staff+ engineers lead at 63.5%. (5) Most engineers juggle 2-4 tools. (6) OpenAI Codex already at 60% of Cursor's usage despite being new. (7) Big companies default to Copilot (enterprise procurement), startups prefer Claude Code (75%). (8) Claude Code is most loved (46%), Cursor second (19%), Copilot (9%). Source: https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
+      "createdAt": "2026-03-09T17:24:35.731069Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1025,5 +1033,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-09T16:24:48.852309Z"
+  "lastUpdated": "2026-03-09T17:24:35.731101Z"
 }
