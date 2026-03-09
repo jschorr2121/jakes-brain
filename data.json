@@ -944,6 +944,14 @@
       "content": "Key findings from ~1000 software engineers surveyed: Claude Code rocketed to #1 most-used AI tool in 8 months. 95% use AI weekly, 56% do 70%+ of engineering work with AI. Anthropic's Opus and Sonnet models dominate coding by wide margin (more mentions than all others combined). 55% regularly use AI agents (staff+ engineers at 63.5%). Claude Code is most loved tool (46%) vs Cursor (19%) vs GitHub Copilot (9%). Smaller companies favor Claude Code (75% at smallest), enterprises default to Copilot due to procurement. Most engineers juggle 2-4 AI tools. Source: Pragmatic Engineer newsletter, March 2026.",
       "createdAt": "2026-03-08T15:55:04.911961Z",
       "tags": []
+    },
+    {
+      "id": "1c952318",
+      "category": "articles",
+      "title": "TRAC's AI Model Predicts Next Unicorn Startups (2026 List)",
+      "content": "Business Insider: VC firm TRAC uses AI 'Moneyball for VC' model to predict which early-stage startups will become unicorns. Key insights: (1) Founders don't predict success \u2014 the model prioritizes 286 top investors. (2) Less than 2% of startups attract elite investors, eliminating 98% from consideration. (3) Companies on the list have 1-in-5 chance of becoming unicorns. (4) Competition is fierce \u2014 investor demand exceeds round sizes by 10X. (5) Notable hits from 2023 list: Harvey (legal AI) and Kalshi (prediction markets), both now 1B. New 2026 list includes Allara (women's health), among 30 companies. Link: https://www.businessinsider.com/the-30-early-stage-startups-in-2026-most-likely-to-become-techs-next-unicorns-2026-3",
+      "createdAt": "2026-03-09T13:24:57.605259Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1001,5 +1009,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-08T15:55:04.911985Z"
+  "lastUpdated": "2026-03-09T13:24:57.605287Z"
 }
