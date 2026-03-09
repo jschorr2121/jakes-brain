@@ -960,6 +960,14 @@
       "content": "Key insight from OneSignal: In 2026, onboarding should triage user intent, not teach features. Day 0-3 is an 'intent capture window.' Ask ONE high-value question early ('What are you here for today?') and route users into different cadences. Browse users get lighter nudges; active users get time-sensitive content. For Briefing: this means asking what topics matter FIRST, then personalizing immediately rather than showing a feature tour. Progressive personalization in days 3-14 deepens habit formation. Source: https://onesignal.com/blog/how-leading-mobile-teams-are-rethinking-retention-for-2026/",
       "createdAt": "2026-03-09T14:25:00.384058Z",
       "tags": []
+    },
+    {
+      "id": "02a7e579",
+      "category": "articles",
+      "title": "Cursor Automations: Always-On Coding Agents (Mar 2026)",
+      "content": "Cursor launched 'Automations' \u2014 a system for auto-launching coding agents triggered by code changes, Slack messages, or timers. Key shift: engineers move from 'prompt-and-monitor' to being called in at the right points. Examples: Bugbot (auto code review on every commit), PagerDuty incident response via MCP, weekly codebase change summaries. Cursor runs hundreds of automations per hour. Competition heating up: OpenAI Codex got a dedicated chip, Claude Code added voice mode. Cursor holds ~25% market share among gen AI clients. Source: https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+      "createdAt": "2026-03-09T16:24:48.852283Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1017,5 +1025,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-09T14:25:00.384082Z"
+  "lastUpdated": "2026-03-09T16:24:48.852309Z"
 }
