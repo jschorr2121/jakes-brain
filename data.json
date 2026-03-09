@@ -952,6 +952,14 @@
       "content": "Business Insider: VC firm TRAC uses AI 'Moneyball for VC' model to predict which early-stage startups will become unicorns. Key insights: (1) Founders don't predict success \u2014 the model prioritizes 286 top investors. (2) Less than 2% of startups attract elite investors, eliminating 98% from consideration. (3) Companies on the list have 1-in-5 chance of becoming unicorns. (4) Competition is fierce \u2014 investor demand exceeds round sizes by 10X. (5) Notable hits from 2023 list: Harvey (legal AI) and Kalshi (prediction markets), both now 1B. New 2026 list includes Allara (women's health), among 30 companies. Link: https://www.businessinsider.com/the-30-early-stage-startups-in-2026-most-likely-to-become-techs-next-unicorns-2026-3",
       "createdAt": "2026-03-09T13:24:57.605259Z",
       "tags": []
+    },
+    {
+      "id": "3018431d",
+      "category": "learnings",
+      "title": "App Retention in 2026: Intent Diagnosis Over Feature Tours",
+      "content": "Key insight from OneSignal: In 2026, onboarding should triage user intent, not teach features. Day 0-3 is an 'intent capture window.' Ask ONE high-value question early ('What are you here for today?') and route users into different cadences. Browse users get lighter nudges; active users get time-sensitive content. For Briefing: this means asking what topics matter FIRST, then personalizing immediately rather than showing a feature tour. Progressive personalization in days 3-14 deepens habit formation. Source: https://onesignal.com/blog/how-leading-mobile-teams-are-rethinking-retention-for-2026/",
+      "createdAt": "2026-03-09T14:25:00.384058Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1009,5 +1017,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-09T13:24:57.605287Z"
+  "lastUpdated": "2026-03-09T14:25:00.384082Z"
 }
