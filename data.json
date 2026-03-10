@@ -976,6 +976,14 @@
       "content": "Nearly 1,000 software engineers surveyed (Jan-Feb 2026). Key findings: (1) Claude Code went from zero to #1 AI coding tool in 8 months, overtaking GitHub Copilot and Cursor. (2) 95% of engineers use AI weekly; 56% do 70%+ of work with AI. (3) Anthropic Opus/Sonnet dominate model choice \u2014 more mentions than all others combined. (4) 55% regularly use AI agents; staff+ engineers lead at 63.5%. (5) Most engineers juggle 2-4 tools. (6) OpenAI Codex already at 60% of Cursor's usage despite being new. (7) Big companies default to Copilot (enterprise procurement), startups prefer Claude Code (75%). (8) Claude Code is most loved (46%), Cursor second (19%), Copilot (9%). Source: https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
       "createdAt": "2026-03-09T17:24:35.731069Z",
       "tags": []
+    },
+    {
+      "id": "af52d53d",
+      "category": "learnings",
+      "title": "AI VC Spending Hit 71B in February 2026 Alone",
+      "content": "Three companies dominated $189B in total VC investments in February 2026: OpenAI, Anthropic, and Waymo. AI startups overall raised $171B \u2014 90% of all capital raised that month \u2014 more than 3x the global VC spend in January. This isn't a bubble indicator per se, but it shows how completely AI has captured the venture capital market. For builders: the funding environment is incredibly favorable if you're building in AI, but competition for attention is also at an all-time high. Differentiation matters more than ever. Source: TechCrunch/Crunchbase",
+      "createdAt": "2026-03-10T14:01:43.225857Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1033,5 +1041,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-09T17:24:35.731101Z"
+  "lastUpdated": "2026-03-10T14:01:43.225884Z"
 }
