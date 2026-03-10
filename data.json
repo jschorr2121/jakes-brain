@@ -1000,6 +1000,14 @@
       "content": "TRAC's AI model for predicting unicorns (2 of their 2023 picks \u2014 Harvey and Kalshi \u2014 hit $11B). Key insight: founder quality does NOT predict startup success in their model. Instead, they track 286 elite investors whose portfolios profit on 2/3 of positions with 1-in-5 returning 10X+. Less than 2% of startups attract these investors, so that alone eliminates 98% of the haystack. Their identified companies have a 1-in-5 chance of becoming unicorns. The bottleneck now isn't identifying winners \u2014 AI makes that easier than ever \u2014 it's getting allocation in their rounds because every VC is chasing the same deals. Implication: for builders, getting the RIGHT investors matters more than almost anything else. Source: Business Insider, March 2026",
       "createdAt": "2026-03-10T16:00:48.856352Z",
       "tags": []
+    },
+    {
+      "id": "bc7731d5",
+      "category": "resources",
+      "title": "AI Coding Agents 2026: Complete Comparison (Claude Code, Cursor, Codex, Antigravity, Kiro, Copilot, Windsurf)",
+      "content": "Comprehensive comparison of the 7 major AI coding tools as of March 2026. Key taxonomy: Assistants (inline suggestions) \u2192 Agents (plan/execute/verify autonomously) \u2192 Agentic IDEs (full IDE with deep agent integration). Every tool is racing toward 'agent' category. Claude Code is terminal-native powerhouse. Google Antigravity launched with multi-agent orchestration. OpenAI Codex is cloud-first with desktop app. Cursor is power user's IDE. Kiro (AWS) does spec-driven development. Copilot is safe enterprise pick. Windsurf is best value agentic IDE. Note: RAND study found 80-90% of 'AI agent' products are still chatbot wrappers \u2014 these 7 are the real deal. Source: lushbinary.com",
+      "createdAt": "2026-03-10T17:01:01.309257Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1057,5 +1065,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-10T16:00:48.856404Z"
+  "lastUpdated": "2026-03-10T17:01:01.309288Z"
 }
