@@ -1008,6 +1008,14 @@
       "content": "Comprehensive comparison of the 7 major AI coding tools as of March 2026. Key taxonomy: Assistants (inline suggestions) \u2192 Agents (plan/execute/verify autonomously) \u2192 Agentic IDEs (full IDE with deep agent integration). Every tool is racing toward 'agent' category. Claude Code is terminal-native powerhouse. Google Antigravity launched with multi-agent orchestration. OpenAI Codex is cloud-first with desktop app. Cursor is power user's IDE. Kiro (AWS) does spec-driven development. Copilot is safe enterprise pick. Windsurf is best value agentic IDE. Note: RAND study found 80-90% of 'AI agent' products are still chatbot wrappers \u2014 these 7 are the real deal. Source: lushbinary.com",
       "createdAt": "2026-03-10T17:01:01.309257Z",
       "tags": []
+    },
+    {
+      "id": "6eb89e24",
+      "category": "ideas",
+      "title": "Micro-SaaS Income: Unsexy Problems = Best Opportunities",
+      "content": "Biggest micro-SaaS opportunities in 2026 are in vertical SaaS (tools for one specific industry, e.g. 'CRM for Landscapers') and AI-powered niche solutions. Solo founders making $50K-$3M/year. Best ideas come from 'unsexy' needs: compliance checklists, AI spend alerts, accessibility scans, onboarding portals, invoice reminder bots. Key insight: you don't need 1M users \u2014 just 10-100 users paying $10-$50/mo for a specific pain point you solve better than anyone. Jake already has the stack (Next.js, Supabase, Vercel) to ship these fast. Briefing itself is a micro-SaaS \u2014 apply the same playbook to more niches. Sources: elementor.com, hostinger.com, articsledge.com",
+      "createdAt": "2026-03-10T19:02:43.531797Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1065,5 +1073,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-10T17:01:01.309288Z"
+  "lastUpdated": "2026-03-10T19:02:43.531827Z"
 }
