@@ -992,6 +992,14 @@
       "content": "Key platforms for building real-time voice AI agents \u2014 relevant to Sessions app development. Top picks: Retell AI (low latency, transparent per-minute pricing, developer-first), SquadStack (outcome-driven, enterprise scale), Inworld (character-driven, games/simulations), Leaping AI (customer service automation). All combine real-time STT + LLM + workflow logic + TTS. Key consideration: pricing clarity varies widely across vendors \u2014 some transparent usage-based, others need enterprise scoping. Worth evaluating Retell AI specifically for Sessions given its focus on natural conversation and developer tools. Source: vellum.ai/blog",
       "createdAt": "2026-03-10T15:00:45.786289Z",
       "tags": []
+    },
+    {
+      "id": "bf0f4aaf",
+      "category": "ideas",
+      "title": "TRAC's 'Moneyball for VC' \u2014 Investors Predict Success, Not Founders",
+      "content": "TRAC's AI model for predicting unicorns (2 of their 2023 picks \u2014 Harvey and Kalshi \u2014 hit $11B). Key insight: founder quality does NOT predict startup success in their model. Instead, they track 286 elite investors whose portfolios profit on 2/3 of positions with 1-in-5 returning 10X+. Less than 2% of startups attract these investors, so that alone eliminates 98% of the haystack. Their identified companies have a 1-in-5 chance of becoming unicorns. The bottleneck now isn't identifying winners \u2014 AI makes that easier than ever \u2014 it's getting allocation in their rounds because every VC is chasing the same deals. Implication: for builders, getting the RIGHT investors matters more than almost anything else. Source: Business Insider, March 2026",
+      "createdAt": "2026-03-10T16:00:48.856352Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1049,5 +1057,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-10T15:00:45.786321Z"
+  "lastUpdated": "2026-03-10T16:00:48.856404Z"
 }
