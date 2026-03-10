@@ -984,6 +984,14 @@
       "content": "Three companies dominated $189B in total VC investments in February 2026: OpenAI, Anthropic, and Waymo. AI startups overall raised $171B \u2014 90% of all capital raised that month \u2014 more than 3x the global VC spend in January. This isn't a bubble indicator per se, but it shows how completely AI has captured the venture capital market. For builders: the funding environment is incredibly favorable if you're building in AI, but competition for attention is also at an all-time high. Differentiation matters more than ever. Source: TechCrunch/Crunchbase",
       "createdAt": "2026-03-10T14:01:43.225857Z",
       "tags": []
+    },
+    {
+      "id": "a5c6f6bd",
+      "category": "resources",
+      "title": "Top AI Voice Agent Platforms (2026)",
+      "content": "Key platforms for building real-time voice AI agents \u2014 relevant to Sessions app development. Top picks: Retell AI (low latency, transparent per-minute pricing, developer-first), SquadStack (outcome-driven, enterprise scale), Inworld (character-driven, games/simulations), Leaping AI (customer service automation). All combine real-time STT + LLM + workflow logic + TTS. Key consideration: pricing clarity varies widely across vendors \u2014 some transparent usage-based, others need enterprise scoping. Worth evaluating Retell AI specifically for Sessions given its focus on natural conversation and developer tools. Source: vellum.ai/blog",
+      "createdAt": "2026-03-10T15:00:45.786289Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1041,5 +1049,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-10T14:01:43.225884Z"
+  "lastUpdated": "2026-03-10T15:00:45.786321Z"
 }
