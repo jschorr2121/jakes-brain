@@ -1024,6 +1024,14 @@
       "content": "NVIDIA announcing NemoClaw at GTC 2026 (March 15) \u2014 an open-source AI agent framework for enterprises. Built for safe agent deployment. Worth watching for Sessions and any agentic work. Also: Thinking Machines Lab got massive Nvidia chip deal, Rhoda AI raised $450M at $1.7B valuation for robot intelligence. AI agent infrastructure is the hot space right now.",
       "createdAt": "2026-03-11T13:01:29.782177Z",
       "tags": []
+    },
+    {
+      "id": "e3dc45e7",
+      "category": "learnings",
+      "title": "Particle News App \u2014 Briefing's Closest Competitor (March 2026)",
+      "content": "Particle (by ex-Twitter engineers, $4.4M raised) is the most direct competitor to Briefing. Key features as of Feb 2026: AI-powered news summaries from multiple sources, personalized audio feed ('Listen to the News'), podcast clip extraction (listens to podcasts and surfaces relevant clips), natural language customization of summary style, AI chatbot for questions, crossword puzzles. Now on iOS, Android AND web. Artifact (Instagram cofounders) shut down but was acquired by Yahoo for Yahoo News AI features. Briefing differentiator: scheduled email delivery, topic-based briefings vs. feed-based browsing, simpler/more focused UX. Opportunity: Briefing could add podcast clips and audio personalization to compete.",
+      "createdAt": "2026-03-11T14:01:33.599939Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1081,5 +1089,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-11T13:01:29.782207Z"
+  "lastUpdated": "2026-03-11T14:01:33.599968Z"
 }
