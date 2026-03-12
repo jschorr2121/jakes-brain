@@ -1056,6 +1056,14 @@
       "content": "Key competitors in the AI briefing space as of March 2026:\n\n\u2022 alfred_ ($24.99/mo) \u2014 Briefing + action layer (email drafts, calendar, follow-ups). Closest competitor to Briefing's vision but focused on productivity, not news.\n\u2022 Google Gemini (free with Workspace) \u2014 Gmail/Calendar summaries, locked to Google ecosystem.\n\u2022 Reclaim.ai (free-$18/mo) \u2014 Calendar-centric, no email/news context.\n\u2022 Clockwise \u2014 Focus time protection, not really a briefing tool.\n\u2022 Notion AI ($20/user/mo) \u2014 Workspace summaries, no email/calendar integration.\n\nKey insight: Most tools summarize without enabling action. The briefing-to-action gap is the main complaint. Briefing's differentiator is NEWS focus (not productivity), audio delivery, and topic personalization \u2014 none of these competitors do that. There's a clear gap for a news-first daily briefing app.\n\nSource: get-alfred.ai/blog/best-ai-daily-briefing-tools",
       "createdAt": "2026-03-12T16:00:45.281867Z",
       "tags": []
+    },
+    {
+      "id": "931fe368",
+      "category": "articles",
+      "title": "Morgan Stanley TMT Conference: AI workforce crisis warning & capability jump prediction",
+      "content": "From MS's TMT Conference (March 2026): Several US LLM lab executives warned near-term AI progress would 'surprise, and potentially shock, investors.' MS analysts believe a non-linear jump in model capabilities will become evident between April-June 2026. MS's top tech banker David Chen said it's 'wartime, not peacetime' for software \u2014 AI cost-cutting is now table stakes, and companies need to think about fundamental business model transformation. Directly relevant: Jake works on MS's AI team.",
+      "createdAt": "2026-03-12T17:01:05.108002Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1113,5 +1121,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-12T16:00:45.281895Z"
+  "lastUpdated": "2026-03-12T17:01:05.108031Z"
 }
