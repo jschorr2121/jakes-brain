@@ -1048,6 +1048,14 @@
       "content": "Thinking Machines (founded by ex-OpenAI CTO Mira Murati) struck a multiyear deal with Nvidia including significant investment and access to 1+ gigawatt of next-gen Vera Rubin chips. Shows how the AI race is increasingly defined by who can secure compute, not just model quality.",
       "createdAt": "2026-03-12T13:01:25.370304Z",
       "tags": []
+    },
+    {
+      "id": "27d2adb2",
+      "category": "resources",
+      "title": "Briefing Competitive Landscape: AI Daily Briefing Tools (Mar 2026)",
+      "content": "Key competitors in the AI briefing space as of March 2026:\n\n\u2022 alfred_ ($24.99/mo) \u2014 Briefing + action layer (email drafts, calendar, follow-ups). Closest competitor to Briefing's vision but focused on productivity, not news.\n\u2022 Google Gemini (free with Workspace) \u2014 Gmail/Calendar summaries, locked to Google ecosystem.\n\u2022 Reclaim.ai (free-$18/mo) \u2014 Calendar-centric, no email/news context.\n\u2022 Clockwise \u2014 Focus time protection, not really a briefing tool.\n\u2022 Notion AI ($20/user/mo) \u2014 Workspace summaries, no email/calendar integration.\n\nKey insight: Most tools summarize without enabling action. The briefing-to-action gap is the main complaint. Briefing's differentiator is NEWS focus (not productivity), audio delivery, and topic personalization \u2014 none of these competitors do that. There's a clear gap for a news-first daily briefing app.\n\nSource: get-alfred.ai/blog/best-ai-daily-briefing-tools",
+      "createdAt": "2026-03-12T16:00:45.281867Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1105,5 +1113,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-12T13:01:25.370336Z"
+  "lastUpdated": "2026-03-12T16:00:45.281895Z"
 }
