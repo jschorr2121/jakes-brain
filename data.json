@@ -1032,6 +1032,22 @@
       "content": "Particle (by ex-Twitter engineers, $4.4M raised) is the most direct competitor to Briefing. Key features as of Feb 2026: AI-powered news summaries from multiple sources, personalized audio feed ('Listen to the News'), podcast clip extraction (listens to podcasts and surfaces relevant clips), natural language customization of summary style, AI chatbot for questions, crossword puzzles. Now on iOS, Android AND web. Artifact (Instagram cofounders) shut down but was acquired by Yahoo for Yahoo News AI features. Briefing differentiator: scheduled email delivery, topic-based briefings vs. feed-based browsing, simpler/more focused UX. Opportunity: Briefing could add podcast clips and audio personalization to compete.",
       "createdAt": "2026-03-11T14:01:33.599939Z",
       "tags": []
+    },
+    {
+      "id": "c6ddf6f0",
+      "category": "articles",
+      "title": "Netflix acquires Ben Affleck's AI startup InterPositive for ~00M",
+      "content": "Netflix acquired InterPositive, an AI company co-founded by Ben Affleck that helps filmmakers edit footage in post-production. Reportedly paid around 00 million. Interesting signal: Hollywood is investing heavily in AI tooling for content production, not just generation.",
+      "createdAt": "2026-03-12T13:01:25.293795Z",
+      "tags": []
+    },
+    {
+      "id": "4cd01287",
+      "category": "articles",
+      "title": "Mira Murati's Thinking Machines lands massive Nvidia deal",
+      "content": "Thinking Machines (founded by ex-OpenAI CTO Mira Murati) struck a multiyear deal with Nvidia including significant investment and access to 1+ gigawatt of next-gen Vera Rubin chips. Shows how the AI race is increasingly defined by who can secure compute, not just model quality.",
+      "createdAt": "2026-03-12T13:01:25.370304Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1089,5 +1105,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-11T14:01:33.599968Z"
+  "lastUpdated": "2026-03-12T13:01:25.370336Z"
 }
