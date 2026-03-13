@@ -1072,6 +1072,22 @@
       "content": "Quick-ship product ideas leveraging Jake's AI/engineering skills + existing infra:\n\n1. **Briefing API/White-label** \u2014 Offer Briefing's news generation as an API. Companies pay per briefing generated. Jake already has the engine built.\n\n2. **AI Email Digest Service** \u2014 Like the Simona daily email but as a product. Users set interests, get personalized daily emails. Could charge $5-10/mo. Already built the core tech.\n\n3. **Resy Sniper as a Service** \u2014 Lots of people want hard-to-get reservations. Charge $10-20/mo to monitor and auto-book. Legal gray area but huge demand.\n\n4. **OpenClaw/Clawdbot templates** \u2014 Package the daily briefing, resy monitoring, price alerts as installable skills on ClawHub. Revenue share or direct sales.\n\n5. **AI Voice Session Summaries** \u2014 Sessions app tech repurposed: companies record meetings via phone, get AI summaries. Charge per session.\n\nKey: All of these leverage code Jake has ALREADY BUILT. Ship fast, iterate.",
       "createdAt": "2026-03-12T20:00:38.769600Z",
       "tags": []
+    },
+    {
+      "id": "423d66a6",
+      "category": "articles",
+      "title": "Morgan Stanley: AI Breakthrough Coming H1 2026",
+      "content": "Fortune article (Mar 13): MS warns a transformative AI leap is imminent. GPT-5.4 scored 83% on GDPVal (human expert level). 10x compute = 2x intelligence per Musk. Power shortfall of 9-18 GW through 2028. 15-15-15 dynamic in data centers. MS predicts AI as powerful deflationary force \u2014 companies of 1-5 people outcompeting incumbents. Relevant: Jake works on MS AI team. https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/",
+      "createdAt": "2026-03-13T13:01:12.220914Z",
+      "tags": []
+    },
+    {
+      "id": "fbdd0eaf",
+      "category": "resources",
+      "title": "MiroFish \u2014 Open-Source Swarm Intelligence Prediction Engine",
+      "content": "Trending on GitHub (17k+ stars). Universal swarm-intelligence engine that simulates thousands of AI agents to predict markets and public opinion. Agents have behavioral profiles, memory, and decision-making logic \u2014 interact in parallel to model collective social behavior. Uses real-world data (news, financial, policy, social media) converted to knowledge graphs. Potential tool for market prediction and scenario planning. https://github.com/mirofish (check exact URL)",
+      "createdAt": "2026-03-13T13:01:12.286342Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1129,5 +1145,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-12T20:00:38.769631Z"
+  "lastUpdated": "2026-03-13T13:01:12.286403Z"
 }
