@@ -1088,6 +1088,14 @@
       "content": "Trending on GitHub (17k+ stars). Universal swarm-intelligence engine that simulates thousands of AI agents to predict markets and public opinion. Agents have behavioral profiles, memory, and decision-making logic \u2014 interact in parallel to model collective social behavior. Uses real-world data (news, financial, policy, social media) converted to knowledge graphs. Potential tool for market prediction and scenario planning. https://github.com/mirofish (check exact URL)",
       "createdAt": "2026-03-13T13:01:12.286342Z",
       "tags": []
+    },
+    {
+      "id": "5001c897",
+      "category": "articles",
+      "title": "YC W26 Batch Is 'Freakishly Strong'",
+      "content": "Jared Heyman (Rebel Fund) analyzed the YC Winter 2026 batch using their ML algorithm for predicting startup success. 35% of W26 startups scored as 'top 20% companies' \u2014 far more than any previous batch. The entire distribution curve shifted right: more predicted successes, fewer predicted zombies. Key driver: W26 founders demonstrate more characteristics historically correlated with strong outcomes. Garry Tan's leadership refocused YC on fundamentals. Source: https://jaredheyman.medium.com/on-the-freakishly-strong-yc-w26-batch-056ccb666076",
+      "createdAt": "2026-03-14T13:01:16.189867Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1145,5 +1153,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-13T13:01:12.286403Z"
+  "lastUpdated": "2026-03-14T13:01:16.189894Z"
 }
