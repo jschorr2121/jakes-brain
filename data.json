@@ -1096,6 +1096,14 @@
       "content": "Jared Heyman (Rebel Fund) analyzed the YC Winter 2026 batch using their ML algorithm for predicting startup success. 35% of W26 startups scored as 'top 20% companies' \u2014 far more than any previous batch. The entire distribution curve shifted right: more predicted successes, fewer predicted zombies. Key driver: W26 founders demonstrate more characteristics historically correlated with strong outcomes. Garry Tan's leadership refocused YC on fundamentals. Source: https://jaredheyman.medium.com/on-the-freakishly-strong-yc-w26-batch-056ccb666076",
       "createdAt": "2026-03-14T13:01:16.189867Z",
       "tags": []
+    },
+    {
+      "id": "8d3c0f0d",
+      "category": "ideas",
+      "title": "Micro-SaaS Playbook: Niches Big Companies Ignore",
+      "content": "Key framework for profitable micro-SaaS in 2026: Target 10k-50k potential customers, price at $50-200/mo, solve ONE problem exceptionally well. Sweet spot: 100 customers \u00d7 $99/mo = $9.9k MRR. Best niches: vertical-specific tools (small landlords, vet clinics, niche freelancers), workflow automation for small teams, community-driven products. Validate before building \u2014 look for industries using spreadsheets/manual processes with money to spend. Solo founders can hit $10k MRR in 12-18 months. Source: https://saasify.sh/23-profitable-micro-saas-niches-that-big-companies-ignore-in-2026-2/",
+      "createdAt": "2026-03-14T19:07:56.176702Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1153,5 +1161,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-14T13:01:16.189894Z"
+  "lastUpdated": "2026-03-14T19:07:56.176735Z"
 }
