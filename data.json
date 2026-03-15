@@ -1112,6 +1112,14 @@
       "content": "Key insight: Enterprises are doubling AI spending (0.8% to 1.7% of revenues per BCG). The big shift is from 'AI features' bolted onto existing products to AI workers handling entire processes autonomously. AI-native startups have an edge over incumbents stuck retrofitting legacy solutions. The emerging agentic AI stack includes: self-correcting workflows, secure memory for retained context, and multi-agent collaboration. Industry-expert founders are increasingly building vertical-specific autonomous workflow solutions. Takeaway for builders: don't add AI features to old products \u2014 build AI-native from scratch around autonomous workflows targeting specific business processes (KYC, FP&A, compliance, etc.).",
       "createdAt": "2026-03-15T13:08:19.778434Z",
       "tags": []
+    },
+    {
+      "id": "50ffb4b1",
+      "category": "learnings",
+      "title": "Enterprise Agentic AI: The Process Layer Gap",
+      "content": "From VentureBeat/Celonis 2026 report (1,600+ business leaders surveyed): 85% of enterprises want to go agentic within 3 years, but 76% admit their operations can't support it. Only 19% use multi-agent systems today. The bottleneck isn't AI capability \u2014 it's operational readiness: siloed teams, disconnected systems, unoptimized processes. 82% of leaders believe AI will fail to deliver ROI without understanding how the business actually runs. Key insight: process optimization is no longer a background IT project \u2014 it's a prerequisite for competing with AI. Massive startup opportunity in the 'process intelligence' layer that sits between AI agents and enterprise operations.",
+      "createdAt": "2026-03-15T15:01:11.919159Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1169,5 +1177,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-15T13:08:19.778464Z"
+  "lastUpdated": "2026-03-15T15:01:11.919186Z"
 }
