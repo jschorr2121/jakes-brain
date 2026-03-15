@@ -1104,6 +1104,14 @@
       "content": "Key framework for profitable micro-SaaS in 2026: Target 10k-50k potential customers, price at $50-200/mo, solve ONE problem exceptionally well. Sweet spot: 100 customers \u00d7 $99/mo = $9.9k MRR. Best niches: vertical-specific tools (small landlords, vet clinics, niche freelancers), workflow automation for small teams, community-driven products. Validate before building \u2014 look for industries using spreadsheets/manual processes with money to spend. Solo founders can hit $10k MRR in 12-18 months. Source: https://saasify.sh/23-profitable-micro-saas-niches-that-big-companies-ignore-in-2026-2/",
       "createdAt": "2026-03-14T19:07:56.176702Z",
       "tags": []
+    },
+    {
+      "id": "f34d5cbd",
+      "category": "articles",
+      "title": "From AI Features to AI Workers: The 2026 Enterprise Shift",
+      "content": "Key insight: Enterprises are doubling AI spending (0.8% to 1.7% of revenues per BCG). The big shift is from 'AI features' bolted onto existing products to AI workers handling entire processes autonomously. AI-native startups have an edge over incumbents stuck retrofitting legacy solutions. The emerging agentic AI stack includes: self-correcting workflows, secure memory for retained context, and multi-agent collaboration. Industry-expert founders are increasingly building vertical-specific autonomous workflow solutions. Takeaway for builders: don't add AI features to old products \u2014 build AI-native from scratch around autonomous workflows targeting specific business processes (KYC, FP&A, compliance, etc.).",
+      "createdAt": "2026-03-15T13:08:19.778434Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1161,5 +1169,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-14T19:07:56.176735Z"
+  "lastUpdated": "2026-03-15T13:08:19.778464Z"
 }
