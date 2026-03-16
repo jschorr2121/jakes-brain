@@ -1120,6 +1120,14 @@
       "content": "From VentureBeat/Celonis 2026 report (1,600+ business leaders surveyed): 85% of enterprises want to go agentic within 3 years, but 76% admit their operations can't support it. Only 19% use multi-agent systems today. The bottleneck isn't AI capability \u2014 it's operational readiness: siloed teams, disconnected systems, unoptimized processes. 82% of leaders believe AI will fail to deliver ROI without understanding how the business actually runs. Key insight: process optimization is no longer a background IT project \u2014 it's a prerequisite for competing with AI. Massive startup opportunity in the 'process intelligence' layer that sits between AI agents and enterprise operations.",
       "createdAt": "2026-03-15T15:01:11.919159Z",
       "tags": []
+    },
+    {
+      "id": "2262aa84",
+      "category": "learnings",
+      "title": "AI Funding Hits Record Highs: Feb 2026 Was 89B Month",
+      "content": "February 2026 was the largest startup funding month on record at $189 billion \u2014 with 83% concentrated in just three companies: OpenAI ($110B), Anthropic ($30B), and Waymo ($16B). Meanwhile, Yann LeCun (Meta's chief AI scientist) left to start his own company and raised $1.03 billion in seed funding for 'Advanced Machine Intelligence,' focused on world models that navigate the real world better than current AI. Nvidia GTC happening this week (March 16-19) \u2014 expect major announcements. The AI funding landscape is increasingly winner-take-all at the frontier model layer, but massive opportunity remains in vertical applications and agentic infrastructure.",
+      "createdAt": "2026-03-16T13:01:14.333224Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1177,5 +1185,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-15T15:01:11.919186Z"
+  "lastUpdated": "2026-03-16T13:01:14.333251Z"
 }
