@@ -1136,6 +1136,14 @@
       "content": "March 2026 has already produced more $100M+ AI funding rounds than any comparable period in venture history. Key rounds: Yann LeCun's and Mira Murati's startups raised billion-dollar+ rounds. Kevin Mandia's Armadin raised $189.9M for AI-driven cyberattack simulation. Kai raised $125M for agent-driven AI security. Nscale (UK) raised $2B, Advanced Machine Intelligence (Paris) raised $1.03B. Nexthop AI and Mind Robotics each raised $500M in the US. The AI infrastructure war is real \u2014 Nvidia GTC 2026 focused on 'AI factories' and the $1T infrastructure buildout. Source: SiliconANGLE, Crunchbase, AI Funding Tracker",
       "createdAt": "2026-03-19T13:01:22.808328Z",
       "tags": []
+    },
+    {
+      "id": "96a11465",
+      "category": "learnings",
+      "title": "AI Agents Going Enterprise - GTC 2026",
+      "content": "Key trend from Nvidia GTC (March 2026): AI agents are going enterprise. Nvidia launched NemoClaw \u2014 an enterprise version of OpenClaw with security, privacy controls, and policy enforcement for deploying AI assistants in business settings. Alibaba launched Wukong \u2014 an agentic AI platform for running multiple AI agents from a single interface across Slack, Teams, and WeChat. Cognition AI (Devin) and Anysphere (Cursor) among fastest-growing AI startups. The agent layer is where the value is being created now \u2014 not just models, but orchestration and deployment. Relevant to Jake's work at Morgan Stanley AI team and his own startup ambitions.",
+      "createdAt": "2026-03-19T17:00:42.990263Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1193,5 +1201,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-19T13:01:22.808358Z"
+  "lastUpdated": "2026-03-19T17:00:42.990294Z"
 }
