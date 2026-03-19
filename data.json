@@ -1128,6 +1128,14 @@
       "content": "February 2026 was the largest startup funding month on record at $189 billion \u2014 with 83% concentrated in just three companies: OpenAI ($110B), Anthropic ($30B), and Waymo ($16B). Meanwhile, Yann LeCun (Meta's chief AI scientist) left to start his own company and raised $1.03 billion in seed funding for 'Advanced Machine Intelligence,' focused on world models that navigate the real world better than current AI. Nvidia GTC happening this week (March 16-19) \u2014 expect major announcements. The AI funding landscape is increasingly winner-take-all at the frontier model layer, but massive opportunity remains in vertical applications and agentic infrastructure.",
       "createdAt": "2026-03-16T13:01:14.333224Z",
       "tags": []
+    },
+    {
+      "id": "69ed7bd0",
+      "category": "articles",
+      "title": "AI Funding Frenzy March 2026",
+      "content": "March 2026 has already produced more $100M+ AI funding rounds than any comparable period in venture history. Key rounds: Yann LeCun's and Mira Murati's startups raised billion-dollar+ rounds. Kevin Mandia's Armadin raised $189.9M for AI-driven cyberattack simulation. Kai raised $125M for agent-driven AI security. Nscale (UK) raised $2B, Advanced Machine Intelligence (Paris) raised $1.03B. Nexthop AI and Mind Robotics each raised $500M in the US. The AI infrastructure war is real \u2014 Nvidia GTC 2026 focused on 'AI factories' and the $1T infrastructure buildout. Source: SiliconANGLE, Crunchbase, AI Funding Tracker",
+      "createdAt": "2026-03-19T13:01:22.808328Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1185,5 +1193,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-16T13:01:14.333251Z"
+  "lastUpdated": "2026-03-19T13:01:22.808358Z"
 }
