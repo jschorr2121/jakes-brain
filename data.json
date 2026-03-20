@@ -1152,6 +1152,14 @@
       "content": "March 2026 has produced more $100M+ AI funding rounds than any comparable period in VC history. Key trend: capital is flowing beyond model training into enterprise 'connective tissue' \u2014 networking (Nexthop AI $500M), cybersecurity (Kai $125M), procurement (Oro Labs $100M), code safety (Axiom $200M). The network layer connecting GPU clusters is now a standalone investment category. Consumer AI also breaking through: Quince hit $10.1B valuation with AI-powered e-commerce. Takeaway: the biggest opportunities may not be in building models but in the infrastructure and trust layers enterprises need before deploying AI agents at scale.",
       "createdAt": "2026-03-20T12:01:01.145709Z",
       "tags": []
+    },
+    {
+      "id": "3a6933bb",
+      "category": "learnings",
+      "title": "Enterprise AI Agents: 67% of Fortune 500 Now in Production",
+      "content": "March 2026 data: 67% of Fortune 500 companies now have at least one AI agent in production, up from 34% in 2025 \u2014 nearly doubling in one year. Customer service leads adoption. The agentic AI market is projected to grow from $9.14B (early 2026) to $139B by 2034. Financial services shows strongest adoption and ROI (per Nvidia's State of AI report). Meanwhile, Oasis Security raised $120M Series B (Craft Ventures, Sequoia) specifically for securing non-human identities and agentic access \u2014 security for AI agents is becoming its own category. Relevant: Jake works on Morgan Stanley's AI team, which is right at the center of this wave.",
+      "createdAt": "2026-03-20T17:00:55.429815Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1209,5 +1217,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-20T12:01:01.145736Z"
+  "lastUpdated": "2026-03-20T17:00:55.429847Z"
 }
