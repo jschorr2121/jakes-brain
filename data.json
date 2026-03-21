@@ -1168,6 +1168,14 @@
       "content": "NxCode's definitive 2026 AI coding tools ranking (tested on production codebases, not toy examples): #1 Claude Code (Opus 4.6) \u2014 80.8% SWE-bench, best for complex refactoring and large codebase analysis, 1M token context window, Agent Teams for parallel work. Terminal-only. Other top contenders: Cursor, GitHub Copilot, Windsurf, Zed, Kilo Code. Key insight from another review: 'Junior devs with AI tools are shipping faster than senior devs without them.' The gap between AI-assisted and non-AI-assisted development is now a career-defining divide.",
       "createdAt": "2026-03-20T23:00:50.236783Z",
       "tags": []
+    },
+    {
+      "id": "668d712a",
+      "category": "learnings",
+      "title": "Solo Founders Building Million-Dollar AI Businesses (2026)",
+      "content": "Key stats: Solo-founded startups grew from 23.7% (2019) to 36.3% (mid-2025) of all new companies. 41.8M solopreneurs contributing $1.3T to US economy. 38% of seven-figure businesses now led by solopreneurs using AI workflows. A full solopreneur tech stack costs $3K-12K/year (95-98% cheaper than hiring). Operating margins hit 60-80%. Notable examples: Maor Shlomo built Base44 solo, sold to Wix for $80M in 6 months (250K users, profitable). Danny Postma built HeadshotPro to $300K/mo revenue solo from Bali. Anthropic CEO Dario Amodei gave 70-80% odds of first billion-dollar one-person company by 2026. Source: GREY Journal (March 2026)",
+      "createdAt": "2026-03-21T13:01:06.082737Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1225,5 +1233,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-20T23:00:50.236813Z"
+  "lastUpdated": "2026-03-21T13:01:06.082789Z"
 }
