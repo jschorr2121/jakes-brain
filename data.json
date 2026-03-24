@@ -1184,6 +1184,14 @@
       "content": "AI startups accounted for 41% of the $128B in venture dollars raised on Carta in 2025 \u2014 a record-high annual share. March 2026 has already produced more $100M+ AI funding rounds than any comparable period in venture history. Mira Murati and Yann LeCun's startups both raised billion-dollar+ rounds. Key insight: returns so far are actually good, not just hype. The vertical AI playbook (building AI-powered tools for specific industries) is attracting massive seed rounds (e.g., ex-Datadog leader raised $49M seed for AI services tools). Source: techcrunch.com/2026/03/20",
       "createdAt": "2026-03-22T13:00:50.620500Z",
       "tags": []
+    },
+    {
+      "id": "f5183835",
+      "category": "articles",
+      "title": "Lovable (Vibe-Coding AI) Valued at $6.6B, Pursuing Acquisitions",
+      "content": "Lovable, an AI-powered vibe-coding platform, is now valued at $6.6B and announced aggressive acquisition plans on March 23, 2026. Shows the massive market forming around AI-assisted app development \u2014 relevant for Sessions/Plannr and the broader AI dev tools space. Vibe coding (natural language \u2192 working apps) is becoming a real category.",
+      "createdAt": "2026-03-24T13:01:06.320106Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1241,5 +1249,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-22T13:00:50.620529Z"
+  "lastUpdated": "2026-03-24T13:01:06.320136Z"
 }
