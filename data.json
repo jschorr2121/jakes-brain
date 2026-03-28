@@ -1200,6 +1200,14 @@
       "content": "Key trends in AI voice conversation apps (March 2026):\n\n- Real-time personalization and emotion detection becoming standard\n- Voice agents moving beyond rigid IVR to dynamic conversations\n- Top platforms: Lindy, SquadStack AI, PolyAI, CallBotics, Otter AI\n- Focus shifting to 'outcome-driven' agents (qualify leads, book meetings, resolve issues)\n- Multilingual support and high containment rates for enterprise\n- Seamless transitions across channels (voice \u2192 text \u2192 video)\n\nRelevant for Sessions app development - competitive landscape increasingly sophisticated. Need to differentiate on personal reflection/journaling use case vs business/sales focus of most platforms.\n\nSources: Lindy.ai, Vellum.ai, CallBotics.ai (March 2026)",
       "createdAt": "2026-03-28T12:02:11.015873Z",
       "tags": []
+    },
+    {
+      "id": "a2fa5e3a",
+      "category": "ideas",
+      "title": "AI Productivity Tool Trends March 2026",
+      "content": "Hot areas in AI productivity/startup space (March 2026):\n\n**Key Tools Mentioned:**\n- Teal: AI-powered CV optimization and job matching\n- WalterWrites: AI writing + humanization (trending)\n- Notion AI: Enhanced productivity platform\n- Cursor: AI code editor (YC quote: 'only need two tools - Cursor for building')\n- Clarm: All-in-one sales, distribution, support\n- Bond: AI Chief of Staff\n\n**Startup Opportunities:**\n- AI platform development\n- Work productivity automation\n- Process automation tools\n- Consumer-facing AI applications\n- Developer tools with full data privacy\n- Cost-sensitive LLM deployments (for teams spending 00+/month)\n\n**VC Focus Areas:**\n- Work productivity innovations\n- Process automation\n- End-user AI products\n- Developer workflow tools\n\n**Key Insight:** Market consolidating around 'full stack' tools (Cursor + Clarm = complete business stack). Opportunity in niche verticals or privacy-first alternatives.\n\nSources: Zapier, Medium, BuildFastWithAI, YC, Mean.ceo (March 2026)",
+      "createdAt": "2026-03-28T13:02:27.464827Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1257,5 +1265,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-28T12:02:11.015911Z"
+  "lastUpdated": "2026-03-28T13:02:27.464855Z"
 }
