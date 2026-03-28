@@ -1208,6 +1208,14 @@
       "content": "Hot areas in AI productivity/startup space (March 2026):\n\n**Key Tools Mentioned:**\n- Teal: AI-powered CV optimization and job matching\n- WalterWrites: AI writing + humanization (trending)\n- Notion AI: Enhanced productivity platform\n- Cursor: AI code editor (YC quote: 'only need two tools - Cursor for building')\n- Clarm: All-in-one sales, distribution, support\n- Bond: AI Chief of Staff\n\n**Startup Opportunities:**\n- AI platform development\n- Work productivity automation\n- Process automation tools\n- Consumer-facing AI applications\n- Developer tools with full data privacy\n- Cost-sensitive LLM deployments (for teams spending 00+/month)\n\n**VC Focus Areas:**\n- Work productivity innovations\n- Process automation\n- End-user AI products\n- Developer workflow tools\n\n**Key Insight:** Market consolidating around 'full stack' tools (Cursor + Clarm = complete business stack). Opportunity in niche verticals or privacy-first alternatives.\n\nSources: Zapier, Medium, BuildFastWithAI, YC, Mean.ceo (March 2026)",
       "createdAt": "2026-03-28T13:02:27.464827Z",
       "tags": []
+    },
+    {
+      "id": "10251bab",
+      "category": "resources",
+      "title": "Indie SaaS Growth & Launch Strategies 2026",
+      "content": "**Key Finding:** Successful indie launches in 2026 don't just launch on Product Hunt\u2014they launch on 4-5 platforms simultaneously and maintain evergreen listings for ongoing discovery.\n\n**Top Launch Platforms:**\n- Product Hunt (still relevant but crowded)\n- Indie Hackers (best for community building, long-term engagement)\n- Hacker News Show HN (massive exposure for dev tools, brutally honest feedback)\n- Smol Launch (purpose-built for SaaS)\n- There's An AI For That (best for AI tools)\n- OpenHunts, Peerlist (community-focused, free)\n- SaaSHub, AlternativeTo (ongoing SEO value, lead generation)\n- Reddit (r/SideProject, r/SaaS for targeted audiences)\n\n**Growth Tactics:**\n- LinkedIn ads targeting specific job titles (00/month budget test)\n- Multi-platform simultaneous launches (4-5 platforms at once)\n- Evergreen listings for continuous discovery\n- Community engagement on Indie Hackers (share journey, not just product)\n- Long-term SEO via high-authority platforms\n\n**Indie SaaS Stack (Build for /bin/bash):**\n- Free tiers available for: payments, auth, database, hosting, analytics\n- No-code/AI tools enable non-technical founders to build\n- Portfolio approach: some founders building 8k/mo across multiple products\n\n**Strategic Approach:**\n- Launches aren't isolated events\u2014they're part of comprehensive growth strategy\n- Community-focused platforms provide free credibility and feedback\n- High-authority platforms provide ongoing SEO value beyond initial launch\n\nRelevant for: Briefing, Sessions, Plannr launches and growth.\n\nSources: TrustROI, OpenHunts, Poindeo, CuriousMob (2026)",
+      "createdAt": "2026-03-28T15:01:04.016541Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1265,5 +1273,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-28T13:02:27.464855Z"
+  "lastUpdated": "2026-03-28T15:01:04.016571Z"
 }
