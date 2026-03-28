@@ -1192,6 +1192,14 @@
       "content": "Lovable, an AI-powered vibe-coding platform, is now valued at $6.6B and announced aggressive acquisition plans on March 23, 2026. Shows the massive market forming around AI-assisted app development \u2014 relevant for Sessions/Plannr and the broader AI dev tools space. Vibe coding (natural language \u2192 working apps) is becoming a real category.",
       "createdAt": "2026-03-24T13:01:06.320106Z",
       "tags": []
+    },
+    {
+      "id": "22fcd556",
+      "category": "resources",
+      "title": "AI Voice Agent Trends 2026",
+      "content": "Key trends in AI voice conversation apps (March 2026):\n\n- Real-time personalization and emotion detection becoming standard\n- Voice agents moving beyond rigid IVR to dynamic conversations\n- Top platforms: Lindy, SquadStack AI, PolyAI, CallBotics, Otter AI\n- Focus shifting to 'outcome-driven' agents (qualify leads, book meetings, resolve issues)\n- Multilingual support and high containment rates for enterprise\n- Seamless transitions across channels (voice \u2192 text \u2192 video)\n\nRelevant for Sessions app development - competitive landscape increasingly sophisticated. Need to differentiate on personal reflection/journaling use case vs business/sales focus of most platforms.\n\nSources: Lindy.ai, Vellum.ai, CallBotics.ai (March 2026)",
+      "createdAt": "2026-03-28T12:02:11.015873Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1249,5 +1257,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-24T13:01:06.320136Z"
+  "lastUpdated": "2026-03-28T12:02:11.015911Z"
 }
