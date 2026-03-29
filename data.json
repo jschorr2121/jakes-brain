@@ -1224,6 +1224,14 @@
       "content": "Key forecasts from 17 experts at BBC, WSJ, NYT, Semafor, etc on AI's impact on news:\n\n**Five Major Trends:**\n1. **Audiences accessing news through AI** - People increasingly use LLMs/chatbots instead of visiting news sites directly\n2. **Increased demand for verification** - As AI summarizes/synthesizes news, source verification becomes critical\n3. **Automation and agents reshaping newsrooms** - Low-cost AI content production in specialist/local news\n4. **Newsrooms upskilling & building AI infrastructure** - Investment in AI capabilities\n5. **AI empowering data journalism**\n\n**The 'Answer Economy':**\nPeople consume news by asking AI assistants questions like 'How does this affect me?' or 'Summarize this for my industry' rather than reading full articles. Journalism becomes 'a layer inside the Answer Economy' providing source material for AI synthesis.\n\n**Two consumption modes emerging:**\n- **Comfort mode**: Summary + suggested actions\n- **Trust mode**: Demand to see evidence, sources, quotations\n\n**Key quote from Cigdem Oztabak (CNN Turkiye):** 'AI breaks articles into pieces and uses only what it needs. There is no front page or fixed order.'\n\n**Implications for Briefing:**\n- Audio/conversational interfaces becoming primary entry point (we're already doing this with TTS)\n- Personalization key: users want context relevant to their lives/work\n- Brand trust + verification critical as AI intermediates content\n- 'Answer economy' aligns with our briefing format vs traditional article links\n\nSource: https://reutersinstitute.politics.ox.ac.uk/news/how-will-ai-reshape-news-2026-forecasts-17-experts-around-world (Published early 2026)",
       "createdAt": "2026-03-29T10:06:14.172882Z",
       "tags": []
+    },
+    {
+      "id": "dd9ff6d6",
+      "category": "resources",
+      "title": "App Store Optimization (ASO) Best Practices 2026",
+      "content": "Comprehensive ASO guide for maximizing app visibility and downloads in App Store & Google Play.\n\n**Key Elements to Optimize:**\n1. **App Details** - Title/name and description\n2. **App Icon** - Most visually prominent element in search results\n3. **Visuals** - Screenshots, demo videos showing key benefits\n4. **App Rating** - Shown in search results and listing page\n5. **App Reviews** - Users browse before downloading\n6. **First 2 Sentences of Description** - Critical for click-through\n7. **Regular Updates** - Shows commitment, boosts performance\n\n**Why ASO Matters:**\n- **Organic Growth** - Drive downloads without ad spend\n- **Cost-Effective** - Leverages organic traffic vs paid campaigns\n- **Better Retention** - Attracts users who actually need your app\n- **Competitive Edge** - Stand out in saturated market\n- **Global Reach** - Localization strategies for multiple regions\n\n**Critical ASO Strategies:**\n- Keyword optimization (like SEO but for app stores)\n- Compelling visuals (screenshots, videos)\n- High ratings + positive reviews\n- Consistent updates\n- Localization for different markets\n- App Conversion Rate Optimization (CRO) - optimize store page for installs\n\n**Discovery Methods:**\nUsers find apps through:\n- Search queries (keyword-driven)\n- Category rankings\n- Featured sections\n- Recommendations\n\n**For Briefing App:**\n- Need compelling screenshots showing personalized briefings\n- Demo video of audio playback + topic selection\n- Strong first 2 sentences: 'Get personalized AI news briefings on topics you care about. Listen on-the-go with 12 natural voices.'\n- Emphasize: personalization, audio-first, time-saving\n- Keywords: news briefing, personalized news, AI news, audio news, daily briefing\n\n**Tools Mentioned:**\n- SplitMetrics / Storemaven (A/B testing for iOS)\n- Sensor Tower (competitive analysis)\n- Google Play Console (built-in A/B testing)\n\nSource: https://www.techmagnate.com/blog/what-is-app-store-optimization/ (Published Oct 2025, updated for 2026)",
+      "createdAt": "2026-03-29T13:06:29.161563Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1281,5 +1289,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-29T10:06:14.172921Z"
+  "lastUpdated": "2026-03-29T13:06:29.161593Z"
 }
