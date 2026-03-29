@@ -1216,6 +1216,14 @@
       "content": "**Key Finding:** Successful indie launches in 2026 don't just launch on Product Hunt\u2014they launch on 4-5 platforms simultaneously and maintain evergreen listings for ongoing discovery.\n\n**Top Launch Platforms:**\n- Product Hunt (still relevant but crowded)\n- Indie Hackers (best for community building, long-term engagement)\n- Hacker News Show HN (massive exposure for dev tools, brutally honest feedback)\n- Smol Launch (purpose-built for SaaS)\n- There's An AI For That (best for AI tools)\n- OpenHunts, Peerlist (community-focused, free)\n- SaaSHub, AlternativeTo (ongoing SEO value, lead generation)\n- Reddit (r/SideProject, r/SaaS for targeted audiences)\n\n**Growth Tactics:**\n- LinkedIn ads targeting specific job titles (00/month budget test)\n- Multi-platform simultaneous launches (4-5 platforms at once)\n- Evergreen listings for continuous discovery\n- Community engagement on Indie Hackers (share journey, not just product)\n- Long-term SEO via high-authority platforms\n\n**Indie SaaS Stack (Build for /bin/bash):**\n- Free tiers available for: payments, auth, database, hosting, analytics\n- No-code/AI tools enable non-technical founders to build\n- Portfolio approach: some founders building 8k/mo across multiple products\n\n**Strategic Approach:**\n- Launches aren't isolated events\u2014they're part of comprehensive growth strategy\n- Community-focused platforms provide free credibility and feedback\n- High-authority platforms provide ongoing SEO value beyond initial launch\n\nRelevant for: Briefing, Sessions, Plannr launches and growth.\n\nSources: TrustROI, OpenHunts, Poindeo, CuriousMob (2026)",
       "createdAt": "2026-03-28T15:01:04.016541Z",
       "tags": []
+    },
+    {
+      "id": "a0b78d42",
+      "category": "articles",
+      "title": "How AI Will Reshape News in 2026 (Reuters Institute)",
+      "content": "Key forecasts from 17 experts at BBC, WSJ, NYT, Semafor, etc on AI's impact on news:\n\n**Five Major Trends:**\n1. **Audiences accessing news through AI** - People increasingly use LLMs/chatbots instead of visiting news sites directly\n2. **Increased demand for verification** - As AI summarizes/synthesizes news, source verification becomes critical\n3. **Automation and agents reshaping newsrooms** - Low-cost AI content production in specialist/local news\n4. **Newsrooms upskilling & building AI infrastructure** - Investment in AI capabilities\n5. **AI empowering data journalism**\n\n**The 'Answer Economy':**\nPeople consume news by asking AI assistants questions like 'How does this affect me?' or 'Summarize this for my industry' rather than reading full articles. Journalism becomes 'a layer inside the Answer Economy' providing source material for AI synthesis.\n\n**Two consumption modes emerging:**\n- **Comfort mode**: Summary + suggested actions\n- **Trust mode**: Demand to see evidence, sources, quotations\n\n**Key quote from Cigdem Oztabak (CNN Turkiye):** 'AI breaks articles into pieces and uses only what it needs. There is no front page or fixed order.'\n\n**Implications for Briefing:**\n- Audio/conversational interfaces becoming primary entry point (we're already doing this with TTS)\n- Personalization key: users want context relevant to their lives/work\n- Brand trust + verification critical as AI intermediates content\n- 'Answer economy' aligns with our briefing format vs traditional article links\n\nSource: https://reutersinstitute.politics.ox.ac.uk/news/how-will-ai-reshape-news-2026-forecasts-17-experts-around-world (Published early 2026)",
+      "createdAt": "2026-03-29T10:06:14.172882Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1273,5 +1281,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-28T15:01:04.016571Z"
+  "lastUpdated": "2026-03-29T10:06:14.172921Z"
 }
