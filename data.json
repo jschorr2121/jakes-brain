@@ -1256,6 +1256,14 @@
       "content": "**Source:** Lindy AI blog (tested 20+ tools), March 2026\n\n**Key Players:**\n- **Lindy** (0/mo) - Task automation, 4000+ integrations, proactive updates. Focus: work productivity\n- **ChatGPT Voice** (/mo) - Natural conversation, brainstorming, research. No task execution\n- **Otter/Fireflies** (7-18/mo) - Meeting transcription & summaries\n- **ElevenLabs** - Conversational AI platform with CRM/calendar integrations\n- **Synthflow/CloudTalk** - Business phone automation (sales, support)\n\n**Market Gap Identified:**\nMost tools serve either:\n1. Work productivity (meeting notes, task automation, CRM)\n2. Smart home/device control\n3. General Q&A/research\n\n**What's Missing:** Personal development, reflection, journaling, introspection-focused AI conversations. No tool positions itself for 'thinking partner' use cases.\n\n**Sessions Opportunity:**\nJake's Sessions app fills this gap - AI-facilitated phone calls for:\n- Reflection & planning\n- Time-boxed, purpose-driven conversations\n- Ends with summary/action items\n- Personal growth, not productivity\n\n**Positioning:** 'ChatGPT Voice for your inner life' or 'Therapy-adjacent thinking partner'\n\n**Pricing context:** Premium voice AI tools charge -50/mo. Sessions could position at 0-15/mo for unlimited reflection calls.",
       "createdAt": "2026-03-30T13:03:54.757328Z",
       "tags": []
+    },
+    {
+      "id": "23604d3a",
+      "category": "resources",
+      "title": "Subscription App Success 2026: Data-Backed Monetization Strategy",
+      "content": "**Source:** Adapty (B in revenue, 16k+ apps), March 2026\n\n**Critical Reality Check:**\n- 57.7% of subscription apps never cross ,000 total revenue\n- Top 10% of apps capture 95% of all subscription revenue (up from 92.7% in 2023)\n- Below 00K revenue: paywall/pricing tests are premature - you have a product-market fit problem, not a monetization problem\n\n**What Actually Works:**\n1. **Experimentation velocity > Strategy**: Apps running 50+ experiments/year earn 18.7x more than apps running one. Don't 'figure out the right approach' - test continuously.\n\n2. **Test hierarchy** (by win rate):\n   - Localization: 62.3% win rate (highest ROI!)\n   - Trial setup: 59.6%\n   - Plan duration: 58.7%\n   - Visual/copy changes: 34.6% (lowest)\n\n3. **Localization > Repricing**: Regional pricing matters more than global price tweaks. Europe 1.2x US baseline, India 0.6x. Single global price = mispriced everywhere.\n\n4. **Weekly plans dominate**: 55.5% of all subscription revenue (up from 43.3% in 2023). Monthly lost half its share. Weekly + trial = 4.50 LTV vs .40 without trial (636% uplift).\n\n5. **Measure 12-month LTV, not Day 0 conversion**: What maximizes immediate conversions often isn't what maximizes revenue over time.\n\n**For Jake's Apps:**\n- **Briefing**: Focus on PMF first (user retention, engagement). Don't optimize paywall until users prove they find it valuable enough to pay.\n- **Sessions**: Same - validate people actually want AI reflection calls before monetizing. Consider freemium \u2192 weekly subscription model.\n- **Plannr**: Group planning has network effects. Freemium with premium group features could work well.\n\n**Key Insight:** Experimentation infrastructure matters more than any single decision. Build ability to A/B test without app store reviews.",
+      "createdAt": "2026-03-30T16:01:04.983473Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1313,5 +1321,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-30T13:03:54.757356Z"
+  "lastUpdated": "2026-03-30T16:01:04.983510Z"
 }
