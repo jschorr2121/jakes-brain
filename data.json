@@ -1248,6 +1248,14 @@
       "content": "**Source:** CNBC, March 27, 2026\n\n**Key Insight:** Record-breaking surge in business applications (1.56M Nov-Jan, highest since 2004). Workers aren't just getting laid off - they're *preemptively* leaving stable jobs to start businesses, using AI as both motivation (fear of displacement) and tool (makes startups easier).\n\n**Real Examples:**\n- Travis Di Lombardi-Spicer: Left 5k/year audio job, spent 0k (savings + 401k) to launch Spotbookr (AI-powered consumer analytics). Saw budgets shrinking, wanted control.\n- Michelle Yeung: Left 50k/year software engineering at media company, opened Matcha House cafe in NYC. Felt AI would replace her, wanted to build something tangible.\n\n**Trend Drivers:**\n- 40% of workers say AI already overlapping with their job (Resume Now poll)\n- 29% say AI could do half their daily tasks\n- Record-low hiring (116k jobs added in 2025 vs 1.46M in 2024)\n- Erosion of corporate trust + geopolitical instability\n\n**The Shift:** Opportunity cost of entrepreneurship is lower now. Corporate jobs feel less stable. People want control over careers, income, time. AI makes solo businesses more viable.\n\n**For Jake:** This validates the Sessions/Briefing/side project strategy. The market is shifting toward solo/small teams using AI as leverage. Income diversification isn't just smart - it's increasingly necessary insurance against displacement.",
       "createdAt": "2026-03-30T04:02:22.517415Z",
       "tags": []
+    },
+    {
+      "id": "47b0e5c1",
+      "category": "resources",
+      "title": "AI Voice Assistant Landscape 2026 - Competitive Analysis",
+      "content": "**Source:** Lindy AI blog (tested 20+ tools), March 2026\n\n**Key Players:**\n- **Lindy** (0/mo) - Task automation, 4000+ integrations, proactive updates. Focus: work productivity\n- **ChatGPT Voice** (/mo) - Natural conversation, brainstorming, research. No task execution\n- **Otter/Fireflies** (7-18/mo) - Meeting transcription & summaries\n- **ElevenLabs** - Conversational AI platform with CRM/calendar integrations\n- **Synthflow/CloudTalk** - Business phone automation (sales, support)\n\n**Market Gap Identified:**\nMost tools serve either:\n1. Work productivity (meeting notes, task automation, CRM)\n2. Smart home/device control\n3. General Q&A/research\n\n**What's Missing:** Personal development, reflection, journaling, introspection-focused AI conversations. No tool positions itself for 'thinking partner' use cases.\n\n**Sessions Opportunity:**\nJake's Sessions app fills this gap - AI-facilitated phone calls for:\n- Reflection & planning\n- Time-boxed, purpose-driven conversations\n- Ends with summary/action items\n- Personal growth, not productivity\n\n**Positioning:** 'ChatGPT Voice for your inner life' or 'Therapy-adjacent thinking partner'\n\n**Pricing context:** Premium voice AI tools charge -50/mo. Sessions could position at 0-15/mo for unlimited reflection calls.",
+      "createdAt": "2026-03-30T13:03:54.757328Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1305,5 +1313,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-30T04:02:22.517449Z"
+  "lastUpdated": "2026-03-30T13:03:54.757356Z"
 }
