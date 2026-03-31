@@ -1264,6 +1264,14 @@
       "content": "**Source:** Adapty (B in revenue, 16k+ apps), March 2026\n\n**Critical Reality Check:**\n- 57.7% of subscription apps never cross ,000 total revenue\n- Top 10% of apps capture 95% of all subscription revenue (up from 92.7% in 2023)\n- Below 00K revenue: paywall/pricing tests are premature - you have a product-market fit problem, not a monetization problem\n\n**What Actually Works:**\n1. **Experimentation velocity > Strategy**: Apps running 50+ experiments/year earn 18.7x more than apps running one. Don't 'figure out the right approach' - test continuously.\n\n2. **Test hierarchy** (by win rate):\n   - Localization: 62.3% win rate (highest ROI!)\n   - Trial setup: 59.6%\n   - Plan duration: 58.7%\n   - Visual/copy changes: 34.6% (lowest)\n\n3. **Localization > Repricing**: Regional pricing matters more than global price tweaks. Europe 1.2x US baseline, India 0.6x. Single global price = mispriced everywhere.\n\n4. **Weekly plans dominate**: 55.5% of all subscription revenue (up from 43.3% in 2023). Monthly lost half its share. Weekly + trial = 4.50 LTV vs .40 without trial (636% uplift).\n\n5. **Measure 12-month LTV, not Day 0 conversion**: What maximizes immediate conversions often isn't what maximizes revenue over time.\n\n**For Jake's Apps:**\n- **Briefing**: Focus on PMF first (user retention, engagement). Don't optimize paywall until users prove they find it valuable enough to pay.\n- **Sessions**: Same - validate people actually want AI reflection calls before monetizing. Consider freemium \u2192 weekly subscription model.\n- **Plannr**: Group planning has network effects. Freemium with premium group features could work well.\n\n**Key Insight:** Experimentation infrastructure matters more than any single decision. Build ability to A/B test without app store reviews.",
       "createdAt": "2026-03-30T16:01:04.983473Z",
       "tags": []
+    },
+    {
+      "id": "ebfd2860",
+      "category": "learnings",
+      "title": "YC W2026 AI Productivity Startups",
+      "content": "Recent YC-backed productivity startups show strong focus on AI agents for coding and workplace automation:\n\n\u2022 Syntropy - Autonomous coding agent for complex tasks, turns feature descriptions into tested PRs. Slack integration for updates.\n\u2022 Sila - Agentic workspace messaging platform where teams and AI work together\n\u2022 Emdash - Agent-first development environment, open-source desktop app for running multiple coding agents in parallel\n\u2022 Robby - AI growth engine for home services businesses\n\nKey trend: Moving from AI as tool to AI as teammate. Focus on long-running autonomous agents rather than chat interfaces. Workspace integration crucial.\n\nOpportunity areas for Jake:\n- AI-native collaboration tools (vs retrofitting AI into existing tools)\n- Agent orchestration/management platforms\n- Vertical-specific AI agents (like Robby for home services)",
+      "createdAt": "2026-03-31T13:02:26.316814Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1321,5 +1329,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-30T16:01:04.983510Z"
+  "lastUpdated": "2026-03-31T13:02:26.316841Z"
 }
