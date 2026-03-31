@@ -1280,6 +1280,14 @@
       "content": "ElevenAgents: Full platform for building voice AI agents\n\n**Three pillars:**\n1. Configure - Build multimodal agents with developer toolkit, dashboard, or visual workflow builder. Create multi-step conversation workflows.\n2. Deploy - Integrate across telephony (Twilio, Genesys, Vonage), web, and mobile\n3. Monitor - Built-in testing, evals, and analytics for agent performance at scale\n\n**Key features:**\n- Voice-rich, expressive models\n- Natural dialogue for tasks from quick requests to complex workflows\n- Twilio ConversationRelay integration (announced March 2025)\n- Low-latency synthesis (2.83% Word Error Rate)\n- Multilingual and industry-specific customization\n\n**Relevance to Sessions:**\n- Could power more sophisticated voice interactions\n- Workflow builder for structured session types\n- Built-in analytics for conversation quality\n- Twilio integration already in place\n\nDocs: https://elevenlabs.io/docs/eleven-agents/overview",
       "createdAt": "2026-03-31T14:02:02.195765Z",
       "tags": []
+    },
+    {
+      "id": "89b9053a",
+      "category": "ideas",
+      "title": "Passive Income Strategies for Software Engineers 2026",
+      "content": "8 passive income ideas specifically for developers:\n\n1. **AI-Powered Tools & Components** - Specialized AI tools solving specific business problems. High-value pricing due to specialized expertise, recurring revenue via subscriptions/API usage. Key: need proper licensing, commercialization, and distribution infrastructure.\n\n2. **Micro-SaaS** - Small software solving specific problems for niche audiences. Monthly recurring revenue through subscriptions. Success factors: solve real pain point, solid subscription infrastructure, automated customer retention to minimize churn.\n\n3. **Python Automation Scripts** - Market yourself as specialist (not generalist). Build focused tools like React web apps, Shopify sites, or automation scripts.\n\n4. **Website/Domain Flipping** - Assess websites, make improvements, optimize performance, sell for profit. Can be done in spare time, flexible and scalable.\n\n5. **WordPress Plugins** - If you've identified specific problems that can be solved with automation or improved processes.\n\nKey insight: Developers often fail by focusing only on building features and ignoring the infrastructure for licensing, monetization, and distribution. Need proper payment processing, tax compliance, subscription management.\n\n**Relevance to Jake:**\n- Already building products (Briefing, Sessions, Plannr)\n- Could package components/features as standalone tools\n- AI expertise at Morgan Stanley = opportunity for AI-powered tools\n- Could build micro-tools solving specific problems\n\n**Next steps:** Identify pain points in current projects that could become standalone paid tools.",
+      "createdAt": "2026-03-31T16:02:11.122511Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1337,5 +1345,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-31T14:02:02.195802Z"
+  "lastUpdated": "2026-03-31T16:02:11.122542Z"
 }
