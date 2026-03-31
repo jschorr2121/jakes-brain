@@ -1272,6 +1272,14 @@
       "content": "Recent YC-backed productivity startups show strong focus on AI agents for coding and workplace automation:\n\n\u2022 Syntropy - Autonomous coding agent for complex tasks, turns feature descriptions into tested PRs. Slack integration for updates.\n\u2022 Sila - Agentic workspace messaging platform where teams and AI work together\n\u2022 Emdash - Agent-first development environment, open-source desktop app for running multiple coding agents in parallel\n\u2022 Robby - AI growth engine for home services businesses\n\nKey trend: Moving from AI as tool to AI as teammate. Focus on long-running autonomous agents rather than chat interfaces. Workspace integration crucial.\n\nOpportunity areas for Jake:\n- AI-native collaboration tools (vs retrofitting AI into existing tools)\n- Agent orchestration/management platforms\n- Vertical-specific AI agents (like Robby for home services)",
       "createdAt": "2026-03-31T13:02:26.316814Z",
       "tags": []
+    },
+    {
+      "id": "d2848587",
+      "category": "resources",
+      "title": "ElevenLabs ElevenAgents Platform",
+      "content": "ElevenAgents: Full platform for building voice AI agents\n\n**Three pillars:**\n1. Configure - Build multimodal agents with developer toolkit, dashboard, or visual workflow builder. Create multi-step conversation workflows.\n2. Deploy - Integrate across telephony (Twilio, Genesys, Vonage), web, and mobile\n3. Monitor - Built-in testing, evals, and analytics for agent performance at scale\n\n**Key features:**\n- Voice-rich, expressive models\n- Natural dialogue for tasks from quick requests to complex workflows\n- Twilio ConversationRelay integration (announced March 2025)\n- Low-latency synthesis (2.83% Word Error Rate)\n- Multilingual and industry-specific customization\n\n**Relevance to Sessions:**\n- Could power more sophisticated voice interactions\n- Workflow builder for structured session types\n- Built-in analytics for conversation quality\n- Twilio integration already in place\n\nDocs: https://elevenlabs.io/docs/eleven-agents/overview",
+      "createdAt": "2026-03-31T14:02:02.195765Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1329,5 +1337,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-31T13:02:26.316841Z"
+  "lastUpdated": "2026-03-31T14:02:02.195802Z"
 }
