@@ -1288,6 +1288,14 @@
       "content": "8 passive income ideas specifically for developers:\n\n1. **AI-Powered Tools & Components** - Specialized AI tools solving specific business problems. High-value pricing due to specialized expertise, recurring revenue via subscriptions/API usage. Key: need proper licensing, commercialization, and distribution infrastructure.\n\n2. **Micro-SaaS** - Small software solving specific problems for niche audiences. Monthly recurring revenue through subscriptions. Success factors: solve real pain point, solid subscription infrastructure, automated customer retention to minimize churn.\n\n3. **Python Automation Scripts** - Market yourself as specialist (not generalist). Build focused tools like React web apps, Shopify sites, or automation scripts.\n\n4. **Website/Domain Flipping** - Assess websites, make improvements, optimize performance, sell for profit. Can be done in spare time, flexible and scalable.\n\n5. **WordPress Plugins** - If you've identified specific problems that can be solved with automation or improved processes.\n\nKey insight: Developers often fail by focusing only on building features and ignoring the infrastructure for licensing, monetization, and distribution. Need proper payment processing, tax compliance, subscription management.\n\n**Relevance to Jake:**\n- Already building products (Briefing, Sessions, Plannr)\n- Could package components/features as standalone tools\n- AI expertise at Morgan Stanley = opportunity for AI-powered tools\n- Could build micro-tools solving specific problems\n\n**Next steps:** Identify pain points in current projects that could become standalone paid tools.",
       "createdAt": "2026-03-31T16:02:11.122511Z",
       "tags": []
+    },
+    {
+      "id": "b3fe1a43",
+      "category": "learnings",
+      "title": "AI Startup Trends April 2026: Compensation & Strategy Shifts",
+      "content": "KEY INSIGHTS from latest AI startup landscape:\n\n**Compensation Strategy Shift:**\n- AI startups now offering 20k/year base salaries to attract top talent (vs uncertain equity)\n- Signals: trust building, immediate loyalty, competing with big tech for engineers\n- Lesson: In hot markets, cash > promises\n\n**Strategic AI Adoption:**\n- Success requires measurable outcomes (revenue uplift, cost reduction) not just 'using AI'\n- Investors prioritizing startups that can demonstrate clear ROI and strategic value\n- Avoid: building AI for AI's sake without business impact\n\n**Funding Environment:**\n- 31.5B invested in AI startups in recent cycle (+52% growth)\n- Non-AI startup funding down ~10% to 37B\n- Clear signal: AI remains hottest investment category\n\n**Global Innovation Examples:**\n- Zhipu (China): Thriving despite geopolitical pressures through market adaptability\n- Inference Beauty (Zurich): Winning with hyper-focused niche (personalized beauty tech)\n\n**Takeaway for Jake:**\nWhen building AI products, emphasize concrete business value + measurable results. Consider niche focus over broad platform plays. Market still flush with capital for strong execution stories.\n\nSource: https://blog.mean.ceo/ai-startup-trends-april-2026/",
+      "createdAt": "2026-04-01T12:01:43.023200Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1345,5 +1353,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-03-31T16:02:11.122542Z"
+  "lastUpdated": "2026-04-01T12:01:43.023227Z"
 }
