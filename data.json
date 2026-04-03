@@ -1328,6 +1328,14 @@
       "content": "**Key Trends:**\n- AI startups now capture 33% of total VC funding (2026)\n- Autonomous agents & vertical AI platforms dominating\n\n**Top Funded AI Agent Startups:**\n- Sierra: 0B valuation\n- Harvey: B (legal AI)\n- Cursor: 9B (code editor)\n- Cognition AI: B (Devin)\n- Glean: .2B (enterprise search)\n\n**Market Leaders:**\n- OpenAI: 00B valuation\n- xAI: 00B+\n- Anthropic: 83B\n- Databricks: 34B\n\n**Key Insight:** Surge in seed investments for agentic AI. Early-stage rounds seeing higher valuations than historical averages.\n\nSource: aifundingtracker.com, wellows.com (April 2026)",
       "createdAt": "2026-04-03T12:05:16.898533Z",
       "tags": []
+    },
+    {
+      "id": "4036c124",
+      "category": "resources",
+      "title": "Voice AI & Conversational Design Trends 2026",
+      "content": "**Key Trends for Voice AI Products:**\n\n**1. Hybrid Architecture Shift**\n- Moving from cloud-centric to on-device-first, cloud-augmented systems\n- Lower latency, better privacy, works offline\n- Spatial awareness & 3D acoustic scene understanding becoming standard\n\n**2. Emotion Detection & Context**\n- Voice agents detecting emotions in real-time\n- Proactive support based on user state\n- Moving beyond just answering questions to solving problems\n\n**3. Omnichannel Integration**\n- Scale systems across website chat, voice, social apps\n- Seamless transitions between modalities\n- 100% of customer interactions expected to involve AI eventually\n\n**4. Production-Ready Requirements**\n- User training equally important as implementation\n- Focus on natural conversation flows\n- Real-time processing & low-latency responses critical\n\n**Relevant for Sessions:**\n- Emotion detection for reflection quality assessment\n- Hybrid architecture for privacy (sensitive conversations)\n- Natural conversation design patterns\n- Time-boxed session management\n\nSources: ElevenLabs, Kardome, MasterofCode (March 2026)",
+      "createdAt": "2026-04-03T16:07:22.707479Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1385,5 +1393,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-04-03T12:05:16.898561Z"
+  "lastUpdated": "2026-04-03T16:07:22.707512Z"
 }
