@@ -1376,6 +1376,14 @@
       "content": "Key insights for Sessions voice AI development:\n\n**Core Principles (2026):**\n- Barge-in handling: Users must be able to interrupt naturally\n- Context memory: Maintain conversation state across multi-turn dialogue\n- Clear prompts & confirmation feedback\n- Error recovery: Request clarification instead of failing\n- Conversational flow matching natural speech patterns\n\n**Four-Layer Monitoring:**\n1. Infrastructure layer\n2. Execution layer\n3. User reaction\n4. Business outcomes\n\n**2026 Trends:**\n- Multimodal interactions (text + voice + vision)\n- Personalization at scale (adapts to communication styles)\n- Proactive conversations (AI initiates based on user needs)\n- Collaborative agents (multiple specialized agents for complex scenarios)\n\nSources:\n- Fuselabcreative VUI Design Guide 2026\n- Riseup Labs Voice Agent Guide\n- Eleken Voice UI Design\n- InTalk Enterprise AI Voice Expectations\n- AI-AgentsPlus Conversational AI Best Practices",
       "createdAt": "2026-04-07T12:33:58.815923Z",
       "tags": []
+    },
+    {
+      "id": "90adfc6a",
+      "category": "ideas",
+      "title": "AI Side Hustle Income Opportunities 2026",
+      "content": "Recent research on proven AI side hustles generating k+/month:\n\n**Top Opportunities:**\n1. **Custom AI Chatbots for Businesses** - Off-the-shelf or fully custom solutions tailored to specific industries. Custom work commands higher prices but less passive.\n\n2. **AI-Assisted Content Writing** - Blog posts, marketing content, website copy, SEO articles, product descriptions. Businesses need regular content at scale.\n\n3. **AI-Powered Niche Product Research** - Using AI to identify profitable product opportunities and market gaps.\n\n4. **Blogging with AI Tools** - Long-term online business. AI helps generate article ideas, write content, optimize SEO keywords.\n\n5. **Service + Research + Content Creation** - Many tasks that required advanced degrees now doable with good prompting skills.\n\n**Key Insight:** 'Vibe coding' and prompt engineering are opening doors to new businesses. People with good ideas + proper AI vocalization can launch income streams without traditional credentials.\n\n**Jake's Advantage:** Already building AI products (Sessions, Briefing, Plannr). Could:\n- Offer custom AI chatbot development services\n- Create industry-specific AI tools as SaaS products\n- Build AI content generation services for specific niches\n- Leverage existing codebase for client work\n\nSources: RightBlogger, Inc Magazine, Janamana, Ai NexTec (April 2026)",
+      "createdAt": "2026-04-07T13:33:05.039851Z",
+      "tags": []
     }
   ],
   "categories": [
@@ -1433,5 +1441,5 @@
       "icon": "\ud83d\ude80"
     }
   ],
-  "lastUpdated": "2026-04-07T12:33:58.815953Z"
+  "lastUpdated": "2026-04-07T13:33:05.039878Z"
 }
